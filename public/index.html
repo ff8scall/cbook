@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comic Deal Catcher | 만화책 세트 할인 알리미</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>📚 Comic Deal Catcher</h1>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <p id="update-info">오늘의 만화책 세트 할인 정보를 한눈에 확인하세요.</p>
+                <a href="search.html" style="font-size: 0.8rem; color: #666; text-decoration: none; border: 1px solid #ddd; padding: 4px 8px; border-radius: 4px;">🔍 API 조회</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="controls">
+            <div class="filters">
+                <button class="filter-btn active" data-platform="ALL">전체</button>
+                <button class="filter-btn" data-platform="RIDI">리디</button>
+                <button class="filter-btn" data-platform="ALADIN">알라딘</button>
+                <button class="filter-btn" data-platform="KYOBO">교보문고</button>
+                <button class="filter-btn" data-platform="YES24">YES24</button>
+                <button id="adult-toggle" class="toggle-btn">🔞 성인 포함</button>
+            </div>
+            <div class="search-sort">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="작품명 검색...">
+                </div>
+                <div class="sort-box">
+                    <select id="sort-select">
+                        <option value="default">기본순</option>
+                        <option value="discount">할인율순</option>
+                        <option value="price-low">최저가순</option>
+                        <option value="price-high">최고가순</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+
+        <div id="deals-grid" class="deals-grid">
+            <!-- Grid will be injected here -->
+            <p style="text-align: center; padding: 50px;">데이터를 불러오는 중입니다...</p>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aladin API Debugger</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .search-container { max-width: 800px; margin: 50px auto; padding: 20px; background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+        .input-group { display: flex; gap: 10px; margin-bottom: 20px; }
+        input { flex-grow: 1; padding: 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 1rem; }
+        button { padding: 12px 24px; background: #333; color: #fff; border: none; border-radius: 6px; cursor: pointer; font-weight: 600; }
+        button:hover { background: #000; }
+        #json-output { background: #f4f4f4; padding: 20px; border-radius: 8px; overflow-x: auto; white-space: pre-wrap; font-family: 'Courier New', Courier, monospace; font-size: 0.85rem; border: 1px solid #eee; min-height: 200px; }
+        .loading { color: #666; font-style: italic; }
+        .error { color: #e61e51; font-weight: bold; }
+        .nav-link { display: block; margin-top: 20px; text-align: center; color: #666; text-decoration: none; }
+        .nav-link:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h2>🔍 Aladin API 실시간 조회</h2>
+        <p style="margin-bottom: 20px; color: #666;">책 제목을 입력하여 알라딘 API의 원본 JSON 데이터를 확인하세요.</p>
+        
+        <div class="input-group">
+            <input type="text" id="api-search-input" placeholder="검색할 책 제목 입력...">
+            <button id="api-search-btn">조회하기</button>
+        </div>
+
+        <div id="json-output">결과가 여기에 표시됩니다...</div>
+        
+        <a href="index.html" class="nav-link">← 메인 페이지로 돌아가기</a>
+    </div>
+
+    <script>
+        // Note: TTB_KEY는 클라이언트 측에 노출되므로 실제 배포 시에는 백엔드 프록시를 거쳐야 합니다.
+        // 여기서는 로컬 개발용이므로 직접 사용하거나, 사용자가 입력하도록 할 수 있습니다.
+        // 현재 프로젝트의 .env에 있는 키를 임시로 사용하려면 여기에 하드코딩하거나 
+        // 사용자에게 입력받는 창을 띄울 수 있습니다.
+        
+        const btn = document.getElementById('api-search-btn');
+        const input = document.getElementById('api-search-input');
+        const output = document.getElementById('json-output');
+
+        btn.addEventListener('click', async () => {
+            const query = input.value.trim();
+            if (!query) return;
+
+            output.innerHTML = '<span class="loading">알라딘 API 호출 중...</span>';
+
+            // .env에 설정된 사용자의 키를 기본으로 사용
+            let ttbKey = 'ttbff8scall1706001';
+            
+            if (!ttbKey) {
+                ttbKey = localStorage.getItem('ALADIN_TTB_KEY');
+            }
+
+            if (!ttbKey) {
+                output.innerHTML = '<span class="error">TTB_KEY가 필요합니다.</span>';
+                return;
+            }
+
+            try {
+                // CORS 회피를 위해 corsproxy.io 사용 (allorigins보다 안정적)
+                const aladinUrl = `http://www.aladin.co.kr/ttb/api/ItemSearch.aspx?ttbkey=${ttbKey}&Query=${encodeURIComponent(query)}&QueryType=Title&MaxResults=5&start=1&SearchTarget=Book&output=js&Version=20131101`;
+                const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(aladinUrl)}`;
+
+                output.innerHTML = `<span class="loading">알라딘 API 호출 중...</span><br><small style="color:#999; font-size:0.7rem;">원본 URL: <a href="${aladinUrl}" target="_blank" style="color:#999;">직접 열기</a></small>`;
+
+                const response = await fetch(proxyUrl);
+                if (!response.ok) throw new Error(`Proxy Error (${response.status})`);
+                
+                const rawContent = await response.text();
+                
+                try {
+                    // JSON으로 파싱 시도
+                    const jsonData = JSON.parse(rawContent.trim().replace(/;$/, ''));
+                    output.innerText = JSON.stringify(jsonData, null, 2);
+                } catch (e) {
+                    // 파싱 실패 시 원본 텍스트라도 출력
+                    output.innerText = rawContent;
+                }
+            } catch (error) {
+                output.innerHTML = `<span class="error">오류 발생: ${error.message}</span>`;
+            }
+        });
+
+        // 엔터키 지원
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') btn.click();
+        });
+    </script>
+</body>
+</html>
