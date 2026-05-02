@@ -44,6 +44,10 @@ graph TD
 - **`aladin.js`, `ridi.js`, `kyobo.js`, `yes24.js`**: 각 플랫폼별 이벤트 페이지를 Playwright로 탐색하여 **판매 중 상품** 및 **성인물 여부**를 판별하고 데이터를 정규화합니다.
 - **`aladin_master.py`**: ISBN13 기반의 도서 메타데이터(작가, 카테고리 등)를 관리하는 파이썬 모듈입니다.
 
+#### 2. `src/utils/` (유틸리티 레이어)
+- **`aladinApi.js`**: 알라딘 Open API를 연동하여 실시간으로 도서의 **eBook 정가**를 조회하고, 권수 대조(Volume Match) 및 쿼리 재시도(Fallback Query)를 통해 데이터 정합성을 보정합니다.
+- **`notifier.js`**: 수집 중 발생하는 주요 에러나 URL 변동 사항을 텔레그램 등으로 알리는 모듈입니다.
+
 #### 2. `public/data/` (영속성 계층)
 - **`master_comics_db.json`**: 시스템의 기준이 되는 도서 마스터 데이터베이스.
 - **`*_sets.json`**: 각 플랫폼에서 방금 수집된 따끈따끈한 최신 할인 정보 파일. (수집 시마다 초기화됨)
@@ -51,12 +55,15 @@ graph TD
 
 #### 3. `public/` (사용자 인터페이스)
 - **`app.js`**: 플랫폼 간 데이터 병합(Grouping), 최저가 계산, 필터링(성인물, 검색) 핵심 로직 수행.
+- **`index.html`**: 메인 대시보드 화면. (귀여운 저빌 파비콘 적용)
+- **`search.html`**: 알라딘 API 결과를 실시간으로 테스트하고 정가 매칭을 수동 검증할 수 있는 디버거 페이지.
 - **`style.css`**: 다크 모드 기반의 프리미엄 UI 디자인 및 플랫폼별 브랜드 컬러 테마 관리.
 
-### 🛠️ 핵심 기술 스택
-- **Scraper**: Node.js, Playwright (Headless Browser Automation)
-- **Database**: Flat JSON Files (Source of Truth)
-- **Frontend**: Vanilla Javascript (Modern ES6+), CSS Grid/Flexbox
+### 2. 핵심 모듈 구성
+- **Scraper Engine**: 알라딘, 리디, 교보, 예스24 이벤트 페이지 전용 스크레이퍼.
+- **Master DB (aladin_master)**: 약 5,000건의 알라딘 데이터 기반 '정가 기준 저장소'.
+- **Title Normalizer**: 플랫폼별 상이한 상품명을 '순수 제목'으로 변환하여 매칭 성공률 극대화.
+- **Dashboard API (app.js)**: 4개 플랫폼 데이터 통합, 마스터 DB 연동 정가 보정, 그룹화 및 최저가 정렬.
 - **Dev Tools**: npm Scripts (Platform-specific Execution)
 
 ### 🔗 데이터 라이프사이클

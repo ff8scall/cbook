@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Aladin API Debugger</title>
+    <link rel="icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="style.css">
     <style>
         .search-container { max-width: 800px; margin: 50px auto; padding: 20px; background: #fff; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
@@ -20,50 +21,52 @@
 </head>
 <body>
     <div class="search-container">
-        <h2>🔍 Aladin API 실시간 조회</h2>
-        <p style="margin-bottom: 20px; color: #666;">책 제목을 입력하여 알라딘 API의 원본 JSON 데이터를 확인하세요.</p>
+        <h2>🔍 Aladin API 실시간 조회 (전체 검색)</h2>
+        <p style="margin-bottom: 20px; color: #666;">검색 조건(eBook/종이책/전체)을 선택하여 알라딘 API 데이터를 확인하세요.</p>
         
+        <div class="input-group">
+            <select id="query-type" style="padding: 10px; border-radius: 6px; border: 1px solid #ddd;">
+                <option value="Keyword">키워드(Keyword)</option>
+                <option value="Title">제목(Title)</option>
+            </select>
+            <select id="search-target" style="padding: 10px; border-radius: 6px; border: 1px solid #ddd;">
+                <option value="eBook">전자책(eBook)</option>
+                <option value="Book">종이책(Book)</option>
+                <option value="All">전체(All)</option>
+            </select>
+        </div>
         <div class="input-group">
             <input type="text" id="api-search-input" placeholder="검색할 책 제목 입력...">
             <button id="api-search-btn">조회하기</button>
         </div>
 
+        <div id="results-preview" style="margin-bottom: 20px;"></div>
         <div id="json-output">결과가 여기에 표시됩니다...</div>
         
         <a href="index.html" class="nav-link">← 메인 페이지로 돌아가기</a>
     </div>
 
     <script>
-        // Note: TTB_KEY는 클라이언트 측에 노출되므로 실제 배포 시에는 백엔드 프록시를 거쳐야 합니다.
-        // 여기서는 로컬 개발용이므로 직접 사용하거나, 사용자가 입력하도록 할 수 있습니다.
-        // 현재 프로젝트의 .env에 있는 키를 임시로 사용하려면 여기에 하드코딩하거나 
-        // 사용자에게 입력받는 창을 띄울 수 있습니다.
-        
         const btn = document.getElementById('api-search-btn');
         const input = document.getElementById('api-search-input');
+        const queryTypeSelect = document.getElementById('query-type');
+        const targetSelect = document.getElementById('search-target');
         const output = document.getElementById('json-output');
+        const preview = document.getElementById('results-preview');
 
         btn.addEventListener('click', async () => {
             const query = input.value.trim();
             if (!query) return;
 
             output.innerHTML = '<span class="loading">알라딘 API 호출 중...</span>';
+            preview.innerHTML = '';
 
-            // .env에 설정된 사용자의 키를 기본으로 사용
-            let ttbKey = 'ttbff8scall1706001';
-            
-            if (!ttbKey) {
-                ttbKey = localStorage.getItem('ALADIN_TTB_KEY');
-            }
-
-            if (!ttbKey) {
-                output.innerHTML = '<span class="error">TTB_KEY가 필요합니다.</span>';
-                return;
-            }
+            const ttbKey = 'ttbff8scall1706001';
+            const queryType = queryTypeSelect.value;
+            const target = targetSelect.value;
 
             try {
-                // CORS 회피를 위해 corsproxy.io 사용 (allorigins보다 안정적)
-                const aladinUrl = `http://www.aladin.co.kr/ttb/api/ItemSearch.aspx?ttbkey=${ttbKey}&Query=${encodeURIComponent(query)}&QueryType=Title&MaxResults=5&start=1&SearchTarget=Book&output=js&Version=20131101`;
+                const aladinUrl = `http://www.aladin.co.kr/ttb/api/ItemSearch.aspx?ttbkey=${ttbKey}&Query=${encodeURIComponent(query)}&QueryType=${queryType}&MaxResults=10&start=1&SearchTarget=${target}&output=js&Version=20131101`;
                 const proxyUrl = `https://corsproxy.io/?${encodeURIComponent(aladinUrl)}`;
 
                 output.innerHTML = `<span class="loading">알라딘 API 호출 중...</span><br><small style="color:#999; font-size:0.7rem;">원본 URL: <a href="${aladinUrl}" target="_blank" style="color:#999;">직접 열기</a></small>`;
@@ -74,11 +77,27 @@
                 const rawContent = await response.text();
                 
                 try {
-                    // JSON으로 파싱 시도
                     const jsonData = JSON.parse(rawContent.trim().replace(/;$/, ''));
                     output.innerText = JSON.stringify(jsonData, null, 2);
+
+                    if (jsonData.item && jsonData.item.length > 0) {
+                        let html = '<h3>검색 결과 요약</h3><div style="display: grid; gap: 10px;">';
+                        jsonData.item.forEach(item => {
+                            html += `
+                                <div style="padding: 10px; border: 1px solid #eee; border-radius: 6px; font-size: 0.9rem;">
+                                    <strong>[${item.itemId}] ${item.title}</strong><br>
+                                    <span style="color: #666;">저자: ${item.author} | 카테고리: ${item.categoryName}</span><br>
+                                    <span style="color: #e61e51; font-weight: bold;">정가: ${item.priceStandard.toLocaleString()}원</span> 
+                                    | 할인가: ${item.priceSales.toLocaleString()}원
+                                </div>
+                            `;
+                        });
+                        html += '</div>';
+                        preview.innerHTML = html;
+                    } else {
+                        preview.innerHTML = '<p>검색 결과가 없습니다.</p>';
+                    }
                 } catch (e) {
-                    // 파싱 실패 시 원본 텍스트라도 출력
                     output.innerText = rawContent;
                 }
             } catch (error) {
@@ -86,7 +105,6 @@
             }
         });
 
-        // 엔터키 지원
         input.addEventListener('keypress', (e) => {
             if (e.key === 'Enter') btn.click();
         });

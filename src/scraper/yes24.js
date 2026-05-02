@@ -1,8 +1,10 @@
 import { chromium } from 'playwright';
 import { normalize } from '../utils/normalization.js';
+import { sendTelegramAlert } from '../utils/notifier.js';
+import { getAladinBookInfo } from '../utils/aladinApi.js';
 
 export async function scrapeYes24() {
-  const url = 'https://event.yes24.com/detail?eventNo=249660';
+  const url = 'https://event.yes24.com/detail?eventno=249660';
   const browser = await chromium.launch({ headless: true });
   const context = await browser.newContext({
     userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
@@ -10,7 +12,10 @@ export async function scrapeYes24() {
   const page = await context.newPage();
   
   try {
-    await page.goto(url, { waitUntil: 'networkidle' });
+    const response = await page.goto(url, { waitUntil: 'networkidle' });
+    if (!response || response.status() >= 400) {
+      throw new Error(`Page load failed with status ${response ? response.status() : 'unknown'}`);
+    }
     await page.waitForTimeout(2000);
     
     // Find all tabs (dates)
@@ -101,7 +106,31 @@ export async function scrapeYes24() {
       });
     }
     
+    for (const b of allYes24Books) {
+      // 제목 정제
+      const apiTitle = b.title.replace(/\[도서\]|\[eBook\]/g, '').trim();
+      
+      // 가격 또는 이미지 보정이 필요한 경우 API 호출
+      if (b.originalPrice === b.discountPrice || !b.thumbnailUrl || b.thumbnailUrl.includes('placeholder')) {
+        const apiInfo = await getAladinBookInfo(apiTitle);
+        if (apiInfo.price > 0 && b.originalPrice === b.discountPrice) {
+          b.originalPrice = apiInfo.price;
+        }
+        if (apiInfo.cover && (!b.thumbnailUrl || b.thumbnailUrl.includes('placeholder'))) {
+          b.thumbnailUrl = apiInfo.cover;
+        }
+      }
+    }
+    
+    if (allYes24Books.length === 0) {
+      await sendTelegramAlert('예스24 스크래핑 결과가 0건입니다. 이벤트 종료 여부나 페이지 구조를 확인해주세요.');
+    }
+    
     return allYes24Books.map(normalize);
+  } catch (error) {
+    console.error('[YES24] Scraping failed:', error);
+    await sendTelegramAlert(`예스24 스크래핑 중 오류 발생: ${error.message}`);
+    return [];
   } finally {
     await browser.close();
   }
