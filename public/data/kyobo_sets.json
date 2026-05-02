@@ -3,34 +3,34 @@
     "id": "KYOBO_E000011467569",
     "platform": "KYOBO",
     "title": "[세트]진격의 거인(전34권)",
-    "originalPrice": 0,
+    "originalPrice": 102000,
     "discountPrice": 0,
-    "discountRate": 0,
+    "discountRate": 100,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480D240590840.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011467569",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000004347705",
     "platform": "KYOBO",
     "title": "신의 물방울 44권 완결 세트",
-    "originalPrice": 0,
+    "originalPrice": 176000,
     "discountPrice": 0,
-    "discountRate": 0,
+    "discountRate": 100,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/4811705160106.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000004347705",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000011211689",
     "platform": "KYOBO",
     "title": "[세트]나루토(전72권)",
-    "originalPrice": 0,
+    "originalPrice": 288400,
     "discountPrice": 0,
-    "discountRate": 0,
+    "discountRate": 100,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480D161005400.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011211689",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000004356561",
@@ -41,7 +41,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/4812107010068.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000004356561",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000011211119",
@@ -52,7 +52,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480D190904670.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011211119",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000011211288",
@@ -63,7 +63,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480D241264220.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000011211288",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000004348241",
@@ -74,29 +74,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/4811706150052.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000004348241",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012027427",
-    "platform": "KYOBO",
-    "title": "[세트] 귀멸의 칼날 (전23권)",
-    "originalPrice": 69000,
-    "discountPrice": 69000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D210627280.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012027427",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012761909",
-    "platform": "KYOBO",
-    "title": "[세트]오란고교 호스트부(전18권)",
-    "originalPrice": 63000,
-    "discountPrice": 63000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9788925867335.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012761909",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000004350846",
@@ -107,18 +85,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/4811810250037.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000004350846",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012130150",
-    "platform": "KYOBO",
-    "title": "[세트]슬램덩크(전20권)",
-    "originalPrice": 100000,
-    "discountPrice": 100000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D251020690.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012130150",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012761849",
@@ -129,7 +96,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9791125602262.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012761849",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012130150",
+    "platform": "KYOBO",
+    "title": "[세트]슬램덩크(전20권)",
+    "originalPrice": 30000,
+    "discountPrice": 100000,
+    "discountRate": -233,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D251020690.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012130150",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012761909",
+    "platform": "KYOBO",
+    "title": "[세트]오란고교 호스트부(전18권)",
+    "originalPrice": 63000,
+    "discountPrice": 63000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9788925867335.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012761909",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012761253",
@@ -140,95 +129,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00021940.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012761253",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012806462",
+    "id": "KYOBO_E000012027427",
     "platform": "KYOBO",
-    "title": "[30%▼]키리오 팬클럽(전6권)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260426980.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012806462",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012806463",
-    "platform": "KYOBO",
-    "title": "[30%▼]내가 인기 없는 건 아무리 생각해도 너희들 탓이야!(전27권)",
-    "originalPrice": 47260,
-    "discountPrice": 47260,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260426940.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012806463",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012801430",
-    "platform": "KYOBO",
-    "title": "[30%▼]놓친 물고기는 컸지만 잡은 물고기가 너무 컸던 건(전9권)",
-    "originalPrice": 22060,
-    "discountPrice": 22060,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260420400.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012801430",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012862592",
-    "platform": "KYOBO",
-    "title": "[30%▼]블랙 기업의 사원이 고양이가 되어 인생이 바뀐 이야기(전2권)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211240970.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012862592",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012862660",
-    "platform": "KYOBO",
-    "title": "[30%▼]외톨이의 이세계 공략(전10권)",
-    "originalPrice": 31500,
-    "discountPrice": 31500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260339160.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012862660",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012409554",
-    "platform": "KYOBO",
-    "title": "[30%▼]영주님과 개(전3권)",
-    "originalPrice": 9460,
-    "discountPrice": 9460,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D241255970.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012409554",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012574349",
-    "platform": "KYOBO",
-    "title": "[30%▼]30대 후반 아저씨의 이세계 통판 생활(전8권)",
-    "originalPrice": 22400,
-    "discountPrice": 22400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250769760.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012574349",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012865436",
-    "platform": "KYOBO",
-    "title": "[30%▼][코믹] 사상 최악의 가짜 성녀(전5권)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260379240.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865436",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "title": "[세트] 귀멸의 칼날 (전23권)",
+    "originalPrice": 138000,
+    "discountPrice": 69000,
+    "discountRate": 50,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D210627280.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012027427",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012865432",
@@ -239,29 +151,62 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260379260.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865432",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012801449",
+    "id": "KYOBO_E000012409554",
     "platform": "KYOBO",
-    "title": "[30%▼]히어로 씨와 전직 여간부 씨(전4권)",
+    "title": "[30%▼]영주님과 개(전3권)",
+    "originalPrice": 9460,
+    "discountPrice": 9460,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D241255970.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012409554",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012574349",
+    "platform": "KYOBO",
+    "title": "[30%▼]30대 후반 아저씨의 이세계 통판 생활(전8권)",
+    "originalPrice": 22400,
+    "discountPrice": 22400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250769760.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012574349",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012862592",
+    "platform": "KYOBO",
+    "title": "[30%▼]블랙 기업의 사원이 고양이가 되어 인생이 바뀐 이야기(전2권)",
     "originalPrice": 8400,
     "discountPrice": 8400,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240526410.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012801449",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211240970.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012862592",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012801555",
+    "id": "KYOBO_E000012862660",
     "platform": "KYOBO",
-    "title": "[30%▼]유루유리(전22권)",
-    "originalPrice": 46200,
-    "discountPrice": 46200,
+    "title": "[30%▼]외톨이의 이세계 공략(전10권)",
+    "originalPrice": 31500,
+    "discountPrice": 31500,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480M241021080.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012801555",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260339160.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012862660",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012865436",
+    "platform": "KYOBO",
+    "title": "[30%▼][코믹] 사상 최악의 가짜 성녀(전5권)",
+    "originalPrice": 14000,
+    "discountPrice": 14000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260379240.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865436",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012805244",
@@ -272,7 +217,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250605250.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012805244",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012801449",
+    "platform": "KYOBO",
+    "title": "[30%▼]히어로 씨와 전직 여간부 씨(전4권)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240526410.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012801449",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012801555",
+    "platform": "KYOBO",
+    "title": "[30%▼]유루유리(전22권)",
+    "originalPrice": 46200,
+    "discountPrice": 46200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480M241021080.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012801555",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012819976",
@@ -283,51 +250,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260427220.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012819976",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012561254",
-    "platform": "KYOBO",
-    "title": "[30%▼]미묘하게 다정한 불량아(전10권)",
-    "originalPrice": 17500,
-    "discountPrice": 17500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220718910.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012561254",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012820107",
-    "platform": "KYOBO",
-    "title": "[30%▼]대수공과 유니코니스의 소녀(전5권)",
-    "originalPrice": 15760,
-    "discountPrice": 15760,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260302690.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012820107",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012660968",
-    "platform": "KYOBO",
-    "title": "[30%▼]금사빠라 귀여운 네가 좋아(전7권)",
-    "originalPrice": 19600,
-    "discountPrice": 19600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D241089370.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012660968",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012821506",
-    "platform": "KYOBO",
-    "title": "[30%▼]아베가 저를 노리고 있습니다(전9권)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230106620.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012821506",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012819977",
@@ -338,18 +261,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220414350.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012819977",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012834694",
+    "id": "KYOBO_E000012820107",
     "platform": "KYOBO",
-    "title": "[30%▼]황천의 츠가이(전10권)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
+    "title": "[30%▼]대수공과 유니코니스의 소녀(전5권)",
+    "originalPrice": 15760,
+    "discountPrice": 15760,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260462120.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012834694",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260302690.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012820107",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012821506",
+    "platform": "KYOBO",
+    "title": "[30%▼]아베가 저를 노리고 있습니다(전9권)",
+    "originalPrice": 18900,
+    "discountPrice": 18900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230106620.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012821506",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012561254",
+    "platform": "KYOBO",
+    "title": "[30%▼]미묘하게 다정한 불량아(전10권)",
+    "originalPrice": 17500,
+    "discountPrice": 17500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220718910.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012561254",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012660968",
+    "platform": "KYOBO",
+    "title": "[30%▼]금사빠라 귀여운 네가 좋아(전7권)",
+    "originalPrice": 19600,
+    "discountPrice": 19600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D241089370.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012660968",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012828213",
@@ -360,29 +316,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260446350.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012828213",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012828215",
-    "platform": "KYOBO",
-    "title": "[30%▼]쓰레기 용사(전5권)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260435450.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012828215",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012828212",
-    "platform": "KYOBO",
-    "title": "[30%▼]데드 마운트 데스 플레이 외전(전4권)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260445170.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012828212",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012478600",
@@ -393,18 +327,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251061460.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012478600",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012880014",
+    "id": "KYOBO_E000012828212",
     "platform": "KYOBO",
-    "title": "[30%▼]우울한 사기꾼(전8권)",
-    "originalPrice": 26890,
-    "discountPrice": 26890,
+    "title": "[30%▼]데드 마운트 데스 플레이 외전(전4권)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
     "discountRate": 0,
-    "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012880014",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260445170.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012828212",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012828215",
+    "platform": "KYOBO",
+    "title": "[30%▼]쓰레기 용사(전5권)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260435450.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012828215",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012834694",
+    "platform": "KYOBO",
+    "title": "[30%▼]황천의 츠가이(전10권)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260462120.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012834694",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012880123",
@@ -415,7 +371,18 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012880123",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012880014",
+    "platform": "KYOBO",
+    "title": "[30%▼]우울한 사기꾼(전8권)",
+    "originalPrice": 26890,
+    "discountPrice": 26890,
+    "discountRate": 0,
+    "thumbnailUrl": "",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012880014",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012880149",
@@ -426,7 +393,7 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012880149",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012890302",
@@ -437,7 +404,7 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890302",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012880132",
@@ -448,62 +415,7 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012880132",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909539",
-    "platform": "KYOBO",
-    "title": "[30%▼]어쌔신&신데렐라(전4권)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250981760.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909539",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909506",
-    "platform": "KYOBO",
-    "title": "[30%▼]카니발(전28권)",
-    "originalPrice": 58800,
-    "discountPrice": 58800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230214650.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909506",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909535",
-    "platform": "KYOBO",
-    "title": "[30%▼]이세계에서 언니에게 이름을 빼앗겼습니다(전4권)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250711090.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909535",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909484",
-    "platform": "KYOBO",
-    "title": "[30%▼]바로크 기사단(전8권)",
-    "originalPrice": 19600,
-    "discountPrice": 19600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D201022400.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909484",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909527",
-    "platform": "KYOBO",
-    "title": "[30%▼]얼굴도 모르는 남편님께, 이혼을 요구합니다(전4권)",
-    "originalPrice": 10090,
-    "discountPrice": 10090,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455630.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909527",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012909480",
@@ -514,7 +426,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260402100.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909480",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012909484",
+    "platform": "KYOBO",
+    "title": "[30%▼]바로크 기사단(전8권)",
+    "originalPrice": 19600,
+    "discountPrice": 19600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D201022400.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909484",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012909522",
@@ -525,18 +448,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455590.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909522",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012909543",
+    "id": "KYOBO_E000012909506",
     "platform": "KYOBO",
-    "title": "[30%▼]마법사의 약혼자(전4권)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
+    "title": "[30%▼]카니발(전28권)",
+    "originalPrice": 58800,
+    "discountPrice": 58800,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230564180.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909543",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230214650.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909506",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012909510",
@@ -547,139 +470,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250342440.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909510",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012922667",
+    "id": "KYOBO_E000012909535",
     "platform": "KYOBO",
-    "title": "[20%▼]하토코 씨는 때때로 마법소녀(전4권)",
-    "originalPrice": 12170,
-    "discountPrice": 12170,
+    "title": "[30%▼]이세계에서 언니에게 이름을 빼앗겼습니다(전4권)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220509740.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922667",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250711090.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909535",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012922592",
+    "id": "KYOBO_E000012909543",
     "platform": "KYOBO",
-    "title": "[30%▼]고깔모자의 아틀리에(전14권)",
-    "originalPrice": 37240,
-    "discountPrice": 37240,
+    "title": "[30%▼]마법사의 약혼자(전4권)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251194110.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922592",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230564180.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909543",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012922643",
+    "id": "KYOBO_E000012909527",
     "platform": "KYOBO",
-    "title": "[30%▼]은의 밀밭(전3권)",
-    "originalPrice": 7990,
-    "discountPrice": 7990,
+    "title": "[30%▼]얼굴도 모르는 남편님께, 이혼을 요구합니다(전4권)",
+    "originalPrice": 10090,
+    "discountPrice": 10090,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250727090.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922643",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455630.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909527",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012928284",
+    "id": "KYOBO_E000012909539",
     "platform": "KYOBO",
-    "title": "[30%▼]일찍이 마법소녀와 악은 적대하고 있었다(전3권)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
+    "title": "[30%▼]어쌔신&신데렐라(전4권)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200118100.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928284",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922595",
-    "platform": "KYOBO",
-    "title": "[30%▼]슈가슈가 룬(전8권)",
-    "originalPrice": 25200,
-    "discountPrice": 25200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240166420.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922595",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922634",
-    "platform": "KYOBO",
-    "title": "[30%▼]에니데비(전3권)",
-    "originalPrice": 7990,
-    "discountPrice": 7990,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240984310.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922634",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922628",
-    "platform": "KYOBO",
-    "title": "[30%▼]돌아온 지켜줘! 롤리팝(전6권)",
-    "originalPrice": 15970,
-    "discountPrice": 15970,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D221017230.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922628",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928289",
-    "platform": "KYOBO",
-    "title": "[30%▼]스티어의 마녀(전3권)",
-    "originalPrice": 7990,
-    "discountPrice": 7990,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250875550.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928289",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922648",
-    "platform": "KYOBO",
-    "title": "[30%▼]UQ HOLDER!(전28권)",
-    "originalPrice": 68600,
-    "discountPrice": 68600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N230753650.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922648",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922663",
-    "platform": "KYOBO",
-    "title": "[30%▼]마법선생 네기마(전38권)",
-    "originalPrice": 93100,
-    "discountPrice": 93100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D170910080.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922663",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922631",
-    "platform": "KYOBO",
-    "title": "[30%▼]지켜줘! 롤리팝(전7권)",
-    "originalPrice": 18620,
-    "discountPrice": 18620,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D221016770.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922631",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012922625",
-    "platform": "KYOBO",
-    "title": "[30%▼]일찍이 마법소녀와 악은 적대하고 있었다(전3권)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200118100.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922625",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250981760.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909539",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012928287",
@@ -690,40 +525,139 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230394820.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928287",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012268467",
+    "id": "KYOBO_E000012928284",
     "platform": "KYOBO",
-    "title": "[30%▼]약혼자님에게서 도망칠 수 없어(전5권)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
+    "title": "[30%▼]일찍이 마법소녀와 악은 적대하고 있었다(전3권)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240290050.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012268467",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200118100.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928284",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012847342",
+    "id": "KYOBO_E000012922643",
     "platform": "KYOBO",
-    "title": "[30%▼]이웃집 스텔라(전9권)",
+    "title": "[30%▼]은의 밀밭(전3권)",
+    "originalPrice": 7990,
+    "discountPrice": 7990,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250727090.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922643",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922634",
+    "platform": "KYOBO",
+    "title": "[30%▼]에니데비(전3권)",
+    "originalPrice": 7990,
+    "discountPrice": 7990,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240984310.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922634",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922592",
+    "platform": "KYOBO",
+    "title": "[30%▼]고깔모자의 아틀리에(전14권)",
+    "originalPrice": 37240,
+    "discountPrice": 37240,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251194110.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922592",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922625",
+    "platform": "KYOBO",
+    "title": "[30%▼]일찍이 마법소녀와 악은 적대하고 있었다(전3권)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200118100.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922625",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922667",
+    "platform": "KYOBO",
+    "title": "[20%▼]하토코 씨는 때때로 마법소녀(전4권)",
+    "originalPrice": 12170,
+    "discountPrice": 12170,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220509740.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922667",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922663",
+    "platform": "KYOBO",
+    "title": "[30%▼]마법선생 네기마(전38권)",
+    "originalPrice": 93100,
+    "discountPrice": 93100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D170910080.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922663",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922631",
+    "platform": "KYOBO",
+    "title": "[30%▼]지켜줘! 롤리팝(전7권)",
+    "originalPrice": 18620,
+    "discountPrice": 18620,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D221016770.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922631",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922628",
+    "platform": "KYOBO",
+    "title": "[30%▼]돌아온 지켜줘! 롤리팝(전6권)",
+    "originalPrice": 15970,
+    "discountPrice": 15970,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D221017230.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922628",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922648",
+    "platform": "KYOBO",
+    "title": "[30%▼]UQ HOLDER!(전28권)",
+    "originalPrice": 68600,
+    "discountPrice": 68600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N230753650.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922648",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928289",
+    "platform": "KYOBO",
+    "title": "[30%▼]스티어의 마녀(전3권)",
+    "originalPrice": 7990,
+    "discountPrice": 7990,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250875550.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928289",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012922595",
+    "platform": "KYOBO",
+    "title": "[30%▼]슈가슈가 룬(전8권)",
     "originalPrice": 25200,
     "discountPrice": 25200,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260473220.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012847342",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012660958",
-    "platform": "KYOBO",
-    "title": "[30%▼]싫어할 거예요, 사야마 군(전4권)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211215330.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012660958",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240166420.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012922595",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012847343",
@@ -734,18 +668,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260434650.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012847343",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012453419",
-    "platform": "KYOBO",
-    "title": "[30%▼]그 사람의 위장에는 내가 부족해(전6권)",
-    "originalPrice": 14700,
-    "discountPrice": 14700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240466870.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012453419",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012699879",
@@ -756,40 +679,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D221275290.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012699879",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012454240",
+    "id": "KYOBO_E000012268467",
     "platform": "KYOBO",
-    "title": "[30%▼]마왕의 딸은 너무 친절해!!(전6권)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
+    "title": "[30%▼]약혼자님에게서 도망칠 수 없어(전5권)",
+    "originalPrice": 14000,
+    "discountPrice": 14000,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260153920.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012454240",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240290050.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012268467",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012865427",
+    "id": "KYOBO_E000012660958",
     "platform": "KYOBO",
-    "title": "[30%▼]이 힐러, 귀찮아(전9권)",
-    "originalPrice": 22060,
-    "discountPrice": 22060,
+    "title": "[30%▼]싫어할 거예요, 사야마 군(전4권)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260439690.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865427",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211215330.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012660958",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012865431",
+    "id": "KYOBO_E000012453419",
     "platform": "KYOBO",
-    "title": "[30%▼]용과 카멜레온(전8권)",
-    "originalPrice": 19600,
-    "discountPrice": 19600,
+    "title": "[30%▼]그 사람의 위장에는 내가 부족해(전6권)",
+    "originalPrice": 14700,
+    "discountPrice": 14700,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260401390.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865431",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240466870.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012453419",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012847342",
+    "platform": "KYOBO",
+    "title": "[30%▼]이웃집 스텔라(전9권)",
+    "originalPrice": 25200,
+    "discountPrice": 25200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260473220.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012847342",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012861790",
@@ -800,18 +734,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240609980.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012861790",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012861803",
+    "id": "KYOBO_E000012865427",
     "platform": "KYOBO",
-    "title": "[30%▼]오! 나의 여신님(신장판)(전22권)",
-    "originalPrice": 107800,
-    "discountPrice": 107800,
+    "title": "[30%▼]이 힐러, 귀찮아(전9권)",
+    "originalPrice": 22060,
+    "discountPrice": 22060,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260498620.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012861803",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260439690.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865427",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012865424",
@@ -822,7 +756,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260431630.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865424",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012454240",
+    "platform": "KYOBO",
+    "title": "[30%▼]마왕의 딸은 너무 친절해!!(전6권)",
+    "originalPrice": 12600,
+    "discountPrice": 12600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260153920.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012454240",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012861772",
@@ -833,7 +778,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260477720.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012861772",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012865431",
+    "platform": "KYOBO",
+    "title": "[30%▼]용과 카멜레온(전8권)",
+    "originalPrice": 19600,
+    "discountPrice": 19600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260401390.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012865431",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012861803",
+    "platform": "KYOBO",
+    "title": "[30%▼]오! 나의 여신님(신장판)(전22권)",
+    "originalPrice": 107800,
+    "discountPrice": 107800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260498620.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012861803",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012404825",
@@ -844,62 +811,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251265320.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012404825",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012879527",
-    "platform": "KYOBO",
-    "title": "[30%▼]남매 놀이(전2권)",
-    "originalPrice": 4200,
-    "discountPrice": 4200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211011000.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879527",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012890408",
-    "platform": "KYOBO",
-    "title": "[30%▼]모브코의 사랑(전23권)",
-    "originalPrice": 48300,
-    "discountPrice": 48300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260427490.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890408",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012879559",
-    "platform": "KYOBO",
-    "title": "[30%▼]마오의 기숙학교(전3권)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220203790.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879559",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012879567",
-    "platform": "KYOBO",
-    "title": "[30%▼]미녀는 야수(전5권)",
-    "originalPrice": 8760,
-    "discountPrice": 8760,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9788953263789.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879567",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012890426",
-    "platform": "KYOBO",
-    "title": "[30%▼]최애가 부하가 되었습니다(전4권)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N260437060.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890426",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012890397",
@@ -910,7 +822,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260424130.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890397",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012879523",
@@ -921,29 +833,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455070.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879523",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012454774",
+    "id": "KYOBO_E000012879567",
     "platform": "KYOBO",
-    "title": "[30%▼]못난이에게 꽃다발을(전12권)",
-    "originalPrice": 25200,
-    "discountPrice": 25200,
+    "title": "[30%▼]미녀는 야수(전5권)",
+    "originalPrice": 8760,
+    "discountPrice": 8760,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N230923370.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012454774",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9788953263789.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879567",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012879526",
+    "id": "KYOBO_E000012879559",
     "platform": "KYOBO",
-    "title": "[30%▼]무자각 천재소녀는 알아차리지 못한다(전5권)",
-    "originalPrice": 12260,
-    "discountPrice": 12260,
+    "title": "[30%▼]마오의 기숙학교(전3권)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455110.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879526",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220203790.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879559",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012879561",
@@ -954,7 +866,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00128160.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879561",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012454774",
+    "platform": "KYOBO",
+    "title": "[30%▼]못난이에게 꽃다발을(전12권)",
+    "originalPrice": 25200,
+    "discountPrice": 25200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N230923370.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012454774",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012890426",
+    "platform": "KYOBO",
+    "title": "[30%▼]최애가 부하가 되었습니다(전4권)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N260437060.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890426",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012879527",
+    "platform": "KYOBO",
+    "title": "[30%▼]남매 놀이(전2권)",
+    "originalPrice": 4200,
+    "discountPrice": 4200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211011000.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879527",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012879522",
@@ -965,7 +910,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260481400.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879522",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012890408",
+    "platform": "KYOBO",
+    "title": "[30%▼]모브코의 사랑(전23권)",
+    "originalPrice": 48300,
+    "discountPrice": 48300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260427490.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890408",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012879526",
+    "platform": "KYOBO",
+    "title": "[30%▼]무자각 천재소녀는 알아차리지 못한다(전5권)",
+    "originalPrice": 12260,
+    "discountPrice": 12260,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260455110.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879526",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012879566",
@@ -976,7 +943,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9788926307106.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012879566",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012890410",
@@ -987,106 +954,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D251266680.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012890410",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012931449",
-    "platform": "KYOBO",
-    "title": "[30%▼]샹그릴라 프론티어(전24권)",
-    "originalPrice": 58800,
-    "discountPrice": 58800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260452000.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931449",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012358386",
-    "platform": "KYOBO",
-    "title": "[30%▼]나의 행복한 결혼+나의 행복한 결혼 -추상의 기억-(전6권)",
-    "originalPrice": 15760,
-    "discountPrice": 15760,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250699200.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012358386",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012290264",
-    "platform": "KYOBO",
-    "title": "[30%▼]홀로서기 마왕성(전11권)",
-    "originalPrice": 26960,
-    "discountPrice": 26960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251121420.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012290264",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012885565",
-    "platform": "KYOBO",
-    "title": "[20%▼]얼음 성벽(전12권)",
-    "originalPrice": 67200,
-    "discountPrice": 67200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260120820.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012885565",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012544191",
-    "platform": "KYOBO",
-    "title": "[30%▼]나의 히어로 아카데미아(전42권)",
-    "originalPrice": 88200,
-    "discountPrice": 88200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250375570.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012544191",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012885566",
-    "platform": "KYOBO",
-    "title": "[30%▼]정반대의 너와 나(전8권)",
-    "originalPrice": 22400,
-    "discountPrice": 22400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260473700.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012885566",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012911309",
-    "platform": "KYOBO",
-    "title": "[30%▼]칼바니아 이야기(전22권)",
-    "originalPrice": 38500,
-    "discountPrice": 38500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260422850.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012911309",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012358000",
-    "platform": "KYOBO",
-    "title": "[30%▼]나의 행복한 결혼(전5권)",
-    "originalPrice": 12260,
-    "discountPrice": 12260,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N241193220.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012358000",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012909637",
-    "platform": "KYOBO",
-    "title": "[30%▼]겁쟁이 페달 SPARE BIKE(전13권)",
-    "originalPrice": 27300,
-    "discountPrice": 27300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250421900.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909637",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012909832",
@@ -1097,29 +965,7 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909832",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012931453",
-    "platform": "KYOBO",
-    "title": "[30%▼]겁쟁이 페달(전93권)",
-    "originalPrice": 162760,
-    "discountPrice": 162760,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N260449890.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931453",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012911041",
-    "platform": "KYOBO",
-    "title": "[30%▼]다윈즈 게임(전18권)",
-    "originalPrice": 31500,
-    "discountPrice": 31500,
-    "discountRate": 0,
-    "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012911041",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012911322",
@@ -1130,62 +976,128 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N260438300.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012911322",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012931594",
+    "id": "KYOBO_E000012885566",
     "platform": "KYOBO",
-    "title": "[20%▼]원피스 26~50(전25권)",
-    "originalPrice": 60000,
-    "discountPrice": 60000,
+    "title": "[30%▼]정반대의 너와 나(전8권)",
+    "originalPrice": 22400,
+    "discountPrice": 22400,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00072110.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931594",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260473700.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012885566",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012930173",
+    "id": "KYOBO_E000012290264",
     "platform": "KYOBO",
-    "title": "[30%▼]타코피의 원죄(전2권)",
-    "originalPrice": 5600,
-    "discountPrice": 5600,
+    "title": "[30%▼]홀로서기 마왕성(전11권)",
+    "originalPrice": 26960,
+    "discountPrice": 26960,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230796820.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012930173",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251121420.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012290264",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012931598",
+    "id": "KYOBO_E000012909637",
     "platform": "KYOBO",
-    "title": "[20%▼]원피스 76~100(전25권)",
-    "originalPrice": 60000,
-    "discountPrice": 60000,
+    "title": "[30%▼]겁쟁이 페달 SPARE BIKE(전13권)",
+    "originalPrice": 27300,
+    "discountPrice": 27300,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211219870.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931598",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250421900.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012909637",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012886602",
+    "id": "KYOBO_E000012931453",
     "platform": "KYOBO",
-    "title": "[40%▼]엠블럼 TAKE2(전62권)",
-    "originalPrice": 93000,
-    "discountPrice": 93000,
+    "title": "[30%▼]겁쟁이 페달(전93권)",
+    "originalPrice": 162760,
+    "discountPrice": 162760,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N260449890.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931453",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012911041",
+    "platform": "KYOBO",
+    "title": "[30%▼]다윈즈 게임(전18권)",
+    "originalPrice": 31500,
+    "discountPrice": 31500,
     "discountRate": 0,
     "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886602",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012911041",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012928499",
+    "id": "KYOBO_E000012358000",
     "platform": "KYOBO",
-    "title": "[30%▼]꼭두각시 서커스 완전판(전26권)",
-    "originalPrice": 163800,
-    "discountPrice": 163800,
+    "title": "[30%▼]나의 행복한 결혼(전5권)",
+    "originalPrice": 12260,
+    "discountPrice": 12260,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220135270.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928499",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N241193220.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012358000",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012358386",
+    "platform": "KYOBO",
+    "title": "[30%▼]나의 행복한 결혼+나의 행복한 결혼 -추상의 기억-(전6권)",
+    "originalPrice": 15760,
+    "discountPrice": 15760,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250699200.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012358386",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012544191",
+    "platform": "KYOBO",
+    "title": "[30%▼]나의 히어로 아카데미아(전42권)",
+    "originalPrice": 88200,
+    "discountPrice": 88200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250375570.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012544191",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012931449",
+    "platform": "KYOBO",
+    "title": "[30%▼]샹그릴라 프론티어(전24권)",
+    "originalPrice": 58800,
+    "discountPrice": 58800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260452000.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931449",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012885565",
+    "platform": "KYOBO",
+    "title": "[20%▼]얼음 성벽(전12권)",
+    "originalPrice": 67200,
+    "discountPrice": 67200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260120820.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012885565",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012911309",
+    "platform": "KYOBO",
+    "title": "[30%▼]칼바니아 이야기(전22권)",
+    "originalPrice": 38500,
+    "discountPrice": 38500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260422850.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012911309",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012930176",
@@ -1196,216 +1108,7 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012930176",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012929234",
-    "platform": "KYOBO",
-    "title": "[30%▼]클레이 모어(전27권)",
-    "originalPrice": 56700,
-    "discountPrice": 56700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00094000.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929234",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012684775",
-    "platform": "KYOBO",
-    "title": "[20%▼]원피스(전112권)",
-    "originalPrice": 268800,
-    "discountPrice": 268800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251023250.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012684775",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012148195",
-    "platform": "KYOBO",
-    "title": "[30%▼]무한의 주인(신장판)(전30권)",
-    "originalPrice": 63000,
-    "discountPrice": 63000,
-    "discountRate": 0,
-    "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012148195",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928957",
-    "platform": "KYOBO",
-    "title": "[30%▼]YAIBA 야이바 완전판(전10권)",
-    "originalPrice": 66500,
-    "discountPrice": 66500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260333530.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928957",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928966",
-    "platform": "KYOBO",
-    "title": "[30%▼]오늘부터 우리는!!(전38권)",
-    "originalPrice": 79800,
-    "discountPrice": 79800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00088060.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928966",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012886095",
-    "platform": "KYOBO",
-    "title": "[30%▼]감옥학원(PRISON SCHOOL)(전28권)",
-    "originalPrice": 58800,
-    "discountPrice": 58800,
-    "discountRate": 0,
-    "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886095",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012250939",
-    "platform": "KYOBO",
-    "title": "[30%▼]베르세르크(전42권)",
-    "originalPrice": 88200,
-    "discountPrice": 88200,
-    "discountRate": 0,
-    "thumbnailUrl": "",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012250939",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012931596",
-    "platform": "KYOBO",
-    "title": "[20%▼]원피스 51~75(전25권)",
-    "originalPrice": 60000,
-    "discountPrice": 60000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00072360.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931596",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012929004",
-    "platform": "KYOBO",
-    "title": "[30%▼]철야의 노래(전20권)",
-    "originalPrice": 49000,
-    "discountPrice": 49000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250312740.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929004",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928293",
-    "platform": "KYOBO",
-    "title": "[30%▼]결계사 완전판(전18권)",
-    "originalPrice": 100800,
-    "discountPrice": 100800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250871120.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928293",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928383",
-    "platform": "KYOBO",
-    "title": "[30%▼]고고한 사람(전17권)",
-    "originalPrice": 35700,
-    "discountPrice": 35700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/4808968222429.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928383",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928934",
-    "platform": "KYOBO",
-    "title": "[20%▼]맛의 달인(전110권)",
-    "originalPrice": 308000,
-    "discountPrice": 308000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250448470.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928934",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012929230",
-    "platform": "KYOBO",
-    "title": "[30%▼]츠바키쵸 론리 플래닛(전14권)",
-    "originalPrice": 29400,
-    "discountPrice": 29400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200312440.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929230",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012886599",
-    "platform": "KYOBO",
-    "title": "[30%▼]신 쿵후보이 친미(전20권)",
-    "originalPrice": 35000,
-    "discountPrice": 35000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D170826660.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886599",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928838",
-    "platform": "KYOBO",
-    "title": "[30%▼]나루토(전72권)",
-    "originalPrice": 151200,
-    "discountPrice": 151200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D161005400.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928838",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928825",
-    "platform": "KYOBO",
-    "title": "[30%▼]늑대소녀와 흑왕자(전16권)",
-    "originalPrice": 33600,
-    "discountPrice": 33600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00063800.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928825",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012582325",
-    "platform": "KYOBO",
-    "title": "[30%▼]바라카몬(전19권)",
-    "originalPrice": 39900,
-    "discountPrice": 39900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240235710.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012582325",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012577800",
-    "platform": "KYOBO",
-    "title": "[25%▼]금색의 갓슈!! 완전판(전16권)",
-    "originalPrice": 72000,
-    "discountPrice": 72000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230154250.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012577800",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
-  },
-  {
-    "id": "KYOBO_E000012928939",
-    "platform": "KYOBO",
-    "title": "[30%▼]식극의 소마(전36권)",
-    "originalPrice": 75600,
-    "discountPrice": 75600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200400310.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928939",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012928847",
@@ -1416,40 +1119,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D170422090.jpg",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928847",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012931572",
+    "id": "KYOBO_E000012931598",
     "platform": "KYOBO",
-    "title": "[20%▼]원피스 1~25(전25권)",
+    "title": "[20%▼]원피스 76~100(전25권)",
     "originalPrice": 60000,
     "discountPrice": 60000,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00071860.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931572",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211219870.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931598",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012251312",
+    "id": "KYOBO_E000012929234",
     "platform": "KYOBO",
-    "title": "[30%▼]땀과 비누(전11권)",
-    "originalPrice": 26960,
-    "discountPrice": 26960,
+    "title": "[30%▼]클레이 모어(전27권)",
+    "originalPrice": 56700,
+    "discountPrice": 56700,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211106450.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012251312",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00094000.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929234",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
-    "id": "KYOBO_E000012414737",
+    "id": "KYOBO_E000012684775",
     "platform": "KYOBO",
-    "title": "[30%▼]괴수 8호(전16권)",
-    "originalPrice": 39200,
-    "discountPrice": 39200,
+    "title": "[20%▼]원피스(전112권)",
+    "originalPrice": 268800,
+    "discountPrice": 268800,
     "discountRate": 0,
-    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251274310.jpg",
-    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012414737",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251023250.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012684775",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928934",
+    "platform": "KYOBO",
+    "title": "[20%▼]맛의 달인(전110권)",
+    "originalPrice": 308000,
+    "discountPrice": 308000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250448470.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928934",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   },
   {
     "id": "KYOBO_E000012929008",
@@ -1460,6 +1174,259 @@
     "discountRate": 0,
     "thumbnailUrl": "",
     "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929008",
-    "updatedAt": "2026-05-02T05:02:44.238Z"
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012931572",
+    "platform": "KYOBO",
+    "title": "[20%▼]원피스 1~25(전25권)",
+    "originalPrice": 60000,
+    "discountPrice": 60000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00071860.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931572",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928939",
+    "platform": "KYOBO",
+    "title": "[30%▼]식극의 소마(전36권)",
+    "originalPrice": 75600,
+    "discountPrice": 75600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200400310.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928939",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012931596",
+    "platform": "KYOBO",
+    "title": "[20%▼]원피스 51~75(전25권)",
+    "originalPrice": 60000,
+    "discountPrice": 60000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00072360.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931596",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012886095",
+    "platform": "KYOBO",
+    "title": "[30%▼]감옥학원(PRISON SCHOOL)(전28권)",
+    "originalPrice": 58800,
+    "discountPrice": 58800,
+    "discountRate": 0,
+    "thumbnailUrl": "",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886095",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012148195",
+    "platform": "KYOBO",
+    "title": "[30%▼]무한의 주인(신장판)(전30권)",
+    "originalPrice": 63000,
+    "discountPrice": 63000,
+    "discountRate": 0,
+    "thumbnailUrl": "",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012148195",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012931594",
+    "platform": "KYOBO",
+    "title": "[20%▼]원피스 26~50(전25권)",
+    "originalPrice": 60000,
+    "discountPrice": 60000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00072110.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012931594",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928966",
+    "platform": "KYOBO",
+    "title": "[30%▼]오늘부터 우리는!!(전38권)",
+    "originalPrice": 79800,
+    "discountPrice": 79800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00088060.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928966",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012886599",
+    "platform": "KYOBO",
+    "title": "[30%▼]신 쿵후보이 친미(전20권)",
+    "originalPrice": 35000,
+    "discountPrice": 35000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D170826660.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886599",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012250939",
+    "platform": "KYOBO",
+    "title": "[30%▼]베르세르크(전42권)",
+    "originalPrice": 88200,
+    "discountPrice": 88200,
+    "discountRate": 0,
+    "thumbnailUrl": "",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012250939",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928499",
+    "platform": "KYOBO",
+    "title": "[30%▼]꼭두각시 서커스 완전판(전26권)",
+    "originalPrice": 163800,
+    "discountPrice": 163800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D220135270.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928499",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928838",
+    "platform": "KYOBO",
+    "title": "[30%▼]나루토(전72권)",
+    "originalPrice": 151200,
+    "discountPrice": 151200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D161005400.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928838",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928293",
+    "platform": "KYOBO",
+    "title": "[30%▼]결계사 완전판(전18권)",
+    "originalPrice": 100800,
+    "discountPrice": 100800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N250871120.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928293",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928957",
+    "platform": "KYOBO",
+    "title": "[30%▼]YAIBA 야이바 완전판(전10권)",
+    "originalPrice": 66500,
+    "discountPrice": 66500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D260333530.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928957",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012582325",
+    "platform": "KYOBO",
+    "title": "[30%▼]바라카몬(전19권)",
+    "originalPrice": 39900,
+    "discountPrice": 39900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D240235710.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012582325",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012930173",
+    "platform": "KYOBO",
+    "title": "[30%▼]타코피의 원죄(전2권)",
+    "originalPrice": 5600,
+    "discountPrice": 5600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230796820.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012930173",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012577800",
+    "platform": "KYOBO",
+    "title": "[25%▼]금색의 갓슈!! 완전판(전16권)",
+    "originalPrice": 72000,
+    "discountPrice": 72000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D230154250.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012577800",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012929230",
+    "platform": "KYOBO",
+    "title": "[30%▼]츠바키쵸 론리 플래닛(전14권)",
+    "originalPrice": 29400,
+    "discountPrice": 29400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D200312440.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929230",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012251312",
+    "platform": "KYOBO",
+    "title": "[30%▼]땀과 비누(전11권)",
+    "originalPrice": 26960,
+    "discountPrice": 26960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D211106450.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012251312",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012929004",
+    "platform": "KYOBO",
+    "title": "[30%▼]철야의 노래(전20권)",
+    "originalPrice": 49000,
+    "discountPrice": 49000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480D250312740.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012929004",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928825",
+    "platform": "KYOBO",
+    "title": "[30%▼]늑대소녀와 흑왕자(전16권)",
+    "originalPrice": 33600,
+    "discountPrice": 33600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480KC00063800.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928825",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012928383",
+    "platform": "KYOBO",
+    "title": "[30%▼]고고한 사람(전17권)",
+    "originalPrice": 35700,
+    "discountPrice": 35700,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/4808968222429.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012928383",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012414737",
+    "platform": "KYOBO",
+    "title": "[30%▼]괴수 8호(전16권)",
+    "originalPrice": 39200,
+    "discountPrice": 39200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/480N251274310.jpg",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012414737",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
+  },
+  {
+    "id": "KYOBO_E000012886602",
+    "platform": "KYOBO",
+    "title": "[40%▼]엠블럼 TAKE2(전62권)",
+    "originalPrice": 93000,
+    "discountPrice": 93000,
+    "discountRate": 0,
+    "thumbnailUrl": "",
+    "itemUrl": "https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012886602",
+    "updatedAt": "2026-05-02T15:38:27.747Z"
   }
 ]
