@@ -1,58 +1,36 @@
 [
   {
-    "id": "ALADIN_389589329",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 놓친 물고기는 컸지만 잡은 물고기가 너무 컸던 건 (총9권/미완결)",
-    "originalPrice": 22050,
-    "discountPrice": 22050,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38958/93/Cover/E032638571_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389589329",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
     "id": "ALADIN_389589332",
     "platform": "ALADIN",
     "title": "[고화질세트] 내가 인기 없는 건 아무리 생각해도 너희들 탓이야! (총27권/미완결)",
-    "originalPrice": 47250,
-    "discountPrice": 47250,
+    "originalPrice": 67500,
+    "discountPrice": 67500,
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38958/93/Cover/E162638571_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389589332",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.520Z"
+  },
+  {
+    "id": "ALADIN_389589329",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 놓친 물고기는 컸지만 잡은 물고기가 너무 컸던 건 (총9권/미완결)",
+    "originalPrice": 31500,
+    "discountPrice": 31500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38958/93/Cover/E032638571_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389589329",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_389589330",
     "platform": "ALADIN",
     "title": "[고화질세트] 키리오 팬클럽 (총6권/완결)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
+    "originalPrice": 27000,
+    "discountPrice": 27000,
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38958/93/Cover/E042638571_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389589330",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_315791532",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 봄을 기다리는 우리들 (총14권/완결)",
-    "originalPrice": 34300,
-    "discountPrice": 34300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/31579/15/Cover/E202531212_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315791532",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_389405529",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 운명의 사람을 만나는 이야기 (총7권/미완결)",
-    "originalPrice": 18620,
-    "discountPrice": 18620,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38940/55/Cover/E192638173_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389405529",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_343843720",
@@ -61,31 +39,20 @@
     "originalPrice": 23100,
     "discountPrice": 23100,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/34384/37/Cover/E472533533_1.jpg",
+    "thumbnailUrl": "https://image.aladin.co.kr/product/34384/37/Cover/E472533533_EDA7.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343843720",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_333772468",
     "platform": "ALADIN",
     "title": "[고화질세트] 아하렌 양은 알 수가 없어 (총17권/완결)",
-    "originalPrice": 41650,
-    "discountPrice": 41650,
+    "originalPrice": 59500,
+    "discountPrice": 59500,
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33377/24/Cover/E432532632_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333772468",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_73747698",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 스모모모모모모 (총12권/완결)",
-    "originalPrice": 29400,
-    "discountPrice": 29400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/7374/76/Cover/E632438444_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=73747698",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_388432958",
@@ -94,20 +61,9 @@
     "originalPrice": 39900,
     "discountPrice": 39900,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38843/29/Cover/E372638066_1.jpg",
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38843/29/Cover/E372638066_30B0.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388432958",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_366699708",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 카미이나 보탄, 취한 모습은 백합의 꽃 (총5권/미완결)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/36669/97/Cover/E102635450_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366699708",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_378351789",
@@ -118,7 +74,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37835/17/Cover/E352637072_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=378351789",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_366699708",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 카미이나 보탄, 취한 모습은 백합의 꽃 (총5권/미완결)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/36669/97/Cover/E102635450_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366699708",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_359933899",
@@ -129,7 +96,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=359933899",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_175959532",
@@ -140,7 +107,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=175959532",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_322635366",
@@ -151,7 +118,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32263/53/Cover/E202532766_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322635366",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_387508471",
@@ -162,29 +129,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38750/84/Cover/E402637755_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387508471",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_81854265",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 4월은 너의 거짓말 (총11권/완결)",
-    "originalPrice": 26950,
-    "discountPrice": 26950,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/8185/42/Cover/E432439302_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81854265",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_389533226",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 4월은 너의 거짓말 + Coda (총12권/완결)",
-    "originalPrice": 30100,
-    "discountPrice": 30100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38953/32/Cover/E672638470_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389533226",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_326540244",
@@ -195,7 +140,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32654/2/Cover/E222532583_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=326540244",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_81854265",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 4월은 너의 거짓말 (총11권/완결)",
+    "originalPrice": 26950,
+    "discountPrice": 26950,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/8185/42/Cover/E432439302_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=81854265",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_389533226",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 4월은 너의 거짓말 + Coda (총12권/완결)",
+    "originalPrice": 30100,
+    "discountPrice": 30100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38953/32/Cover/E672638470_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389533226",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_384954550",
@@ -206,18 +173,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38495/45/Cover/E622637123_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384954550",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_326540048",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 해피니스 (총10권/완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=326540048",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_340142306",
@@ -228,7 +184,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34014/23/Cover/E102533294_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340142306",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_326540048",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 해피니스 (총10권/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=326540048",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_340469515",
@@ -239,7 +206,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34046/95/Cover/E822533495_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340469515",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_376248923",
@@ -250,7 +217,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37624/89/Cover/E672637769_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=376248923",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390901103",
@@ -261,51 +228,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39090/11/Cover/E412638098_19A8.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390901103",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_389475484",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 악마에 입문했습니다! 이루마 군 (총45권/미완결)",
-    "originalPrice": 94500,
-    "discountPrice": 94500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38947/54/Cover/E702638275_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389475484",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_141241654",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 우리는 모두 죽었다 (총10권/완결)",
-    "originalPrice": 21000,
-    "discountPrice": 21000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/14124/16/Cover/E892433365_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=141241654",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_390901100",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 에미야 가의 오늘의 밥상 (총11권/미완결)",
-    "originalPrice": 32550,
-    "discountPrice": 32550,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39090/11/Cover/E402638098_85F3.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390901100",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_351825711",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 유루유리 (총22권/미완결)",
-    "originalPrice": 46200,
-    "discountPrice": 46200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/35182/57/Cover/E902534107_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351825711",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390901104",
@@ -316,18 +239,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39090/11/Cover/E422638098_FFA4.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390901104",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_391511460",
+    "id": "ALADIN_389475484",
     "platform": "ALADIN",
-    "title": "[고화질세트] [GL] 커피 문 (총6권/완결)",
-    "originalPrice": 14700,
-    "discountPrice": 14700,
+    "title": "[고화질세트] 악마에 입문했습니다! 이루마 군 (총45권/미완결)",
+    "originalPrice": 94500,
+    "discountPrice": 94500,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E172638703_1FA7.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511460",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38947/54/Cover/E702638275_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389475484",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_141241654",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 우리는 모두 죽었다 (총10권/완결)",
+    "originalPrice": 21000,
+    "discountPrice": 21000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/14124/16/Cover/E892433365_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=141241654",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_390901100",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 에미야 가의 오늘의 밥상 (총11권/미완결)",
+    "originalPrice": 32550,
+    "discountPrice": 32550,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39090/11/Cover/E402638098_85F3.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390901100",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_351825711",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 유루유리 (총22권/미완결)",
+    "originalPrice": 46200,
+    "discountPrice": 46200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/35182/57/Cover/E902534107_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351825711",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343548",
@@ -338,7 +294,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E812638281_087B.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343548",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_389405166",
@@ -349,29 +305,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38940/51/Cover/E982638173_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389405166",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_322857148",
+    "id": "ALADIN_391511460",
     "platform": "ALADIN",
-    "title": "[고화질세트] 고양이와 키스 (총6권/완결)",
-    "originalPrice": 13440,
-    "discountPrice": 13440,
+    "title": "[고화질세트] [GL] 커피 문 (총6권/완결)",
+    "originalPrice": 14700,
+    "discountPrice": 14700,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/32285/71/Cover/E352532967_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322857148",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_352704854",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 전 남친이 부남자가 되었습니다. (총7권/완결)",
-    "originalPrice": 17640,
-    "discountPrice": 17640,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/35270/48/Cover/E342534016_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352704854",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E172638703_1FA7.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511460",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_352360071",
@@ -382,7 +327,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35236/0/Cover/E122534604_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352360071",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_322857148",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 고양이와 키스 (총6권/완결)",
+    "originalPrice": 13440,
+    "discountPrice": 13440,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/32285/71/Cover/E352532967_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322857148",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_352704854",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 전 남친이 부남자가 되었습니다. (총7권/완결)",
+    "originalPrice": 17640,
+    "discountPrice": 17640,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/35270/48/Cover/E342534016_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352704854",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_336635410",
@@ -393,29 +360,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33663/54/Cover/E502532452_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336635410",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_390992356",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 산과 식욕과 나 (총11권/미완결)",
-    "originalPrice": 31850,
-    "discountPrice": 31850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39099/23/Cover/E942638191_97BD.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390992356",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_303931685",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 내 여친은 최고입니다! (총6권/완결)",
-    "originalPrice": 15960,
-    "discountPrice": 15960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/30393/16/Cover/E802530436_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303931685",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343573",
@@ -426,18 +371,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E962638282_A77A.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343573",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_390343572",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 최애가 오빠가 되었습니다 (총8권/미완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E952638282_03E1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343572",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_48845666",
@@ -448,7 +382,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/4884/56/Cover/E422437968_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=48845666",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_303931685",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 내 여친은 최고입니다! (총6권/완결)",
+    "originalPrice": 15960,
+    "discountPrice": 15960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/30393/16/Cover/E802530436_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=303931685",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_390992356",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 산과 식욕과 나 (총11권/미완결)",
+    "originalPrice": 31850,
+    "discountPrice": 31850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39099/23/Cover/E942638191_97BD.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390992356",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_390343572",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 최애가 오빠가 되었습니다 (총8권/미완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E952638282_03E1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343572",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_365815593",
@@ -459,7 +426,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=365815593",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_337827748",
@@ -470,7 +437,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33782/77/Cover/E382533773_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337827748",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_324278256",
@@ -481,7 +448,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32427/82/Cover/E982532970_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324278256",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_353403082",
@@ -492,7 +459,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35340/30/Cover/E962534926_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353403082",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_389309111",
@@ -503,7 +470,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38930/91/Cover/E242638074_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389309111",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_387132499",
@@ -514,7 +481,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38713/24/Cover/E352637449_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387132499",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_299897937",
@@ -525,18 +492,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/29989/79/Cover/E502530013_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299897937",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_292682406",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 캐릭캐릭 체인지! 신장판 (총6권/완결)",
-    "originalPrice": 33600,
-    "discountPrice": 33600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/29268/24/Cover/E482530966_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292682406",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390270494",
@@ -547,7 +503,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39027/4/Cover/E342638186_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390270494",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_292682406",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 캐릭캐릭 체인지! 신장판 (총6권/완결)",
+    "originalPrice": 33600,
+    "discountPrice": 33600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/29268/24/Cover/E482530966_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292682406",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_349363565",
@@ -558,7 +525,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34936/35/Cover/E542534584_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=349363565",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_298751796",
@@ -569,7 +536,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/29875/17/Cover/E652530209_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298751796",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390270496",
@@ -580,7 +547,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39027/4/Cover/E462638186_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390270496",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_309665151",
@@ -591,7 +558,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/30966/51/Cover/E732531971_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=309665151",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390274677",
@@ -602,7 +569,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39027/46/Cover/E312638187_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390274677",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390270523",
@@ -613,18 +580,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39027/5/Cover/E672638186_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390270523",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391647601",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 전하, 당신이 버린 여자가 진짜 성녀입니다 (총2권/미완결)",
-    "originalPrice": 6400,
-    "discountPrice": 6400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/76/Cover/E162638802_97E9.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647601",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391647599",
@@ -635,7 +591,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E152638802_FD3E.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647599",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_389861913",
@@ -646,7 +602,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38986/19/Cover/E762638674_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389861913",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_328753657",
@@ -657,7 +613,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32875/36/Cover/E252532704_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328753657",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391647601",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 전하, 당신이 버린 여자가 진짜 성녀입니다 (총2권/미완결)",
+    "originalPrice": 6400,
+    "discountPrice": 6400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/76/Cover/E162638802_97E9.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647601",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_301474016",
@@ -668,7 +635,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/30147/40/Cover/E042530024_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301474016",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_350617984",
@@ -679,7 +646,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35061/79/Cover/E792534394_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=350617984",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343582",
@@ -690,7 +657,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E902638282_129F.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343582",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343431",
@@ -701,7 +668,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/34/Cover/E762638281_F157.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343431",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343584",
@@ -712,18 +679,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/35/Cover/E922638282_88E0.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343584",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_375684079",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 데드 마운트 데스 플레이 (총15권/미완결)",
-    "originalPrice": 36750,
-    "discountPrice": 36750,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375684079",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390343389",
@@ -734,7 +690,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39034/33/Cover/E682638281_1C98.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390343389",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_375684079",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 데드 마운트 데스 플레이 (총15권/미완결)",
+    "originalPrice": 36750,
+    "discountPrice": 36750,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=375684079",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_299437898",
@@ -745,7 +712,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299437898",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_111614195",
@@ -756,7 +723,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/11161/41/Cover/E822431462_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=111614195",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_388494793",
@@ -767,7 +734,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38849/47/Cover/E782638167_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388494793",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_126033355",
@@ -778,18 +745,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/12603/33/Cover/E292432791_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=126033355",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391693264",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 미카코 72세 (총4권/완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39169/32/Cover/E882638905_08BF.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693264",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391798713",
@@ -800,7 +756,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39179/87/Cover/E432638005_BE7D.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391798713",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391693264",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 미카코 72세 (총4권/완결)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39169/32/Cover/E882638905_08BF.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693264",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390745641",
@@ -811,7 +778,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39074/56/Cover/E622638893_97B2.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390745641",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391180119",
@@ -822,7 +789,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39118/1/Cover/E532638392_D819.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391180119",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_330834053",
@@ -833,7 +800,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33083/40/Cover/E302532517_7C59.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330834053",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_371103645",
@@ -844,7 +811,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37110/36/Cover/E782636119_5D62.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=371103645",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_346872737",
@@ -855,7 +822,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34687/27/Cover/E592534773_45D8.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346872737",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_285402721",
@@ -866,7 +833,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/28540/27/Cover/E942539107_2BE9.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285402721",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_222528294",
@@ -877,7 +844,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=222528294",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_336198855",
@@ -888,18 +855,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336198855",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_369364531",
-    "platform": "ALADIN",
-    "title": "[고화질세트] GAME ~슈트의 틈새~ (총5권/미완결)",
-    "originalPrice": 14400,
-    "discountPrice": 14400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369364531",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390881604",
@@ -910,7 +866,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39088/16/Cover/E972638098_1223.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390881604",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_369364532",
@@ -921,18 +877,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369364532",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_237410138",
+    "id": "ALADIN_369364531",
     "platform": "ALADIN",
-    "title": "[고화질세트] 짝사랑 서점 (총3권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
+    "title": "[고화질세트] GAME ~슈트의 틈새~ (총5권/미완결)",
+    "originalPrice": 14400,
+    "discountPrice": 14400,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/23741/1/Cover/E402537897_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237410138",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369364531",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_324691174",
@@ -943,7 +899,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324691174",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_237410138",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 짝사랑 서점 (총3권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/23741/1/Cover/E402537897_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=237410138",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973600",
@@ -954,7 +921,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/36/Cover/E342638190_3696.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973600",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391511451",
@@ -965,29 +932,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E022638703_C750.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511451",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_137874432",
-    "platform": "ALADIN",
-    "title": "[세트] 카스텔라 레시피 (총22권/완결)",
-    "originalPrice": 43120,
-    "discountPrice": 43120,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/13787/44/Cover/E192432837_3AF7.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=137874432",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_390973602",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 부장님과 회사 노예의 사랑은 안타까워 (총6권/미완결)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39097/36/Cover/E452638190_831F.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973602",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_384728115",
@@ -998,7 +943,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38472/81/Cover/E542637724_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384728115",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_137874432",
+    "platform": "ALADIN",
+    "title": "[세트] 카스텔라 레시피 (총22권/완결)",
+    "originalPrice": 43120,
+    "discountPrice": 43120,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/13787/44/Cover/E192432837_3AF7.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=137874432",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_384100673",
@@ -1009,7 +965,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38410/6/Cover/E532637013_D837.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384100673",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_353761196",
@@ -1020,7 +976,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35376/11/Cover/E332534626_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353761196",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_114083301",
@@ -1031,7 +987,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/11408/33/Cover/E362431476_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114083301",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_390973602",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 부장님과 회사 노예의 사랑은 안타까워 (총6권/미완결)",
+    "originalPrice": 12600,
+    "discountPrice": 12600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39097/36/Cover/E452638190_831F.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973602",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_335107316",
@@ -1042,7 +1009,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33510/73/Cover/E642532344_1E39.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335107316",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973605",
@@ -1053,7 +1020,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/36/Cover/E462638190_02B9.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973605",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_284917861",
@@ -1064,7 +1031,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/28491/78/Cover/E972539909_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284917861",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_307440141",
@@ -1075,7 +1042,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/30744/1/Cover/E822530457_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=307440141",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390881552",
@@ -1086,7 +1053,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39088/15/Cover/E822638997_56DE.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390881552",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_338610158",
@@ -1097,7 +1064,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33861/1/Cover/E152533576_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338610158",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_334861518",
@@ -1108,7 +1075,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33486/15/Cover/E042532246_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334861518",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390881553",
@@ -1119,95 +1086,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39088/15/Cover/E832638997_CC62.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390881553",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391164009",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 싫어하는 네가 좋아 (총8권/완결)",
-    "originalPrice": 22400,
-    "discountPrice": 22400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391164009",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391647568",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 프릭스 프리크 컴퍼니 (FREAKS FREAK COMPANY) (총2권/완결)",
-    "originalPrice": 5320,
-    "discountPrice": 5320,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E072638802_B69A.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647568",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_95420450",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 다이아몬드 에이스 (총47권/완결)",
-    "originalPrice": 115150,
-    "discountPrice": 115150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/9542/4/Cover/E322430088_447C.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=95420450",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_269123633",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 기숙학교의 줄리엣 (총16권/완결)",
-    "originalPrice": 39200,
-    "discountPrice": 39200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/26912/36/Cover/E612538399_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269123633",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_84604859",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 뱀파이어 기사 (총19권/완결)",
-    "originalPrice": 53200,
-    "discountPrice": 53200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/8460/48/Cover/E862439321_93B0.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84604859",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391647565",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 뱀파이어 기사 memories (총10권/미완결)",
-    "originalPrice": 30400,
-    "discountPrice": 30400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E062638802_3991.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647565",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_336198611",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 다이아몬드 에이스 actⅡ (총34권/완결)",
-    "originalPrice": 83300,
-    "discountPrice": 83300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/33619/86/Cover/E622532057_E054.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336198611",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_344332172",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 소녀와 삽과 마안왕 (총4권/미완결)",
-    "originalPrice": 10640,
-    "discountPrice": 10640,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/34433/21/Cover/E102533343_E97A.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344332172",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_392228932",
@@ -1218,18 +1097,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39222/89/Cover/E042638209_4A9C.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392228932",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_392230886",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 최약인 나는 <벽 통과 버그>로 출세한다 (총2권/미완결)",
-    "originalPrice": 6400,
-    "discountPrice": 6400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39223/8/Cover/E982638301_A8DF.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392230886",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391693271",
@@ -1240,18 +1108,106 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39169/32/Cover/E802638905_FE04.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693271",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_391262019",
+    "id": "ALADIN_391164009",
     "platform": "ALADIN",
-    "title": "[고화질세트] 코이가쿠보 군에게 처음을 빼앗겼습니다 (총9권/미완결)",
-    "originalPrice": 23940,
-    "discountPrice": 23940,
+    "title": "[고화질세트] 싫어하는 네가 좋아 (총8권/완결)",
+    "originalPrice": 22400,
+    "discountPrice": 22400,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39126/20/Cover/E272638499_943D.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391262019",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391164009",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391647568",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 프릭스 프리크 컴퍼니 (FREAKS FREAK COMPANY) (총2권/완결)",
+    "originalPrice": 5320,
+    "discountPrice": 5320,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E072638802_B69A.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647568",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_95420450",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 다이아몬드 에이스 (총47권/완결)",
+    "originalPrice": 115150,
+    "discountPrice": 115150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/9542/4/Cover/E322430088_447C.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=95420450",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_269123633",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 기숙학교의 줄리엣 (총16권/완결)",
+    "originalPrice": 39200,
+    "discountPrice": 39200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/26912/36/Cover/E612538399_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=269123633",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_336198611",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 다이아몬드 에이스 actⅡ (총34권/완결)",
+    "originalPrice": 83300,
+    "discountPrice": 83300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/33619/86/Cover/E622532057_E054.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=336198611",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_84604859",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 뱀파이어 기사 (총19권/완결)",
+    "originalPrice": 53200,
+    "discountPrice": 53200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/8460/48/Cover/E862439321_93B0.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=84604859",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_392230886",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 최약인 나는 <벽 통과 버그>로 출세한다 (총2권/미완결)",
+    "originalPrice": 6400,
+    "discountPrice": 6400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39223/8/Cover/E982638301_A8DF.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392230886",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391647565",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 뱀파이어 기사 memories (총10권/미완결)",
+    "originalPrice": 30400,
+    "discountPrice": 30400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E062638802_3991.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647565",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_344332172",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 소녀와 삽과 마안왕 (총4권/미완결)",
+    "originalPrice": 10640,
+    "discountPrice": 10640,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/34433/21/Cover/E102533343_E97A.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=344332172",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973783",
@@ -1262,18 +1218,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/37/Cover/E562638190_9E80.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973783",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391693149",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 10년 뒤의 카즈미짱 (총2권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39169/31/Cover/E542638905_5D27.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693149",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391693171",
@@ -1284,7 +1229,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39169/31/Cover/E622638905_B8B4.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693171",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391262019",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 코이가쿠보 군에게 처음을 빼앗겼습니다 (총9권/미완결)",
+    "originalPrice": 23940,
+    "discountPrice": 23940,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39126/20/Cover/E272638499_943D.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391262019",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391693149",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 10년 뒤의 카즈미짱 (총2권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39169/31/Cover/E542638905_5D27.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693149",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_50248217",
@@ -1295,18 +1262,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/5024/82/Cover/E082437702_50C2.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=50248217",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_384176970",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 마왕의 딸은 너무 친절해!! (총6권/미완결)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38417/69/Cover/E812637210_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384176970",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_340931541",
@@ -1317,7 +1273,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34093/15/Cover/E252533905_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=340931541",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_384176970",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 마왕의 딸은 너무 친절해!! (총6권/미완결)",
+    "originalPrice": 12600,
+    "discountPrice": 12600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38417/69/Cover/E812637210_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384176970",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390549706",
@@ -1328,7 +1295,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39054/97/Cover/E382638582_280B.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390549706",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_349227850",
@@ -1339,7 +1306,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=349227850",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_76186328",
@@ -1350,7 +1317,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=76186328",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_305993482",
@@ -1361,7 +1328,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/30599/34/Cover/E972530646_FE5C.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=305993482",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_335779121",
@@ -1372,7 +1339,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33577/91/Cover/E952532851_C351.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335779121",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973787",
@@ -1383,7 +1350,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/37/Cover/E572638190_8FFF.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973787",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391693146",
@@ -1394,7 +1361,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39169/31/Cover/E522638905_6C75.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693146",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391693148",
@@ -1405,7 +1372,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39169/31/Cover/E532638905_EF06.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391693148",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973788",
@@ -1416,7 +1383,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/37/Cover/E582638190_7535.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973788",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390973792",
@@ -1427,7 +1394,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39097/37/Cover/E592638190_F6BE.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390973792",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391164010",
@@ -1438,7 +1405,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39116/40/Cover/E922638399_FD1E.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391164010",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_390746510",
@@ -1449,7 +1416,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39074/65/Cover/E732638894_72E4.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=390746510",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_333294009",
@@ -1460,7 +1427,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33329/40/Cover/E672532134_12DB.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333294009",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_319759951",
@@ -1471,7 +1438,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/31975/99/Cover/E092531844_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319759951",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_233720542",
@@ -1482,7 +1449,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/23372/5/Cover/E372537368_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=233720542",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_383531223",
@@ -1493,7 +1460,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38353/12/Cover/E142637506_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=383531223",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391169389",
@@ -1504,7 +1471,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39116/93/Cover/E402638391_9E63.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391169389",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_323402225",
@@ -1515,7 +1482,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32340/22/Cover/E912532366_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323402225",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_370281199",
@@ -1526,7 +1493,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37028/11/Cover/E872636205_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370281199",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_301692273",
@@ -1537,7 +1504,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/30169/22/Cover/E502530220_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301692273",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_362754172",
@@ -1548,7 +1515,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/36275/41/Cover/E702635014_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362754172",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_287087370",
@@ -1559,7 +1526,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/28708/73/Cover/E912539916_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=287087370",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_353060725",
@@ -1570,7 +1537,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35306/7/Cover/E382534511_FE7C.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353060725",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391424513",
@@ -1581,7 +1548,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39142/45/Cover/E442638692_9520.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391424513",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_386054446",
@@ -1592,18 +1559,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38605/44/Cover/E202637637_07FE.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386054446",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391511421",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 이세계에서 언니에게 이름을 빼앗겼습니다 (총4권/미완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E972638703_1A87.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511421",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_90625746",
@@ -1614,7 +1570,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/9062/57/Cover/E052430163_2.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=90625746",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_156438608",
@@ -1625,51 +1581,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=156438608",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391511420",
-    "platform": "ALADIN",
-    "title": "[고화질세트] [코믹] 얼굴도 모르는 남편님께, 이혼을 요구합니다 (총4권/미완결)",
-    "originalPrice": 10080,
-    "discountPrice": 10080,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E962638703_7CCF.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511420",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391340706",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 도박타천록 카이지 24억 탈출편 (총16권/미완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39134/7/Cover/E492638598_31CC.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391340706",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_332557713",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 도박묵시록 카이지 카즈야 편 (총10권/완결)",
-    "originalPrice": 17500,
-    "discountPrice": 17500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/33255/77/Cover/E772532733_C37E.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332557713",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_292633354",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 도박타천록 카이지 원포커 편 (총16권/완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/29263/33/Cover/E822530969_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633354",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_295772347",
@@ -1680,7 +1592,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295772347",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391340706",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 도박타천록 카이지 24억 탈출편 (총16권/미완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39134/7/Cover/E492638598_31CC.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391340706",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_373990607",
@@ -1691,29 +1614,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37399/6/Cover/E202636634_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=373990607",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_160654577",
+    "id": "ALADIN_391511421",
     "platform": "ALADIN",
-    "title": "[고화질세트] 바키 (총31권/완결)",
-    "originalPrice": 65100,
-    "discountPrice": 65100,
+    "title": "[고화질세트] 이세계에서 언니에게 이름을 빼앗겼습니다 (총4권/미완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=160654577",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_163366154",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 바키 외전 -스카페이스- (총5권/완결)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=163366154",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E972638703_1A87.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511421",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391511419",
@@ -1724,7 +1636,62 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E952638703_85F8.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511419",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_332557713",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 도박묵시록 카이지 카즈야 편 (총10권/완결)",
+    "originalPrice": 17500,
+    "discountPrice": 17500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/33255/77/Cover/E772532733_C37E.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332557713",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_292633354",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 도박타천록 카이지 원포커 편 (총16권/완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/29263/33/Cover/E822530969_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=292633354",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391511420",
+    "platform": "ALADIN",
+    "title": "[고화질세트] [코믹] 얼굴도 모르는 남편님께, 이혼을 요구합니다 (총4권/미완결)",
+    "originalPrice": 10080,
+    "discountPrice": 10080,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E962638703_7CCF.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511420",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_160654577",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 바키 (총31권/완결)",
+    "originalPrice": 65100,
+    "discountPrice": 65100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=160654577",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_163366154",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 바키 외전 -스카페이스- (총5권/완결)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=163366154",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_316493136",
@@ -1735,40 +1702,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/31649/31/Cover/E352531829_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=316493136",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_265638400",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 메이지 비색기담(메이지 시리즈1부) (총13권/완결)",
-    "originalPrice": 31850,
-    "discountPrice": 31850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/26563/84/Cover/E892538983_94FB.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265638400",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_265638401",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 메이지 멜랑콜리아(메이지 시리즈2부) (총11권/완결)",
-    "originalPrice": 26950,
-    "discountPrice": 26950,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/26563/84/Cover/E802538983_523D.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265638401",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391340704",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 바키도 (총7권/미완결)",
-    "originalPrice": 17150,
-    "discountPrice": 17150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391340704",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_350554794",
@@ -1779,7 +1713,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35055/47/Cover/E282534391_1E15.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=350554794",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_265638400",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 메이지 비색기담(메이지 시리즈1부) (총13권/완결)",
+    "originalPrice": 31850,
+    "discountPrice": 31850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/26563/84/Cover/E892538983_94FB.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265638400",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_265638401",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 메이지 멜랑콜리아(메이지 시리즈2부) (총11권/완결)",
+    "originalPrice": 26950,
+    "discountPrice": 26950,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/26563/84/Cover/E802538983_523D.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=265638401",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391340704",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 바키도 (총7권/미완결)",
+    "originalPrice": 17150,
+    "discountPrice": 17150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391340704",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_92732210",
@@ -1790,7 +1757,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/9273/22/Cover/E272430970_454A.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=92732210",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_387642488",
@@ -1801,7 +1768,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38764/24/Cover/E722637954_7E7F.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387642488",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_389593614",
@@ -1812,7 +1779,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38959/36/Cover/E862638576_4149.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389593614",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_373063342",
@@ -1823,7 +1790,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37306/33/Cover/E682636133_19AD.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=373063342",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_387638682",
@@ -1834,7 +1801,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38763/86/Cover/E972637951_4526.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387638682",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_335256448",
@@ -1845,7 +1812,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/33525/64/Cover/E832532445_6BA1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335256448",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_392228788",
@@ -1856,18 +1823,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39222/87/Cover/E862638208_5CE7.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392228788",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_288583770",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 마오의 기숙학교 (총3권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/28858/37/Cover/E212539925_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288583770",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_281284700",
@@ -1878,7 +1834,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/28128/47/Cover/E972539885_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281284700",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_288583770",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 마오의 기숙학교 (총3권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/28858/37/Cover/E212539925_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=288583770",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_326279966",
@@ -1889,7 +1856,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32627/99/Cover/E682532387_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=326279966",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_45503563",
@@ -1900,62 +1867,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/4550/35/Cover/E232436047_1792.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45503563",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391511450",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 무자각 천재 소녀는 알아차리지 못한다 (총5권/미완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E012638703_33A1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511450",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_45503562",
-    "platform": "ALADIN",
-    "title": "[세트] 뷰티허니 (완결/전3권)",
-    "originalPrice": 5250,
-    "discountPrice": 5250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/4550/35/Cover/E222436047_75B1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45503562",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391511479",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 아르테 (총21권/미완결)",
-    "originalPrice": 44100,
-    "discountPrice": 44100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E142638703_6345.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511479",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391648647",
-    "platform": "ALADIN",
-    "title": "[세트] 키워서 잡아먹었습니다 (총33화/완결)",
-    "originalPrice": 13200,
-    "discountPrice": 13200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391648647",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_391511482",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 최애가 부하가 되었습니다 (총4권/미완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E272638703_EB78.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511482",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391511449",
@@ -1966,18 +1878,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E002638703_EDEF.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511449",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_45503560",
+    "id": "ALADIN_45503562",
     "platform": "ALADIN",
-    "title": "[세트] 미녀는 야수 (완결/전5권)",
-    "originalPrice": 8750,
-    "discountPrice": 8750,
+    "title": "[세트] 뷰티허니 (완결/전3권)",
+    "originalPrice": 5250,
+    "discountPrice": 5250,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/4550/35/Cover/E202436047_AEE9.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45503560",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/4550/35/Cover/E222436047_75B1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45503562",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_333213797",
@@ -1988,7 +1900,62 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333213797",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391511479",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 아르테 (총21권/미완결)",
+    "originalPrice": 44100,
+    "discountPrice": 44100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E142638703_6345.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511479",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391648647",
+    "platform": "ALADIN",
+    "title": "[세트] 키워서 잡아먹었습니다 (총33화/완결)",
+    "originalPrice": 13200,
+    "discountPrice": 13200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391648647",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391511482",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 최애가 부하가 되었습니다 (총4권/미완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E272638703_EB78.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511482",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_45503560",
+    "platform": "ALADIN",
+    "title": "[세트] 미녀는 야수 (완결/전5권)",
+    "originalPrice": 8750,
+    "discountPrice": 8750,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/4550/35/Cover/E202436047_AEE9.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=45503560",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_391511450",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 무자각 천재 소녀는 알아차리지 못한다 (총5권/미완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E012638703_33A1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511450",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_285544972",
@@ -1999,7 +1966,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285544972",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_353239116",
@@ -2010,7 +1977,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=353239116",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_363864375",
@@ -2021,7 +1988,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=363864375",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391511480",
@@ -2032,7 +1999,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E252638703_2BC6.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511480",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_385783269",
@@ -2043,7 +2010,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385783269",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_283525872",
@@ -2054,7 +2021,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=283525872",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_285544975",
@@ -2065,7 +2032,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=285544975",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391511481",
@@ -2076,7 +2043,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39151/14/Cover/E262638703_4D3B.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391511481",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391647563",
@@ -2087,7 +2054,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39164/75/Cover/E052638802_4F82.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391647563",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391917694",
@@ -2098,7 +2065,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39191/76/Cover/E822638100_7EE3.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391917694",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_360990324",
@@ -2109,7 +2076,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/36099/3/Cover/E392635190_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=360990324",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_311050303",
@@ -2120,7 +2087,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/31105/3/Cover/E832531782_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=311050303",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_254749158",
@@ -2131,7 +2098,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/25474/91/Cover/E062537542_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254749158",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_379190280",
@@ -2142,7 +2109,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/37919/2/Cover/E062637672_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379190280",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_369053529",
@@ -2153,7 +2120,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/36905/35/Cover/E962636794_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369053529",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_351939789",
@@ -2164,18 +2131,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35193/97/Cover/E162534207_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351939789",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_389475460",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 스티어의 마녀 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38947/54/Cover/E592638275_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389475460",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_343165340",
@@ -2186,18 +2142,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34316/53/Cover/E442533737_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343165340",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_89991974",
+    "id": "ALADIN_389475460",
     "platform": "ALADIN",
-    "title": "[고화질세트] 마법선생 네기마 (총38권/완결)",
-    "originalPrice": 93100,
-    "discountPrice": 93100,
+    "title": "[고화질세트] 스티어의 마녀 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/8999/19/Cover/E242430865_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=89991974",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38947/54/Cover/E592638275_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=389475460",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_227736661",
@@ -2208,84 +2164,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/22773/66/Cover/E392536047_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=227736661",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_322917774",
+    "id": "ALADIN_89991974",
     "platform": "ALADIN",
-    "title": "[고화질세트] 유큐홀더!(UQ HOLDER!) (총28권/완결)",
-    "originalPrice": 68600,
-    "discountPrice": 68600,
+    "title": "[고화질세트] 마법선생 네기마 (총38권/완결)",
+    "originalPrice": 93100,
+    "discountPrice": 93100,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/32291/77/Cover/E482532063_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322917774",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_337988515",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 하토코 씨는 때때로 마법소녀 (총4권/완결)",
-    "originalPrice": 12160,
-    "discountPrice": 12160,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/33798/85/Cover/E002533871_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337988515",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_383609930",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 집에서 도망치고 싶은 내가 어쩌다가 동경하던 대마법사님을 사버렸더니 (총4권/미완결)",
-    "originalPrice": 8960,
-    "discountPrice": 8960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38360/99/Cover/E242637606_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=383609930",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_369054722",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 은의 밀밭 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/36905/47/Cover/E912636796_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369054722",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_386000335",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 버려진 악역 영애는 괴물에게 옛날이야기를 들려준다 (총5권/미완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38600/3/Cover/E112637537_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386000335",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_300710108",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 지켜줘! 롤리팝 (총7권/완결)",
-    "originalPrice": 18620,
-    "discountPrice": 18620,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/30071/1/Cover/E982530511_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300710108",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_332093856",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 돌아온! 지켜줘! 롤리팝 (총6권/완결)",
-    "originalPrice": 15960,
-    "discountPrice": 15960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/33209/38/Cover/E352532424_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332093856",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/8999/19/Cover/E242430865_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=89991974",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_392228772",
@@ -2296,7 +2186,84 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39222/87/Cover/E782638208_69D6.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392228772",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_322917774",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 유큐홀더!(UQ HOLDER!) (총28권/완결)",
+    "originalPrice": 68600,
+    "discountPrice": 68600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/32291/77/Cover/E482532063_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=322917774",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_337988515",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 하토코 씨는 때때로 마법소녀 (총4권/완결)",
+    "originalPrice": 12160,
+    "discountPrice": 12160,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/33798/85/Cover/E002533871_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=337988515",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_383609930",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 집에서 도망치고 싶은 내가 어쩌다가 동경하던 대마법사님을 사버렸더니 (총4권/미완결)",
+    "originalPrice": 8960,
+    "discountPrice": 8960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38360/99/Cover/E242637606_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=383609930",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_386000335",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 버려진 악역 영애는 괴물에게 옛날이야기를 들려준다 (총5권/미완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38600/3/Cover/E112637537_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386000335",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_369054722",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 은의 밀밭 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/36905/47/Cover/E912636796_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=369054722",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_300710108",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 지켜줘! 롤리팝 (총7권/완결)",
+    "originalPrice": 18620,
+    "discountPrice": 18620,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/30071/1/Cover/E982530511_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=300710108",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_332093856",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 돌아온! 지켜줘! 롤리팝 (총6권/완결)",
+    "originalPrice": 15960,
+    "discountPrice": 15960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/33209/38/Cover/E352532424_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332093856",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_391798684",
@@ -2307,7 +2274,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39179/86/Cover/E412638005_13CD.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391798684",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_321434106",
@@ -2318,7 +2285,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/32143/41/Cover/E642531957_C8C5.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=321434106",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_97179674",
@@ -2329,18 +2296,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/9717/96/Cover/E772430580_5FC5.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=97179674",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_319807093",
-    "platform": "ALADIN",
-    "title": "[고화질세트] 러브 미 퐁포코! (총5권/완결)",
-    "originalPrice": 15200,
-    "discountPrice": 15200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/31980/70/Cover/E242531846_DCF6.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319807093",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_342478223",
@@ -2351,7 +2307,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/34247/82/Cover/E522533921_F398.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=342478223",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_319807093",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 러브 미 퐁포코! (총5권/완결)",
+    "originalPrice": 15200,
+    "discountPrice": 15200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/31980/70/Cover/E242531846_DCF6.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319807093",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_354183737",
@@ -2362,7 +2329,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/35418/37/Cover/E082534232_F668.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354183737",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_385830301",
@@ -2373,106 +2340,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/38583/3/Cover/E802637336_EC7F.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=385830301",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_370281199",
-    "platform": "ALADIN",
-    "title": "[세트] 그 남자는 제 친오빠인데요, 공작님 (총80화/완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/37028/11/Cover/E872636205_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370281199",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_392232279",
-    "platform": "ALADIN",
-    "title": "[세트] 약탈★마드모아젤 (총126화/완결)",
-    "originalPrice": 44100,
-    "discountPrice": 44100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/39223/22/Cover/E342638305_3E09.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392232279",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_392232299",
-    "platform": "ALADIN",
-    "title": "[세트] 약탈★마드모아젤 (완전판) (총129권/완결)",
-    "originalPrice": 45150,
-    "discountPrice": 45150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392232299",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_382206275",
-    "platform": "ALADIN",
-    "title": "[세트] 꽃이 내리는 밤 (총71화/완결)",
-    "originalPrice": 24850,
-    "discountPrice": 24850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=382206275",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_382206278",
-    "platform": "ALADIN",
-    "title": "[세트] 꽃이 내리는 밤 (개정판) (총67화/완결)",
-    "originalPrice": 23450,
-    "discountPrice": 23450,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38220/62/Cover/E282637694_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=382206278",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_325143608",
-    "platform": "ALADIN",
-    "title": "[세트] 그날의 배신을 알지 못하여 (총53화/완결)",
-    "originalPrice": 18550,
-    "discountPrice": 18550,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=325143608",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_320181574",
-    "platform": "ALADIN",
-    "title": "[세트] 천왕 마왕 XX한 이야기 (총50화/완결)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320181574",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_296178232",
-    "platform": "ALADIN",
-    "title": "[세트] 천왕마왕 결혼한 이야기 (총44화/완결)",
-    "originalPrice": 12320,
-    "discountPrice": 12320,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/29617/82/Cover/E062530384_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296178232",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
-  },
-  {
-    "id": "ALADIN_294114070",
-    "platform": "ALADIN",
-    "title": "[세트] 각설이 공작 (개정판) (총27화/완결)",
-    "originalPrice": 9450,
-    "discountPrice": 9450,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/29411/40/Cover/E872530663_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294114070",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_294114072",
@@ -2483,40 +2351,106 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294114072",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_386559328",
+    "id": "ALADIN_296178232",
     "platform": "ALADIN",
-    "title": "[고화질세트] 아마가미 씨네 인연 맺기 (총22권/완결)",
-    "originalPrice": 61600,
-    "discountPrice": 61600,
+    "title": "[세트] 천왕마왕 결혼한 이야기 (총44화/완결)",
+    "originalPrice": 12320,
+    "discountPrice": 12320,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38655/93/Cover/E632637146_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386559328",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/product/29617/82/Cover/E062530384_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=296178232",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_388927703",
+    "id": "ALADIN_320181574",
     "platform": "ALADIN",
-    "title": "[고화질세트] 쿠프룸의 신부 (총7권/미완결)",
-    "originalPrice": 19600,
-    "discountPrice": 19600,
+    "title": "[세트] 천왕 마왕 XX한 이야기 (총50화/완결)",
+    "originalPrice": 14000,
+    "discountPrice": 14000,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38892/77/Cover/E702638870_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388927703",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320181574",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
-    "id": "ALADIN_384101356",
+    "id": "ALADIN_325143608",
     "platform": "ALADIN",
-    "title": "[고화질세트] [코믹] 슈퍼 커브 (총10권/미완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
+    "title": "[세트] 그날의 배신을 알지 못하여 (총53화/완결)",
+    "originalPrice": 18550,
+    "discountPrice": 18550,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.aladin.co.kr/product/38410/13/Cover/E222637016_1.jpg",
-    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384101356",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=325143608",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_370281199",
+    "platform": "ALADIN",
+    "title": "[세트] 그 남자는 제 친오빠인데요, 공작님 (총80화/완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/37028/11/Cover/E872636205_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=370281199",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_392232279",
+    "platform": "ALADIN",
+    "title": "[세트] 약탈★마드모아젤 (총126화/완결)",
+    "originalPrice": 44100,
+    "discountPrice": 44100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/39223/22/Cover/E342638305_3E09.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392232279",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_392232299",
+    "platform": "ALADIN",
+    "title": "[세트] 약탈★마드모아젤 (완전판) (총129권/완결)",
+    "originalPrice": 45150,
+    "discountPrice": 45150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392232299",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_382206275",
+    "platform": "ALADIN",
+    "title": "[세트] 꽃이 내리는 밤 (총71화/완결)",
+    "originalPrice": 24850,
+    "discountPrice": 24850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/img/19book_200cover.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=382206275",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_382206278",
+    "platform": "ALADIN",
+    "title": "[세트] 꽃이 내리는 밤 (개정판) (총67화/완결)",
+    "originalPrice": 23450,
+    "discountPrice": 23450,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38220/62/Cover/E282637694_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=382206278",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_294114070",
+    "platform": "ALADIN",
+    "title": "[세트] 각설이 공작 (개정판) (총27화/완결)",
+    "originalPrice": 9450,
+    "discountPrice": 9450,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/29411/40/Cover/E872530663_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294114070",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_392228935",
@@ -2527,7 +2461,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/39222/89/Cover/E162638209_B851.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=392228935",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   },
   {
     "id": "ALADIN_238209944",
@@ -2538,6 +2472,39 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.aladin.co.kr/product/23820/99/Cover/E632537197_1.jpg",
     "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=238209944",
-    "updatedAt": "2026-05-04T15:30:10.487Z"
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_386559328",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 아마가미 씨네 인연 맺기 (총22권/완결)",
+    "originalPrice": 61600,
+    "discountPrice": 61600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38655/93/Cover/E632637146_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=386559328",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_388927703",
+    "platform": "ALADIN",
+    "title": "[고화질세트] 쿠프룸의 신부 (총7권/미완결)",
+    "originalPrice": 19600,
+    "discountPrice": 19600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38892/77/Cover/E702638870_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388927703",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
+  },
+  {
+    "id": "ALADIN_384101356",
+    "platform": "ALADIN",
+    "title": "[고화질세트] [코믹] 슈퍼 커브 (총10권/미완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.aladin.co.kr/product/38410/13/Cover/E222637016_1.jpg",
+    "itemUrl": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=384101356",
+    "updatedAt": "2026-05-05T15:30:16.521Z"
   }
 ]
