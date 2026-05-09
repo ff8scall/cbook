@@ -8,7 +8,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188600270/L",
     "itemUrl": "https://www.yes24.com/product/goods/188600270",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188600272",
@@ -19,7 +19,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188600272/L",
     "itemUrl": "https://www.yes24.com/product/goods/188600272",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_126510214",
@@ -30,7 +30,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/126510214",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_145213421",
@@ -41,18 +41,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/145213421",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_128849374",
-    "platform": "YES24",
-    "title": "[세트] 악마 소녀는 엑소시스트와 계약 파기하고 싶다 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/128849374/L",
-    "itemUrl": "https://www.yes24.com/product/goods/128849374",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_122848982",
@@ -63,7 +52,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/122848982/L",
     "itemUrl": "https://www.yes24.com/product/goods/122848982",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_128849374",
+    "platform": "YES24",
+    "title": "[세트] 악마 소녀는 엑소시스트와 계약 파기하고 싶다 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/128849374/L",
+    "itemUrl": "https://www.yes24.com/product/goods/128849374",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_185133162",
@@ -74,7 +74,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/185133162/L",
     "itemUrl": "https://www.yes24.com/product/goods/185133162",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_185133163",
@@ -85,7 +85,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/185133163/L",
     "itemUrl": "https://www.yes24.com/product/goods/185133163",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188781503",
@@ -96,40 +96,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188781503",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_165424889",
-    "platform": "YES24",
-    "title": "[세트] 페이데이 (총4권/완결)",
-    "originalPrice": 16800,
-    "discountPrice": 16800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/165424889",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_131115388",
-    "platform": "YES24",
-    "title": "[세트] 무향의 궤적 (외전 포함) (총12권/완결)",
-    "originalPrice": 35700,
-    "discountPrice": 35700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/131115388",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_133755161",
-    "platform": "YES24",
-    "title": "[세트] 강가의 이수 (총9권/완결)",
-    "originalPrice": 30240,
-    "discountPrice": 30240,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/133755161",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_105668544",
@@ -140,7 +107,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/105668544",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_131115388",
+    "platform": "YES24",
+    "title": "[세트] 무향의 궤적 (외전 포함) (총12권/완결)",
+    "originalPrice": 35700,
+    "discountPrice": 35700,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/131115388",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_133755161",
+    "platform": "YES24",
+    "title": "[세트] 강가의 이수 (총9권/완결)",
+    "originalPrice": 30240,
+    "discountPrice": 30240,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/133755161",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_165424889",
+    "platform": "YES24",
+    "title": "[세트] 페이데이 (총4권/완결)",
+    "originalPrice": 16800,
+    "discountPrice": 16800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/165424889",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186592583",
@@ -151,18 +151,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186592583/L",
     "itemUrl": "https://www.yes24.com/product/goods/186592583",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_112617424",
-    "platform": "YES24",
-    "title": "[세트] 신이 말하는 대로 1부 + 2부 (총26권/완결)",
-    "originalPrice": 63700,
-    "discountPrice": 63700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/112617424",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_42708712",
@@ -173,7 +162,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/42708712/L",
     "itemUrl": "https://www.yes24.com/product/goods/42708712",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_57658937",
@@ -184,7 +173,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/57658937/L",
     "itemUrl": "https://www.yes24.com/product/goods/57658937",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_112617424",
+    "platform": "YES24",
+    "title": "[세트] 신이 말하는 대로 1부 + 2부 (총26권/완결)",
+    "originalPrice": 63700,
+    "discountPrice": 63700,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/112617424",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_162288705",
@@ -195,7 +195,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/162288705",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186022612",
@@ -206,7 +206,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/186022612",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186022729",
@@ -217,7 +217,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186022729/L",
     "itemUrl": "https://www.yes24.com/product/goods/186022729",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186022732",
@@ -228,7 +228,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186022732/L",
     "itemUrl": "https://www.yes24.com/product/goods/186022732",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186022733",
@@ -239,7 +239,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186022733/L",
     "itemUrl": "https://www.yes24.com/product/goods/186022733",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186022775",
@@ -250,7 +250,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186022775/L",
     "itemUrl": "https://www.yes24.com/product/goods/186022775",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188858017",
@@ -261,7 +261,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188858017/L",
     "itemUrl": "https://www.yes24.com/product/goods/188858017",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188781499",
@@ -272,7 +272,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781499/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781499",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188781501",
@@ -283,18 +283,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781501/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781501",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_108605131",
-    "platform": "YES24",
-    "title": "[세트] 행복한 타카코 씨 (총6권/완결)",
-    "originalPrice": 21000,
-    "discountPrice": 21000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/108605131/L",
-    "itemUrl": "https://www.yes24.com/product/goods/108605131",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_107455738",
@@ -305,40 +294,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/107455738/L",
     "itemUrl": "https://www.yes24.com/product/goods/107455738",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_152809598",
+    "id": "YES24_108605131",
     "platform": "YES24",
-    "title": "[묶음] 새출발 영애는 용제 폐하를 공략 중 (총7권/미완결)",
-    "originalPrice": 22050,
-    "discountPrice": 22050,
+    "title": "[세트] 행복한 타카코 씨 (총6권/완결)",
+    "originalPrice": 21000,
+    "discountPrice": 21000,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/152809598/L",
-    "itemUrl": "https://www.yes24.com/product/goods/152809598",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187925726",
-    "platform": "YES24",
-    "title": "[세트] 풀어 줘요, 유이 씨. (총3권/완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187925726/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187925726",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187925725",
-    "platform": "YES24",
-    "title": "[세트] 사상 최악의 가짜 성녀 ~이상적인 성녀? 미안, 가짜 성녀입니다! (총5권/완결)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187925725/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187925725",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/108605131/L",
+    "itemUrl": "https://www.yes24.com/product/goods/108605131",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_116588485",
@@ -349,7 +316,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/116588485/L",
     "itemUrl": "https://www.yes24.com/product/goods/116588485",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_124255983",
@@ -360,7 +327,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/124255983/L",
     "itemUrl": "https://www.yes24.com/product/goods/124255983",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_152809598",
+    "platform": "YES24",
+    "title": "[묶음] 새출발 영애는 용제 폐하를 공략 중 (총7권/미완결)",
+    "originalPrice": 22050,
+    "discountPrice": 22050,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/152809598/L",
+    "itemUrl": "https://www.yes24.com/product/goods/152809598",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187925725",
+    "platform": "YES24",
+    "title": "[세트] 사상 최악의 가짜 성녀 ~이상적인 성녀? 미안, 가짜 성녀입니다! (총5권/완결)",
+    "originalPrice": 14000,
+    "discountPrice": 14000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187925725/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187925725",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187925726",
+    "platform": "YES24",
+    "title": "[세트] 풀어 줘요, 유이 씨. (총3권/완결)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187925726/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187925726",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186992536",
@@ -371,29 +371,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186992536/L",
     "itemUrl": "https://www.yes24.com/product/goods/186992536",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_142066987",
-    "platform": "YES24",
-    "title": "[세트] 시녀인데… 성검을 뽑아 버렸다! (총4권/완결)",
-    "originalPrice": 10640,
-    "discountPrice": 10640,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/142066987/L",
-    "itemUrl": "https://www.yes24.com/product/goods/142066987",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_148173831",
-    "platform": "YES24",
-    "title": "[세트] 사랑은 세계정복 후에 (총6권/완결)",
-    "originalPrice": 15960,
-    "discountPrice": 15960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/148173831/L",
-    "itemUrl": "https://www.yes24.com/product/goods/148173831",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_118681054",
@@ -404,29 +382,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118681054/L",
     "itemUrl": "https://www.yes24.com/product/goods/118681054",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_188226690",
+    "id": "YES24_142066987",
     "platform": "YES24",
-    "title": "[세트] 선을 넘지 못하는 가정교사와 학생 (총4권/완결)",
-    "originalPrice": 5600,
-    "discountPrice": 5600,
+    "title": "[세트] 시녀인데… 성검을 뽑아 버렸다! (총4권/완결)",
+    "originalPrice": 10640,
+    "discountPrice": 10640,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226690/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226690",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/142066987/L",
+    "itemUrl": "https://www.yes24.com/product/goods/142066987",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_188213600",
+    "id": "YES24_148173831",
     "platform": "YES24",
-    "title": "[세트] 전 여신의 블로그 (총3권/완결)",
-    "originalPrice": 11340,
-    "discountPrice": 11340,
+    "title": "[세트] 사랑은 세계정복 후에 (총6권/완결)",
+    "originalPrice": 15960,
+    "discountPrice": 15960,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188213600/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188213600",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/148173831/L",
+    "itemUrl": "https://www.yes24.com/product/goods/148173831",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_112603650",
@@ -437,18 +415,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/112603650/L",
     "itemUrl": "https://www.yes24.com/product/goods/112603650",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188213599",
-    "platform": "YES24",
-    "title": "[세트] 13년 후의 너 (총2권/완결)",
-    "originalPrice": 5320,
-    "discountPrice": 5320,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188213599/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188213599",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_183149705",
@@ -459,40 +426,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/183149705/L",
     "itemUrl": "https://www.yes24.com/product/goods/183149705",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_139998956",
+    "id": "YES24_188213599",
     "platform": "YES24",
-    "title": "[세트] 절벽의 꽃이라면 떨어져라!! (총8권/완결)",
-    "originalPrice": 16800,
-    "discountPrice": 16800,
+    "title": "[세트] 13년 후의 너 (총2권/완결)",
+    "originalPrice": 5320,
+    "discountPrice": 5320,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/139998956/L",
-    "itemUrl": "https://www.yes24.com/product/goods/139998956",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/188213599/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188213599",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187166622",
+    "id": "YES24_188213600",
     "platform": "YES24",
-    "title": "[세트] 성녀였는데 어째선지 아니게 되었습니다 (총9권/미완결)",
-    "originalPrice": 23940,
-    "discountPrice": 23940,
+    "title": "[세트] 전 여신의 블로그 (총3권/완결)",
+    "originalPrice": 11340,
+    "discountPrice": 11340,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166622/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166622",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/188213600/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188213600",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_125182739",
+    "id": "YES24_188226690",
     "platform": "YES24",
-    "title": "[세트] E'S (이'에스) (총16권/완결)",
-    "originalPrice": 42560,
-    "discountPrice": 42560,
+    "title": "[세트] 선을 넘지 못하는 가정교사와 학생 (총4권/완결)",
+    "originalPrice": 5600,
+    "discountPrice": 5600,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125182739/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125182739",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/188226690/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226690",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_88915149",
@@ -503,18 +470,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/88915149/L",
     "itemUrl": "https://www.yes24.com/product/goods/88915149",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187166636",
+    "id": "YES24_125182739",
     "platform": "YES24",
-    "title": "[세트] 우리 흑마도사가 너무 귀여워! (총5권/완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
+    "title": "[세트] E'S (이'에스) (총16권/완결)",
+    "originalPrice": 42560,
+    "discountPrice": 42560,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166636/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166636",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/125182739/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125182739",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_139998956",
+    "platform": "YES24",
+    "title": "[세트] 절벽의 꽃이라면 떨어져라!! (총8권/완결)",
+    "originalPrice": 16800,
+    "discountPrice": 16800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/139998956/L",
+    "itemUrl": "https://www.yes24.com/product/goods/139998956",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_175444334",
@@ -525,7 +503,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/175444334/L",
     "itemUrl": "https://www.yes24.com/product/goods/175444334",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166622",
+    "platform": "YES24",
+    "title": "[세트] 성녀였는데 어째선지 아니게 되었습니다 (총9권/미완결)",
+    "originalPrice": 23940,
+    "discountPrice": 23940,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166622/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166622",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166636",
+    "platform": "YES24",
+    "title": "[세트] 우리 흑마도사가 너무 귀여워! (총5권/완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166636/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166636",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187166637",
@@ -536,7 +536,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166637/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166637",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187166638",
@@ -547,7 +547,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166638/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166638",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187009064",
@@ -558,18 +558,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187009064/L",
     "itemUrl": "https://www.yes24.com/product/goods/187009064",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_116459774",
-    "platform": "YES24",
-    "title": "[세트] 어느 점원과 손님 이야기 (총4권/완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/116459774/L",
-    "itemUrl": "https://www.yes24.com/product/goods/116459774",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_105608180",
@@ -580,18 +569,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105608180/L",
     "itemUrl": "https://www.yes24.com/product/goods/105608180",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_126201552",
+    "id": "YES24_116459774",
     "platform": "YES24",
-    "title": "[세트] 그 사람의 위장에는 내가 부족해 (총6권/완결)",
-    "originalPrice": 14700,
-    "discountPrice": 14700,
+    "title": "[세트] 어느 점원과 손님 이야기 (총4권/완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/126201552/L",
-    "itemUrl": "https://www.yes24.com/product/goods/126201552",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/116459774/L",
+    "itemUrl": "https://www.yes24.com/product/goods/116459774",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_125116304",
@@ -602,7 +591,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125116304/L",
     "itemUrl": "https://www.yes24.com/product/goods/125116304",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_126201552",
+    "platform": "YES24",
+    "title": "[세트] 그 사람의 위장에는 내가 부족해 (총6권/완결)",
+    "originalPrice": 14700,
+    "discountPrice": 14700,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/126201552/L",
+    "itemUrl": "https://www.yes24.com/product/goods/126201552",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_189004644",
@@ -613,18 +613,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004644/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004644",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189004646",
-    "platform": "YES24",
-    "title": "[묶음] 최약인 나는 〈벽 통과 버그〉로 출세한다",
-    "originalPrice": 8000,
-    "discountPrice": 6400,
-    "discountRate": 20,
-    "thumbnailUrl": "https://image.yes24.com/goods/189004646/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189004646",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_188781493",
@@ -635,7 +624,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781493/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781493",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_189004646",
+    "platform": "YES24",
+    "title": "[묶음] 최약인 나는 〈벽 통과 버그〉로 출세한다",
+    "originalPrice": 8000,
+    "discountPrice": 6400,
+    "discountRate": 20,
+    "thumbnailUrl": "https://image.yes24.com/goods/189004646/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189004646",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_15048459",
@@ -646,7 +646,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15048459/L",
     "itemUrl": "https://www.yes24.com/product/goods/15048459",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_126010330",
@@ -657,7 +657,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126010330/L",
     "itemUrl": "https://www.yes24.com/product/goods/126010330",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187470361",
@@ -668,18 +668,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/187470361",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_125476961",
-    "platform": "YES24",
-    "title": "[세트] 다이아몬드 에이스 act2 (총34권/완결)",
-    "originalPrice": 83300,
-    "discountPrice": 83300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125476961/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125476961",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_99402717",
@@ -690,7 +679,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/99402717/L",
     "itemUrl": "https://www.yes24.com/product/goods/99402717",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_125476961",
+    "platform": "YES24",
+    "title": "[세트] 다이아몬드 에이스 act2 (총34권/완결)",
+    "originalPrice": 83300,
+    "discountPrice": 83300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/125476961/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125476961",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_138930503",
@@ -701,7 +701,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/138930503/L",
     "itemUrl": "https://www.yes24.com/product/goods/138930503",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186440253",
@@ -712,7 +712,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186440253/L",
     "itemUrl": "https://www.yes24.com/product/goods/186440253",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_97529470",
@@ -723,73 +723,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/97529470/L",
     "itemUrl": "https://www.yes24.com/product/goods/97529470",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_101773429",
-    "platform": "YES24",
-    "title": "[세트] 호시노, 눈을 감아. (총13권/완결)",
-    "originalPrice": 31850,
-    "discountPrice": 31850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/101773429/L",
-    "itemUrl": "https://www.yes24.com/product/goods/101773429",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188781498",
-    "platform": "YES24",
-    "title": "[세트] 10년 뒤의 카즈미짱 (총2권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781498/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781498",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188781497",
-    "platform": "YES24",
-    "title": "[묶음] 집에서 자연스럽게 여장하는 소년 (동인판) (총8권/미완결)",
-    "originalPrice": 11200,
-    "discountPrice": 11200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781497/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781497",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188781496",
-    "platform": "YES24",
-    "title": "[묶음] 그와 그녀의 선택 (총2권/미완결)",
-    "originalPrice": 5600,
-    "discountPrice": 5600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781496/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781496",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188781495",
-    "platform": "YES24",
-    "title": "[묶음] 남자인 내가 여자로 되기까지 (총5권/미완결)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781495/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781495",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_110657336",
-    "platform": "YES24",
-    "title": "[세트] 쿠킹 걸 (총10권/완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/110657336/L",
-    "itemUrl": "https://www.yes24.com/product/goods/110657336",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_90623950",
@@ -800,7 +734,73 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90623950/L",
     "itemUrl": "https://www.yes24.com/product/goods/90623950",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_101773429",
+    "platform": "YES24",
+    "title": "[세트] 호시노, 눈을 감아. (총13권/완결)",
+    "originalPrice": 31850,
+    "discountPrice": 31850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/101773429/L",
+    "itemUrl": "https://www.yes24.com/product/goods/101773429",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_110657336",
+    "platform": "YES24",
+    "title": "[세트] 쿠킹 걸 (총10권/완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/110657336/L",
+    "itemUrl": "https://www.yes24.com/product/goods/110657336",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_188781495",
+    "platform": "YES24",
+    "title": "[묶음] 남자인 내가 여자로 되기까지 (총5권/미완결)",
+    "originalPrice": 14000,
+    "discountPrice": 14000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188781495/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188781495",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_188781496",
+    "platform": "YES24",
+    "title": "[묶음] 그와 그녀의 선택 (총2권/미완결)",
+    "originalPrice": 5600,
+    "discountPrice": 5600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188781496/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188781496",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_188781497",
+    "platform": "YES24",
+    "title": "[묶음] 집에서 자연스럽게 여장하는 소년 (동인판) (총8권/미완결)",
+    "originalPrice": 11200,
+    "discountPrice": 11200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188781497/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188781497",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_188781498",
+    "platform": "YES24",
+    "title": "[세트] 10년 뒤의 카즈미짱 (총2권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188781498/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188781498",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187642104",
@@ -811,18 +811,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187642104/L",
     "itemUrl": "https://www.yes24.com/product/goods/187642104",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187642101",
-    "platform": "YES24",
-    "title": "[세트] 눈과 먹 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187642101/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187642101",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187642100",
@@ -833,150 +822,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187642100/L",
     "itemUrl": "https://www.yes24.com/product/goods/187642100",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_103552381",
+    "id": "YES24_187642101",
     "platform": "YES24",
-    "title": "[세트] 다니엘의 지극히 사적인 빌런 (총49화/완결)",
-    "originalPrice": 17150,
-    "discountPrice": 17150,
+    "title": "[세트] 눈과 먹 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/103552381/L",
-    "itemUrl": "https://www.yes24.com/product/goods/103552381",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187166628",
-    "platform": "YES24",
-    "title": "[세트] 시에라 투 줄리엣 (개정판) (총70화/완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166628/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166628",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_141827491",
-    "platform": "YES24",
-    "title": "[세트] [연재] 러브 징크스 (총76화/완결)",
-    "originalPrice": 26600,
-    "discountPrice": 26600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/141827491",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_142868253",
-    "platform": "YES24",
-    "title": "[세트] 진비서 감금일지 [외전포함] (총49화/완결)",
-    "originalPrice": 17150,
-    "discountPrice": 17150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/142868253",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_145309519",
-    "platform": "YES24",
-    "title": "[세트] 산왕의 궁전에서 (총34화/완결)",
-    "originalPrice": 11200,
-    "discountPrice": 11200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/145309519/L",
-    "itemUrl": "https://www.yes24.com/product/goods/145309519",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_104084400",
-    "platform": "YES24",
-    "title": "[세트] 다니엘의 지극히 사적인 빌런 (완전판) (총52화/완결)",
-    "originalPrice": 18200,
-    "discountPrice": 18200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/104084400",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187166654",
-    "platform": "YES24",
-    "title": "[묶음] 뼈 드래곤의 귀한 딸 (총6권/미완결)",
-    "originalPrice": 14700,
-    "discountPrice": 14700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166654/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166654",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187166655",
-    "platform": "YES24",
-    "title": "[묶음] 이 힐러, 귀찮아 (총9권/미완결)",
-    "originalPrice": 22050,
-    "discountPrice": 22050,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166655/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166655",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_148828722",
-    "platform": "YES24",
-    "title": "[세트] 일반인A (총81화/완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/148828722/L",
-    "itemUrl": "https://www.yes24.com/product/goods/148828722",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_187166656",
-    "platform": "YES24",
-    "title": "[묶음] 템플 (총14권/미완결)",
-    "originalPrice": 34300,
-    "discountPrice": 34300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166656/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166656",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_127004720",
-    "platform": "YES24",
-    "title": "[세트] 드래곤 집을 사다 (총10권/완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/127004720/L",
-    "itemUrl": "https://www.yes24.com/product/goods/127004720",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_118378791",
-    "platform": "YES24",
-    "title": "[세트] 킬 더 라이츠 (개정판) (총69권/완결)",
-    "originalPrice": 24150,
-    "discountPrice": 24150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/118378791/L",
-    "itemUrl": "https://www.yes24.com/product/goods/118378791",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_118378792",
-    "platform": "YES24",
-    "title": "[세트] 킬 더 라이츠 (총71화/완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/118378792",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/187642101/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187642101",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_90897158",
@@ -987,29 +844,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/90897158",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187166657",
+    "id": "YES24_103552381",
     "platform": "YES24",
-    "title": "[묶음] 용과 카멜레온 (총8권/미완결)",
-    "originalPrice": 19600,
-    "discountPrice": 19600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166657/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166657",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "title": "[세트] 다니엘의 지극히 사적인 빌런 (총49화/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 17150,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/103552381/L",
+    "itemUrl": "https://www.yes24.com/product/goods/103552381",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187166659",
+    "id": "YES24_104084400",
     "platform": "YES24",
-    "title": "[묶음] 오! 나의 여신님(신장판) (총22권/미완결)",
-    "originalPrice": 107800,
-    "discountPrice": 107800,
+    "title": "[세트] 다니엘의 지극히 사적인 빌런 (완전판) (총52화/완결)",
+    "originalPrice": 18200,
+    "discountPrice": 18200,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187166659/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187166659",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/104084400",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_112629015",
@@ -1020,29 +877,84 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/112629015",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187166626",
+    "id": "YES24_118378791",
     "platform": "YES24",
-    "title": "[세트] 시에라 투 줄리엣 (총70화/완결)",
+    "title": "[세트] 킬 더 라이츠 (개정판) (총69권/완결)",
+    "originalPrice": 24150,
+    "discountPrice": 24150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/118378791/L",
+    "itemUrl": "https://www.yes24.com/product/goods/118378791",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_118378792",
+    "platform": "YES24",
+    "title": "[세트] 킬 더 라이츠 (총71화/완결)",
     "originalPrice": 24500,
     "discountPrice": 24500,
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/187166626",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "itemUrl": "https://www.yes24.com/product/goods/118378792",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_174266948",
+    "id": "YES24_127004720",
     "platform": "YES24",
-    "title": "[묶음] 마왕의 딸은 너무 친절해!! (총6권/미완결)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
+    "title": "[세트] 드래곤 집을 사다 (총10권/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/174266948/L",
-    "itemUrl": "https://www.yes24.com/product/goods/174266948",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/127004720/L",
+    "itemUrl": "https://www.yes24.com/product/goods/127004720",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_141827491",
+    "platform": "YES24",
+    "title": "[세트] [연재] 러브 징크스 (총76화/완결)",
+    "originalPrice": 26600,
+    "discountPrice": 26600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/141827491",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_142868253",
+    "platform": "YES24",
+    "title": "[세트] 진비서 감금일지 [외전포함] (총49화/완결)",
+    "originalPrice": 17150,
+    "discountPrice": 17150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/142868253",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_145309519",
+    "platform": "YES24",
+    "title": "[세트] 산왕의 궁전에서 (총34화/완결)",
+    "originalPrice": 11200,
+    "discountPrice": 11200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/145309519/L",
+    "itemUrl": "https://www.yes24.com/product/goods/145309519",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_148828722",
+    "platform": "YES24",
+    "title": "[세트] 일반인A (총81화/완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/148828722/L",
+    "itemUrl": "https://www.yes24.com/product/goods/148828722",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_170592435",
@@ -1053,18 +965,95 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/170592435",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
-    "id": "YES24_187470369",
+    "id": "YES24_174266948",
     "platform": "YES24",
-    "title": "[세트] 마침내 사랑이에요 마왕님! (총40화/완결)",
-    "originalPrice": 10920,
-    "discountPrice": 10920,
+    "title": "[묶음] 마왕의 딸은 너무 친절해!! (총6권/미완결)",
+    "originalPrice": 12600,
+    "discountPrice": 12600,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187470369/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187470369",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/174266948/L",
+    "itemUrl": "https://www.yes24.com/product/goods/174266948",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166626",
+    "platform": "YES24",
+    "title": "[세트] 시에라 투 줄리엣 (총70화/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/187166626",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166628",
+    "platform": "YES24",
+    "title": "[세트] 시에라 투 줄리엣 (개정판) (총70화/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166628/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166628",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166654",
+    "platform": "YES24",
+    "title": "[묶음] 뼈 드래곤의 귀한 딸 (총6권/미완결)",
+    "originalPrice": 14700,
+    "discountPrice": 14700,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166654/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166654",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166655",
+    "platform": "YES24",
+    "title": "[묶음] 이 힐러, 귀찮아 (총9권/미완결)",
+    "originalPrice": 22050,
+    "discountPrice": 22050,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166655/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166655",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166656",
+    "platform": "YES24",
+    "title": "[묶음] 템플 (총14권/미완결)",
+    "originalPrice": 34300,
+    "discountPrice": 34300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166656/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166656",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166657",
+    "platform": "YES24",
+    "title": "[묶음] 용과 카멜레온 (총8권/미완결)",
+    "originalPrice": 19600,
+    "discountPrice": 19600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166657/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166657",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187166659",
+    "platform": "YES24",
+    "title": "[묶음] 오! 나의 여신님(신장판) (총22권/미완결)",
+    "originalPrice": 107800,
+    "discountPrice": 107800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187166659/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187166659",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_187470368",
@@ -1075,7 +1064,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187470368/L",
     "itemUrl": "https://www.yes24.com/product/goods/187470368",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_187470369",
+    "platform": "YES24",
+    "title": "[세트] 마침내 사랑이에요 마왕님! (총40화/완결)",
+    "originalPrice": 10920,
+    "discountPrice": 10920,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/187470369/L",
+    "itemUrl": "https://www.yes24.com/product/goods/187470369",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_106225867",
@@ -1086,18 +1086,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/106225867/L",
     "itemUrl": "https://www.yes24.com/product/goods/106225867",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_145551522",
-    "platform": "YES24",
-    "title": "[세트] 달빛이 내리는 검 (총76화/완결)",
-    "originalPrice": 26600,
-    "discountPrice": 26600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/145551522/L",
-    "itemUrl": "https://www.yes24.com/product/goods/145551522",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_113460841",
@@ -1108,18 +1097,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/113460841/L",
     "itemUrl": "https://www.yes24.com/product/goods/113460841",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_151842113",
-    "platform": "YES24",
-    "title": "[세트] 그 남자는 제 친오빠인데요, 공작님 (총80화/완결)",
-    "originalPrice": 28000,
-    "discountPrice": 28000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/151842113/L",
-    "itemUrl": "https://www.yes24.com/product/goods/151842113",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_121953943",
@@ -1130,7 +1108,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/121953943/L",
     "itemUrl": "https://www.yes24.com/product/goods/121953943",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_145551522",
+    "platform": "YES24",
+    "title": "[세트] 달빛이 내리는 검 (총76화/완결)",
+    "originalPrice": 26600,
+    "discountPrice": 26600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/145551522/L",
+    "itemUrl": "https://www.yes24.com/product/goods/145551522",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_151842113",
+    "platform": "YES24",
+    "title": "[세트] 그 남자는 제 친오빠인데요, 공작님 (총80화/완결)",
+    "originalPrice": 28000,
+    "discountPrice": 28000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/151842113/L",
+    "itemUrl": "https://www.yes24.com/product/goods/151842113",
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_172955498",
@@ -1141,7 +1141,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/172955498/L",
     "itemUrl": "https://www.yes24.com/product/goods/172955498",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_186821274",
@@ -1152,29 +1152,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186821274/L",
     "itemUrl": "https://www.yes24.com/product/goods/186821274",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_119859483",
-    "platform": "YES24",
-    "title": "[세트] 사신 도련님과 검은 메이드 (총16권/완결)",
-    "originalPrice": 33600,
-    "discountPrice": 33600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/119859483/L",
-    "itemUrl": "https://www.yes24.com/product/goods/119859483",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_125800845",
-    "platform": "YES24",
-    "title": "[세트] 7856 칠전팔기 러브 미스터리 (총4권/완결)",
-    "originalPrice": 10640,
-    "discountPrice": 10640,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125800845/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125800845",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
   },
   {
     "id": "YES24_89207806",
@@ -1185,7 +1163,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/89207806/L",
     "itemUrl": "https://www.yes24.com/product/goods/89207806",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.521Z"
+  },
+  {
+    "id": "YES24_119859483",
+    "platform": "YES24",
+    "title": "[세트] 사신 도련님과 검은 메이드 (총16권/완결)",
+    "originalPrice": 33600,
+    "discountPrice": 33600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/119859483/L",
+    "itemUrl": "https://www.yes24.com/product/goods/119859483",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_125800845",
+    "platform": "YES24",
+    "title": "[세트] 7856 칠전팔기 러브 미스터리 (총4권/완결)",
+    "originalPrice": 10640,
+    "discountPrice": 10640,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/125800845/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125800845",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182419",
@@ -1196,18 +1196,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182419/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182419",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_91618538",
-    "platform": "YES24",
-    "title": "[세트] 달콤달콤＆짜릿짜릿 (총12권/완결)",
-    "originalPrice": 33600,
-    "discountPrice": 33600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/91618538/L",
-    "itemUrl": "https://www.yes24.com/product/goods/91618538",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_90034696",
@@ -1218,7 +1207,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90034696/L",
     "itemUrl": "https://www.yes24.com/product/goods/90034696",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_91618538",
+    "platform": "YES24",
+    "title": "[세트] 달콤달콤＆짜릿짜릿 (총12권/완결)",
+    "originalPrice": 33600,
+    "discountPrice": 33600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/91618538/L",
+    "itemUrl": "https://www.yes24.com/product/goods/91618538",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188116221",
@@ -1229,7 +1229,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188116221/L",
     "itemUrl": "https://www.yes24.com/product/goods/188116221",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188116217",
@@ -1240,40 +1240,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188116217",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_70909459",
-    "platform": "YES24",
-    "title": "[세트] 괴도 르 뱅 (총2권/완결)",
-    "originalPrice": 4900,
-    "discountPrice": 4900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/70909459/L",
-    "itemUrl": "https://www.yes24.com/product/goods/70909459",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_96013984",
-    "platform": "YES24",
-    "title": "[세트] 탐정학원Q+탐정학원Q 프리미엄 (총23권/완결)",
-    "originalPrice": 56560,
-    "discountPrice": 56560,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/96013984/L",
-    "itemUrl": "https://www.yes24.com/product/goods/96013984",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_117023913",
-    "platform": "YES24",
-    "title": "[세트] 신의 물방울 최종장 마리아주 (총26권/완결)",
-    "originalPrice": 98280,
-    "discountPrice": 98280,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/117023913/L",
-    "itemUrl": "https://www.yes24.com/product/goods/117023913",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_32447708",
@@ -1284,7 +1251,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/32447708/L",
     "itemUrl": "https://www.yes24.com/product/goods/32447708",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_70909459",
+    "platform": "YES24",
+    "title": "[세트] 괴도 르 뱅 (총2권/완결)",
+    "originalPrice": 4900,
+    "discountPrice": 4900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/70909459/L",
+    "itemUrl": "https://www.yes24.com/product/goods/70909459",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_96013984",
+    "platform": "YES24",
+    "title": "[세트] 탐정학원Q+탐정학원Q 프리미엄 (총23권/완결)",
+    "originalPrice": 56560,
+    "discountPrice": 56560,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/96013984/L",
+    "itemUrl": "https://www.yes24.com/product/goods/96013984",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_117023913",
+    "platform": "YES24",
+    "title": "[세트] 신의 물방울 최종장 마리아주 (총26권/완결)",
+    "originalPrice": 98280,
+    "discountPrice": 98280,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/117023913/L",
+    "itemUrl": "https://www.yes24.com/product/goods/117023913",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_139700715",
@@ -1295,7 +1295,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139700715/L",
     "itemUrl": "https://www.yes24.com/product/goods/139700715",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189205468",
@@ -1306,7 +1306,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189205468",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189205472",
@@ -1317,18 +1317,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205472/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205472",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_163575685",
-    "platform": "YES24",
-    "title": "[세트] [GL] SHWD 슈드 (총3권/완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/163575685/L",
-    "itemUrl": "https://www.yes24.com/product/goods/163575685",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_114631147",
@@ -1339,7 +1328,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/114631147/L",
     "itemUrl": "https://www.yes24.com/product/goods/114631147",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_163575685",
+    "platform": "YES24",
+    "title": "[세트] [GL] SHWD 슈드 (총3권/완결)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/163575685/L",
+    "itemUrl": "https://www.yes24.com/product/goods/163575685",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_25552928",
@@ -1350,7 +1350,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/25552928/L",
     "itemUrl": "https://www.yes24.com/product/goods/25552928",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_148022800",
@@ -1361,7 +1361,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148022800/L",
     "itemUrl": "https://www.yes24.com/product/goods/148022800",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_118826701",
@@ -1372,40 +1372,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118826701/L",
     "itemUrl": "https://www.yes24.com/product/goods/118826701",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226689",
-    "platform": "YES24",
-    "title": "[묶음] 이세계에서 언니에게 이름을 빼앗겼습니다 (총4권/미완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226689/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226689",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226687",
-    "platform": "YES24",
-    "title": "[묶음] [코믹] 얼굴도 모르는 남편님께, 이혼을 요구합니다 (총4권/미완결)",
-    "originalPrice": 10080,
-    "discountPrice": 10080,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226687/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226687",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226686",
-    "platform": "YES24",
-    "title": "[묶음] 악역 영애는 익애루트에 들어갔습니다?! (총5권/미완결)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226686/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226686",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_157767444",
@@ -1416,7 +1383,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/157767444/L",
     "itemUrl": "https://www.yes24.com/product/goods/157767444",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226686",
+    "platform": "YES24",
+    "title": "[묶음] 악역 영애는 익애루트에 들어갔습니다?! (총5권/미완결)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226686/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226686",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226687",
+    "platform": "YES24",
+    "title": "[묶음] [코믹] 얼굴도 모르는 남편님께, 이혼을 요구합니다 (총4권/미완결)",
+    "originalPrice": 10080,
+    "discountPrice": 10080,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226687/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226687",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226689",
+    "platform": "YES24",
+    "title": "[묶음] 이세계에서 언니에게 이름을 빼앗겼습니다 (총4권/미완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226689/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226689",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_187925718",
@@ -1427,7 +1427,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/187925718",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_187925720",
@@ -1438,18 +1438,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187925720/L",
     "itemUrl": "https://www.yes24.com/product/goods/187925720",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_30707085",
-    "platform": "YES24",
-    "title": "[세트] 도박묵시록 카이지 카즈야 편 (총10권/완결)",
-    "originalPrice": 17500,
-    "discountPrice": 17500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/30707085/L",
-    "itemUrl": "https://www.yes24.com/product/goods/30707085",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_30706131",
@@ -1460,7 +1449,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/30706131/L",
     "itemUrl": "https://www.yes24.com/product/goods/30706131",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_30707085",
+    "platform": "YES24",
+    "title": "[세트] 도박묵시록 카이지 카즈야 편 (총10권/완결)",
+    "originalPrice": 17500,
+    "discountPrice": 17500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/30707085/L",
+    "itemUrl": "https://www.yes24.com/product/goods/30707085",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_108837294",
@@ -1471,40 +1471,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/108837294/L",
     "itemUrl": "https://www.yes24.com/product/goods/108837294",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_147786228",
-    "platform": "YES24",
-    "title": "[세트] 격투맨 바키 (총42권/완결)",
-    "originalPrice": 88200,
-    "discountPrice": 88200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/147786228",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_147786226",
-    "platform": "YES24",
-    "title": "[세트] 한마 바키 (총37권/완결)",
-    "originalPrice": 77700,
-    "discountPrice": 77700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/147786226",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_147786224",
-    "platform": "YES24",
-    "title": "[세트] 바키 외전 -스카페이스- (총6권/미완결)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/147786224",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_147786222",
@@ -1515,62 +1482,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/147786222",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_85117253",
+    "id": "YES24_147786224",
     "platform": "YES24",
-    "title": "[세트] 7인의 셰익스피어 제1부 (총3권/완결)",
-    "originalPrice": 11550,
-    "discountPrice": 11550,
+    "title": "[세트] 바키 외전 -스카페이스- (총6권/미완결)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/85117253/L",
-    "itemUrl": "https://www.yes24.com/product/goods/85117253",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/147786224",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_140227613",
+    "id": "YES24_147786226",
     "platform": "YES24",
-    "title": "[묶음] 7인의 셰익스피어 NON SANZ DROICT (총13권/미완결)",
-    "originalPrice": 40950,
-    "discountPrice": 40950,
+    "title": "[세트] 한마 바키 (총37권/완결)",
+    "originalPrice": 77700,
+    "discountPrice": 77700,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/140227613/L",
-    "itemUrl": "https://www.yes24.com/product/goods/140227613",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/147786226",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_184570615",
+    "id": "YES24_147786228",
     "platform": "YES24",
-    "title": "[세트] 마녀와 기사는 살아남는다 (총3권/완결)",
-    "originalPrice": 9450,
-    "discountPrice": 9450,
+    "title": "[세트] 격투맨 바키 (총42권/완결)",
+    "originalPrice": 88200,
+    "discountPrice": 88200,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/184570615/L",
-    "itemUrl": "https://www.yes24.com/product/goods/184570615",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189004657",
-    "platform": "YES24",
-    "title": "[묶음] 킬러의 휴일 (KILLER’S HOLIDAY) (총7권/미완결)",
-    "originalPrice": 15400,
-    "discountPrice": 15400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189004657/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189004657",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_125212974",
-    "platform": "YES24",
-    "title": "[세트] 순백의 소리 (총31권/완결)",
-    "originalPrice": 75950,
-    "discountPrice": 75950,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125212974/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125212974",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/147786228",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_32447706",
@@ -1581,7 +1526,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/32447706/L",
     "itemUrl": "https://www.yes24.com/product/goods/32447706",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_85117253",
+    "platform": "YES24",
+    "title": "[세트] 7인의 셰익스피어 제1부 (총3권/완결)",
+    "originalPrice": 11550,
+    "discountPrice": 11550,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/85117253/L",
+    "itemUrl": "https://www.yes24.com/product/goods/85117253",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_125212974",
+    "platform": "YES24",
+    "title": "[세트] 순백의 소리 (총31권/완결)",
+    "originalPrice": 75950,
+    "discountPrice": 75950,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/125212974/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125212974",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_140227613",
+    "platform": "YES24",
+    "title": "[묶음] 7인의 셰익스피어 NON SANZ DROICT (총13권/미완결)",
+    "originalPrice": 40950,
+    "discountPrice": 40950,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/140227613/L",
+    "itemUrl": "https://www.yes24.com/product/goods/140227613",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_154915571",
@@ -1592,7 +1570,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/154915571/L",
     "itemUrl": "https://www.yes24.com/product/goods/154915571",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_184570615",
+    "platform": "YES24",
+    "title": "[세트] 마녀와 기사는 살아남는다 (총3권/완결)",
+    "originalPrice": 9450,
+    "discountPrice": 9450,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/184570615/L",
+    "itemUrl": "https://www.yes24.com/product/goods/184570615",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189004657",
+    "platform": "YES24",
+    "title": "[묶음] 킬러의 휴일 (KILLER’S HOLIDAY) (총7권/미완결)",
+    "originalPrice": 15400,
+    "discountPrice": 15400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189004657/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189004657",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189110405",
@@ -1603,18 +1603,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189110405/L",
     "itemUrl": "https://www.yes24.com/product/goods/189110405",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_91181314",
-    "platform": "YES24",
-    "title": "[세트] 쓰르라미 울 적에 (완전판) (총32권/완결)",
-    "originalPrice": 78400,
-    "discountPrice": 78400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/91181314",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_86410373",
@@ -1625,7 +1614,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/86410373/L",
     "itemUrl": "https://www.yes24.com/product/goods/86410373",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_91181314",
+    "platform": "YES24",
+    "title": "[세트] 쓰르라미 울 적에 (완전판) (총32권/완결)",
+    "originalPrice": 78400,
+    "discountPrice": 78400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/91181314",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_126788922",
@@ -1636,7 +1636,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126788922/L",
     "itemUrl": "https://www.yes24.com/product/goods/126788922",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188600274",
@@ -1647,40 +1647,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188600274",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_105789843",
-    "platform": "YES24",
-    "title": "[세트] 스윗 드림(Sweet Dream) (완전판) (총49권/완결)",
-    "originalPrice": 16450,
-    "discountPrice": 16450,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/105789843",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_105789845",
-    "platform": "YES24",
-    "title": "[세트] 썸데이 썸데이 someday 썸day (총28화/완결)",
-    "originalPrice": 9450,
-    "discountPrice": 9450,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/105789845",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_105789840",
-    "platform": "YES24",
-    "title": "[세트] 스윗 드림(Sweet Dream) (개정판) (총47권/완결)",
-    "originalPrice": 15750,
-    "discountPrice": 15750,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/105789840/L",
-    "itemUrl": "https://www.yes24.com/product/goods/105789840",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_105133232",
@@ -1691,18 +1658,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/105133232",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_177496309",
+    "id": "YES24_105789840",
     "platform": "YES24",
-    "title": "[세트] 더티 리벤지 (총50화/완결)",
-    "originalPrice": 17500,
-    "discountPrice": 17500,
+    "title": "[세트] 스윗 드림(Sweet Dream) (개정판) (총47권/완결)",
+    "originalPrice": 15750,
+    "discountPrice": 15750,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/105789840/L",
+    "itemUrl": "https://www.yes24.com/product/goods/105789840",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_105789843",
+    "platform": "YES24",
+    "title": "[세트] 스윗 드림(Sweet Dream) (완전판) (총49권/완결)",
+    "originalPrice": 16450,
+    "discountPrice": 16450,
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/177496309",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "itemUrl": "https://www.yes24.com/product/goods/105789843",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_105789845",
+    "platform": "YES24",
+    "title": "[세트] 썸데이 썸데이 someday 썸day (총28화/완결)",
+    "originalPrice": 9450,
+    "discountPrice": 9450,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/105789845",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_124767684",
@@ -1713,18 +1702,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/124767684",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_146347477",
-    "platform": "YES24",
-    "title": "[세트] 오빠 친구 밀착 체험기 (총79화/완결)",
-    "originalPrice": 27650,
-    "discountPrice": 27650,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/146347477",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_139852027",
@@ -1735,7 +1713,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/139852027",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_146347477",
+    "platform": "YES24",
+    "title": "[세트] 오빠 친구 밀착 체험기 (총79화/완결)",
+    "originalPrice": 27650,
+    "discountPrice": 27650,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/146347477",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_177496309",
+    "platform": "YES24",
+    "title": "[세트] 더티 리벤지 (총50화/완결)",
+    "originalPrice": 17500,
+    "discountPrice": 17500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/177496309",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188226682",
@@ -1746,7 +1746,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226682/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226682",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188226768",
@@ -1757,106 +1757,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226768/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226768",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_107010593",
-    "platform": "YES24",
-    "title": "[세트] 마오의 기숙학교 (총3권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/107010593/L",
-    "itemUrl": "https://www.yes24.com/product/goods/107010593",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226683",
-    "platform": "YES24",
-    "title": "[묶음] 무자각 천재 소녀는 알아차리지 못한다 (총5권/미완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226683/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226683",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_104129297",
-    "platform": "YES24",
-    "title": "[세트] 남매 놀이 (총2권/완결)",
-    "originalPrice": 4200,
-    "discountPrice": 4200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/104129297/L",
-    "itemUrl": "https://www.yes24.com/product/goods/104129297",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226764",
-    "platform": "YES24",
-    "title": "[세트] 아르테 (총21권/완결)",
-    "originalPrice": 44100,
-    "discountPrice": 44100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226764/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226764",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226766",
-    "platform": "YES24",
-    "title": "[묶음] 최애가 부하가 되었습니다 (총4권/미완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226766/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226766",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188226770",
-    "platform": "YES24",
-    "title": "[묶음] 언성 신데렐라 병원 약사 아오이 미도리 (총14권/미완결)",
-    "originalPrice": 29400,
-    "discountPrice": 29400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188226770/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188226770",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_122852185",
-    "platform": "YES24",
-    "title": "[세트] 못난이에게 꽃다발을 (총12권/완결)",
-    "originalPrice": 25200,
-    "discountPrice": 25200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/122852185/L",
-    "itemUrl": "https://www.yes24.com/product/goods/122852185",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_14305245",
-    "platform": "YES24",
-    "title": "[세트] KISS (총8권/완결)",
-    "originalPrice": 11200,
-    "discountPrice": 11200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/14305245/L",
-    "itemUrl": "https://www.yes24.com/product/goods/14305245",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_14305244",
-    "platform": "YES24",
-    "title": "[세트] 뷰티허니 (총3권/완결)",
-    "originalPrice": 5250,
-    "discountPrice": 5250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/14305244/L",
-    "itemUrl": "https://www.yes24.com/product/goods/14305244",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_14305241",
@@ -1867,40 +1768,106 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/14305241/L",
     "itemUrl": "https://www.yes24.com/product/goods/14305241",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_123015431",
+    "id": "YES24_14305244",
     "platform": "YES24",
-    "title": "[세트] 방랑소년 (총15권/완결)",
-    "originalPrice": 36750,
-    "discountPrice": 36750,
+    "title": "[세트] 뷰티허니 (총3권/완결)",
+    "originalPrice": 5250,
+    "discountPrice": 5250,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/123015431/L",
-    "itemUrl": "https://www.yes24.com/product/goods/123015431",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/14305244/L",
+    "itemUrl": "https://www.yes24.com/product/goods/14305244",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_102918867",
+    "id": "YES24_14305245",
     "platform": "YES24",
-    "title": "[세트] 그녀가 되는 날 another (총4권/완결)",
+    "title": "[세트] KISS (총8권/완결)",
     "originalPrice": 11200,
     "discountPrice": 11200,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/102918867/L",
-    "itemUrl": "https://www.yes24.com/product/goods/102918867",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/14305245/L",
+    "itemUrl": "https://www.yes24.com/product/goods/14305245",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_102918866",
+    "id": "YES24_104129297",
     "platform": "YES24",
-    "title": "[세트] 그녀가 되는 날 (총4권/완결)",
-    "originalPrice": 11200,
-    "discountPrice": 11200,
+    "title": "[세트] 남매 놀이 (총2권/완결)",
+    "originalPrice": 4200,
+    "discountPrice": 4200,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/102918866/L",
-    "itemUrl": "https://www.yes24.com/product/goods/102918866",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/104129297/L",
+    "itemUrl": "https://www.yes24.com/product/goods/104129297",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_107010593",
+    "platform": "YES24",
+    "title": "[세트] 마오의 기숙학교 (총3권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/107010593/L",
+    "itemUrl": "https://www.yes24.com/product/goods/107010593",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_122852185",
+    "platform": "YES24",
+    "title": "[세트] 못난이에게 꽃다발을 (총12권/완결)",
+    "originalPrice": 25200,
+    "discountPrice": 25200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/122852185/L",
+    "itemUrl": "https://www.yes24.com/product/goods/122852185",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226683",
+    "platform": "YES24",
+    "title": "[묶음] 무자각 천재 소녀는 알아차리지 못한다 (총5권/미완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226683/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226683",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226764",
+    "platform": "YES24",
+    "title": "[세트] 아르테 (총21권/완결)",
+    "originalPrice": 44100,
+    "discountPrice": 44100,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226764/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226764",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226766",
+    "platform": "YES24",
+    "title": "[묶음] 최애가 부하가 되었습니다 (총4권/미완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226766/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226766",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188226770",
+    "platform": "YES24",
+    "title": "[묶음] 언성 신데렐라 병원 약사 아오이 미도리 (총14권/미완결)",
+    "originalPrice": 29400,
+    "discountPrice": 29400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188226770/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188226770",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_89580743",
@@ -1911,7 +1878,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/89580743/L",
     "itemUrl": "https://www.yes24.com/product/goods/89580743",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_102918866",
+    "platform": "YES24",
+    "title": "[세트] 그녀가 되는 날 (총4권/완결)",
+    "originalPrice": 11200,
+    "discountPrice": 11200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/102918866/L",
+    "itemUrl": "https://www.yes24.com/product/goods/102918866",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_102918867",
+    "platform": "YES24",
+    "title": "[세트] 그녀가 되는 날 another (총4권/완결)",
+    "originalPrice": 11200,
+    "discountPrice": 11200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/102918867/L",
+    "itemUrl": "https://www.yes24.com/product/goods/102918867",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_123015431",
+    "platform": "YES24",
+    "title": "[세트] 방랑소년 (총15권/완결)",
+    "originalPrice": 36750,
+    "discountPrice": 36750,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/123015431/L",
+    "itemUrl": "https://www.yes24.com/product/goods/123015431",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188920710",
@@ -1922,18 +1922,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920710/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920710",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_117498355",
-    "platform": "YES24",
-    "title": "[세트] 카니발 (총28권/완결)",
-    "originalPrice": 58800,
-    "discountPrice": 58800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/117498355/L",
-    "itemUrl": "https://www.yes24.com/product/goods/117498355",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_94508301",
@@ -1944,7 +1933,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/94508301/L",
     "itemUrl": "https://www.yes24.com/product/goods/94508301",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_117498355",
+    "platform": "YES24",
+    "title": "[세트] 카니발 (총28권/완결)",
+    "originalPrice": 58800,
+    "discountPrice": 58800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/117498355/L",
+    "itemUrl": "https://www.yes24.com/product/goods/117498355",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_143894899",
@@ -1955,7 +1955,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/143894899/L",
     "itemUrl": "https://www.yes24.com/product/goods/143894899",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188600269",
@@ -1966,7 +1966,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188600269/L",
     "itemUrl": "https://www.yes24.com/product/goods/188600269",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_83041778",
@@ -1977,7 +1977,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/83041778/L",
     "itemUrl": "https://www.yes24.com/product/goods/83041778",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_144160574",
@@ -1988,7 +1988,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/144160574/L",
     "itemUrl": "https://www.yes24.com/product/goods/144160574",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188920702",
@@ -1999,7 +1999,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920702/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920702",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188920708",
@@ -2010,106 +2010,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920708/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920708",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_33524942",
-    "platform": "YES24",
-    "title": "[세트] 내일의 왕님 (총10권/완결)",
-    "originalPrice": 30000,
-    "discountPrice": 21000,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/33524942/L",
-    "itemUrl": "https://www.yes24.com/product/goods/33524942",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_62489975",
-    "platform": "YES24",
-    "title": "[세트] 장미를 위하여 (총16권/완결)",
-    "originalPrice": 48000,
-    "discountPrice": 33600,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/62489975/L",
-    "itemUrl": "https://www.yes24.com/product/goods/62489975",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_24968037",
-    "platform": "YES24",
-    "title": "[세트] 아오하라이드 (총13권/완결)",
-    "originalPrice": 39000,
-    "discountPrice": 27300,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/24968037/L",
-    "itemUrl": "https://www.yes24.com/product/goods/24968037",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_15782097",
-    "platform": "YES24",
-    "title": "[세트] 모래시계 (총10권/완결)",
-    "originalPrice": 30000,
-    "discountPrice": 21000,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/15782097/L",
-    "itemUrl": "https://www.yes24.com/product/goods/15782097",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_15782038",
-    "platform": "YES24",
-    "title": "[세트] 우리들이 있었다 (총16권/완결)",
-    "originalPrice": 48000,
-    "discountPrice": 33600,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/15782038/L",
-    "itemUrl": "https://www.yes24.com/product/goods/15782038",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_67448456",
-    "platform": "YES24",
-    "title": "[세트] 아이즈(IS) (총15권/완결)",
-    "originalPrice": 45000,
-    "discountPrice": 31500,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/67448456/L",
-    "itemUrl": "https://www.yes24.com/product/goods/67448456",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188920709",
-    "platform": "YES24",
-    "title": "[세트] 신풍괴도 잔느 (애장판) (총5권/완결)",
-    "originalPrice": 52500,
-    "discountPrice": 36750,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/188920709/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188920709",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_15781724",
-    "platform": "YES24",
-    "title": "[세트] 빨간망토 차차 (총13권/완결)",
-    "originalPrice": 39000,
-    "discountPrice": 27300,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/15781724/L",
-    "itemUrl": "https://www.yes24.com/product/goods/15781724",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_15402935",
-    "platform": "YES24",
-    "title": "[묶음] 나나 (총21권/미완결)",
-    "originalPrice": 44100,
-    "discountPrice": 44100,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/15402935/L",
-    "itemUrl": "https://www.yes24.com/product/goods/15402935",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_15114305",
@@ -2120,40 +2021,106 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15114305/L",
     "itemUrl": "https://www.yes24.com/product/goods/15114305",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_159251585",
+    "id": "YES24_15402935",
     "platform": "YES24",
-    "title": "[세트] 주술회전 (총30권/완결)",
-    "originalPrice": 63000,
-    "discountPrice": 63000,
+    "title": "[묶음] 나나 (총21권/미완결)",
+    "originalPrice": 44100,
+    "discountPrice": 44100,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/159251585/L",
-    "itemUrl": "https://www.yes24.com/product/goods/159251585",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/15402935/L",
+    "itemUrl": "https://www.yes24.com/product/goods/15402935",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_126180186",
+    "id": "YES24_15781724",
     "platform": "YES24",
-    "title": "[묶음] 블랙 클로버 (총35권/미완결)",
-    "originalPrice": 84000,
-    "discountPrice": 84000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/126180186/L",
-    "itemUrl": "https://www.yes24.com/product/goods/126180186",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "title": "[세트] 빨간망토 차차 (총13권/완결)",
+    "originalPrice": 39000,
+    "discountPrice": 27300,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/15781724/L",
+    "itemUrl": "https://www.yes24.com/product/goods/15781724",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_61557641",
+    "id": "YES24_15782038",
     "platform": "YES24",
-    "title": "[세트] 봉신연의 완전판 (총18권/완결)",
-    "originalPrice": 75600,
-    "discountPrice": 75600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/61557641/L",
-    "itemUrl": "https://www.yes24.com/product/goods/61557641",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "title": "[세트] 우리들이 있었다 (총16권/완결)",
+    "originalPrice": 48000,
+    "discountPrice": 33600,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/15782038/L",
+    "itemUrl": "https://www.yes24.com/product/goods/15782038",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_15782097",
+    "platform": "YES24",
+    "title": "[세트] 모래시계 (총10권/완결)",
+    "originalPrice": 30000,
+    "discountPrice": 21000,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/15782097/L",
+    "itemUrl": "https://www.yes24.com/product/goods/15782097",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_24968037",
+    "platform": "YES24",
+    "title": "[세트] 아오하라이드 (총13권/완결)",
+    "originalPrice": 39000,
+    "discountPrice": 27300,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/24968037/L",
+    "itemUrl": "https://www.yes24.com/product/goods/24968037",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_33524942",
+    "platform": "YES24",
+    "title": "[세트] 내일의 왕님 (총10권/완결)",
+    "originalPrice": 30000,
+    "discountPrice": 21000,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/33524942/L",
+    "itemUrl": "https://www.yes24.com/product/goods/33524942",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_62489975",
+    "platform": "YES24",
+    "title": "[세트] 장미를 위하여 (총16권/완결)",
+    "originalPrice": 48000,
+    "discountPrice": 33600,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/62489975/L",
+    "itemUrl": "https://www.yes24.com/product/goods/62489975",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_67448456",
+    "platform": "YES24",
+    "title": "[세트] 아이즈(IS) (총15권/완결)",
+    "originalPrice": 45000,
+    "discountPrice": 31500,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/67448456/L",
+    "itemUrl": "https://www.yes24.com/product/goods/67448456",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188920709",
+    "platform": "YES24",
+    "title": "[세트] 신풍괴도 잔느 (애장판) (총5권/완결)",
+    "originalPrice": 52500,
+    "discountPrice": 36750,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/188920709/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188920709",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_35111866",
@@ -2164,7 +2131,29 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/35111866/L",
     "itemUrl": "https://www.yes24.com/product/goods/35111866",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_61557641",
+    "platform": "YES24",
+    "title": "[세트] 봉신연의 완전판 (총18권/완결)",
+    "originalPrice": 108000,
+    "discountPrice": 75600,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/61557641/L",
+    "itemUrl": "https://www.yes24.com/product/goods/61557641",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_126180186",
+    "platform": "YES24",
+    "title": "[묶음] 블랙 클로버 (총35권/미완결)",
+    "originalPrice": 84000,
+    "discountPrice": 84000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/126180186/L",
+    "itemUrl": "https://www.yes24.com/product/goods/126180186",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_128884796",
@@ -2175,7 +2164,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/128884796/L",
     "itemUrl": "https://www.yes24.com/product/goods/128884796",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_139775148",
@@ -2186,7 +2175,18 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/139775148/L",
     "itemUrl": "https://www.yes24.com/product/goods/139775148",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_159251585",
+    "platform": "YES24",
+    "title": "[세트] 주술회전 (총30권/완결)",
+    "originalPrice": 90000,
+    "discountPrice": 63000,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/159251585/L",
+    "itemUrl": "https://www.yes24.com/product/goods/159251585",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182766",
@@ -2197,7 +2197,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189182766",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182768",
@@ -2208,7 +2208,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182768/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182768",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182769",
@@ -2219,172 +2219,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182769/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182769",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_116248998",
-    "platform": "YES24",
-    "title": "[묶음] 마녀와 야수 (총10권/미완결)",
-    "originalPrice": 24000,
-    "discountPrice": 24000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/116248998/L",
-    "itemUrl": "https://www.yes24.com/product/goods/116248998",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_116624056",
-    "platform": "YES24",
-    "title": "[세트] 송혼의 소녀와 장례여행 (총7권/완결)",
-    "originalPrice": 17150,
-    "discountPrice": 17150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/116624056/L",
-    "itemUrl": "https://www.yes24.com/product/goods/116624056",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_116784961",
-    "platform": "YES24",
-    "title": "천지창조 디자인부 (총8권/미완결)",
-    "originalPrice": 24000,
-    "discountPrice": 16800,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/116784961/L",
-    "itemUrl": "https://www.yes24.com/product/goods/116784961",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_117761286",
-    "platform": "YES24",
-    "title": "[세트] 쿨하고 바보 같은 남자 (총5권/미완결)",
-    "originalPrice": 20000,
-    "discountPrice": 14000,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/117761286/L",
-    "itemUrl": "https://www.yes24.com/product/goods/117761286",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_118099454",
-    "platform": "YES24",
-    "title": "[세트] 혈해의 노아 (총5권/완결)",
-    "originalPrice": 15000,
-    "discountPrice": 10500,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/118099454",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_178310859",
-    "platform": "YES24",
-    "title": "[묶음] 버려진 악역 영애는 괴물에게 옛날이야기를 들려준다 (총5권/미완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/178310859/L",
-    "itemUrl": "https://www.yes24.com/product/goods/178310859",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_178310846",
-    "platform": "YES24",
-    "title": "[묶음] 처형당한 현자는 리치로 전생하여 침략전쟁을 시작한다 (총13권/미완결)",
-    "originalPrice": 27300,
-    "discountPrice": 27300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/178310846/L",
-    "itemUrl": "https://www.yes24.com/product/goods/178310846",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_176490463",
-    "platform": "YES24",
-    "title": "[묶음] 요괴 학교의 선생님이 되었습니다! (총12권/미완결)",
-    "originalPrice": 25200,
-    "discountPrice": 25200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/176490463/L",
-    "itemUrl": "https://www.yes24.com/product/goods/176490463",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_175444396",
-    "platform": "YES24",
-    "title": "[묶음] 선생님! 저희들이 세계를 멸망시킵니다 (총7권/미완결)",
-    "originalPrice": 17150,
-    "discountPrice": 17150,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/175444396/L",
-    "itemUrl": "https://www.yes24.com/product/goods/175444396",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_120006135",
-    "platform": "YES24",
-    "title": "[세트] 생존게임 (총11권/완결)",
-    "originalPrice": 66000,
-    "discountPrice": 46200,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/120006135/L",
-    "itemUrl": "https://www.yes24.com/product/goods/120006135",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_173142845",
-    "platform": "YES24",
-    "title": "[묶음] 집에서 도망치고 싶은 내가 어쩌다가 동경하던 대마법사님을 사버렸더니 (총4권/미완결)",
-    "originalPrice": 8960,
-    "discountPrice": 8960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/173142845/L",
-    "itemUrl": "https://www.yes24.com/product/goods/173142845",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_123930257",
-    "platform": "YES24",
-    "title": "[세트] 쌍생유희 (총5권/완결)",
-    "originalPrice": 15000,
-    "discountPrice": 10500,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/123930257",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_124053474",
-    "platform": "YES24",
-    "title": "[세트] 참방참방 수영부 (총5권/완결)",
-    "originalPrice": 15000,
-    "discountPrice": 10500,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/124053474/L",
-    "itemUrl": "https://www.yes24.com/product/goods/124053474",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_160763034",
-    "platform": "YES24",
-    "title": "[묶음] 플라잉 위치(flying witch) (총14권/미완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/160763034/L",
-    "itemUrl": "https://www.yes24.com/product/goods/160763034",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_125027048",
-    "platform": "YES24",
-    "title": "[묶음] 먼작귀(먼가 작고 귀여운 녀석) (총5권/미완결)",
-    "originalPrice": 22750,
-    "discountPrice": 22750,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125027048/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125027048",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_68868119",
@@ -2395,7 +2230,106 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/68868119/L",
     "itemUrl": "https://www.yes24.com/product/goods/68868119",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_116248998",
+    "platform": "YES24",
+    "title": "[묶음] 마녀와 야수 (총10권/미완결)",
+    "originalPrice": 24000,
+    "discountPrice": 24000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/116248998/L",
+    "itemUrl": "https://www.yes24.com/product/goods/116248998",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_116624056",
+    "platform": "YES24",
+    "title": "[세트] 송혼의 소녀와 장례여행 (총7권/완결)",
+    "originalPrice": 24500,
+    "discountPrice": 17150,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/116624056/L",
+    "itemUrl": "https://www.yes24.com/product/goods/116624056",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_116784961",
+    "platform": "YES24",
+    "title": "천지창조 디자인부 (총8권/미완결)",
+    "originalPrice": 24000,
+    "discountPrice": 16800,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/116784961/L",
+    "itemUrl": "https://www.yes24.com/product/goods/116784961",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_117761286",
+    "platform": "YES24",
+    "title": "[세트] 쿨하고 바보 같은 남자 (총5권/미완결)",
+    "originalPrice": 20000,
+    "discountPrice": 14000,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/117761286/L",
+    "itemUrl": "https://www.yes24.com/product/goods/117761286",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_118099454",
+    "platform": "YES24",
+    "title": "[세트] 혈해의 노아 (총5권/완결)",
+    "originalPrice": 15000,
+    "discountPrice": 10500,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/118099454",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_120006135",
+    "platform": "YES24",
+    "title": "[세트] 생존게임 (총11권/완결)",
+    "originalPrice": 66000,
+    "discountPrice": 46200,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/120006135/L",
+    "itemUrl": "https://www.yes24.com/product/goods/120006135",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_123930257",
+    "platform": "YES24",
+    "title": "[세트] 쌍생유희 (총5권/완결)",
+    "originalPrice": 15000,
+    "discountPrice": 10500,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/123930257",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_124053474",
+    "platform": "YES24",
+    "title": "[세트] 참방참방 수영부 (총5권/완결)",
+    "originalPrice": 15000,
+    "discountPrice": 10500,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/124053474/L",
+    "itemUrl": "https://www.yes24.com/product/goods/124053474",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_125027048",
+    "platform": "YES24",
+    "title": "[묶음] 먼작귀(먼가 작고 귀여운 녀석) (총5권/미완결)",
+    "originalPrice": 22750,
+    "discountPrice": 22750,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/125027048/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125027048",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_132950170",
@@ -2406,7 +2340,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/132950170/L",
     "itemUrl": "https://www.yes24.com/product/goods/132950170",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_133336337",
@@ -2417,18 +2351,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/133336337/L",
     "itemUrl": "https://www.yes24.com/product/goods/133336337",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_149393804",
-    "platform": "YES24",
-    "title": "[묶음] 메이드 인 어비스 (총13권/미완결)",
-    "originalPrice": 27300,
-    "discountPrice": 27300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/149393804/L",
-    "itemUrl": "https://www.yes24.com/product/goods/149393804",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_148173847",
@@ -2439,7 +2362,84 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148173847/L",
     "itemUrl": "https://www.yes24.com/product/goods/148173847",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_149393804",
+    "platform": "YES24",
+    "title": "[묶음] 메이드 인 어비스 (총13권/미완결)",
+    "originalPrice": 27300,
+    "discountPrice": 27300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/149393804/L",
+    "itemUrl": "https://www.yes24.com/product/goods/149393804",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_160763034",
+    "platform": "YES24",
+    "title": "[묶음] 플라잉 위치(flying witch) (총14권/미완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/160763034/L",
+    "itemUrl": "https://www.yes24.com/product/goods/160763034",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_173142845",
+    "platform": "YES24",
+    "title": "[묶음] 집에서 도망치고 싶은 내가 어쩌다가 동경하던 대마법사님을 사버렸더니 (총4권/미완결)",
+    "originalPrice": 8960,
+    "discountPrice": 8960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/173142845/L",
+    "itemUrl": "https://www.yes24.com/product/goods/173142845",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_175444396",
+    "platform": "YES24",
+    "title": "[묶음] 선생님! 저희들이 세계를 멸망시킵니다 (총7권/미완결)",
+    "originalPrice": 17150,
+    "discountPrice": 17150,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/175444396/L",
+    "itemUrl": "https://www.yes24.com/product/goods/175444396",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_176490463",
+    "platform": "YES24",
+    "title": "[묶음] 요괴 학교의 선생님이 되었습니다! (총12권/미완결)",
+    "originalPrice": 25200,
+    "discountPrice": 25200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/176490463/L",
+    "itemUrl": "https://www.yes24.com/product/goods/176490463",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_178310846",
+    "platform": "YES24",
+    "title": "[묶음] 처형당한 현자는 리치로 전생하여 침략전쟁을 시작한다 (총13권/미완결)",
+    "originalPrice": 27300,
+    "discountPrice": 27300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/178310846/L",
+    "itemUrl": "https://www.yes24.com/product/goods/178310846",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_178310859",
+    "platform": "YES24",
+    "title": "[묶음] 버려진 악역 영애는 괴물에게 옛날이야기를 들려준다 (총5권/미완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/178310859/L",
+    "itemUrl": "https://www.yes24.com/product/goods/178310859",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189004656",
@@ -2450,106 +2450,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004656/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004656",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_110156607",
-    "platform": "YES24",
-    "title": "[세트] 지켜줘! 롤리팝 (총7권/완결)",
-    "originalPrice": 18620,
-    "discountPrice": 18620,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/110156607/L",
-    "itemUrl": "https://www.yes24.com/product/goods/110156607",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_113842145",
-    "platform": "YES24",
-    "title": "[세트] 돌아온! 지켜줘! 롤리팝 (총6권/완결)",
-    "originalPrice": 15960,
-    "discountPrice": 15960,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/113842145/L",
-    "itemUrl": "https://www.yes24.com/product/goods/113842145",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_184392000",
-    "platform": "YES24",
-    "title": "[세트] 스티어의 마녀 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/184392000/L",
-    "itemUrl": "https://www.yes24.com/product/goods/184392000",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_184391999",
-    "platform": "YES24",
-    "title": "[세트] 니콜라의 느긋한 마계 기행 (총4권/완결)",
-    "originalPrice": 15120,
-    "discountPrice": 15120,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/184391999/L",
-    "itemUrl": "https://www.yes24.com/product/goods/184391999",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_184391998",
-    "platform": "YES24",
-    "title": "[묶음] 고깔모자의 아틀리에 (총14권/미완결)",
-    "originalPrice": 37240,
-    "discountPrice": 37240,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/184391998/L",
-    "itemUrl": "https://www.yes24.com/product/goods/184391998",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_118701821",
-    "platform": "YES24",
-    "title": "[고화질세트] 일찍이 마법소녀와 악은 적대하고 있었다. (총3권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/118701821/L",
-    "itemUrl": "https://www.yes24.com/product/goods/118701821",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_118701822",
-    "platform": "YES24",
-    "title": "[세트] 하토코 씨는 때때로 마법소녀 (총4권/완결)",
-    "originalPrice": 12160,
-    "discountPrice": 12160,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/118701822/L",
-    "itemUrl": "https://www.yes24.com/product/goods/118701822",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_121821637",
-    "platform": "YES24",
-    "title": "[세트] 유큐홀더!(UQ HOLDER!) (총28권/완결)",
-    "originalPrice": 68600,
-    "discountPrice": 68600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/121821637/L",
-    "itemUrl": "https://www.yes24.com/product/goods/121821637",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_150305357",
-    "platform": "YES24",
-    "title": "[세트] 은의 밀밭 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/150305357/L",
-    "itemUrl": "https://www.yes24.com/product/goods/150305357",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_30572888",
@@ -2560,7 +2461,62 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/30572888/L",
     "itemUrl": "https://www.yes24.com/product/goods/30572888",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_110156607",
+    "platform": "YES24",
+    "title": "[세트] 지켜줘! 롤리팝 (총7권/완결)",
+    "originalPrice": 18620,
+    "discountPrice": 18620,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/110156607/L",
+    "itemUrl": "https://www.yes24.com/product/goods/110156607",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_113842145",
+    "platform": "YES24",
+    "title": "[세트] 돌아온! 지켜줘! 롤리팝 (총6권/완결)",
+    "originalPrice": 15960,
+    "discountPrice": 15960,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/113842145/L",
+    "itemUrl": "https://www.yes24.com/product/goods/113842145",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_118701821",
+    "platform": "YES24",
+    "title": "[고화질세트] 일찍이 마법소녀와 악은 적대하고 있었다. (총3권/완결)",
+    "originalPrice": 6300,
+    "discountPrice": 6300,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/118701821/L",
+    "itemUrl": "https://www.yes24.com/product/goods/118701821",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_118701822",
+    "platform": "YES24",
+    "title": "[세트] 하토코 씨는 때때로 마법소녀 (총4권/완결)",
+    "originalPrice": 12160,
+    "discountPrice": 12160,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/118701822/L",
+    "itemUrl": "https://www.yes24.com/product/goods/118701822",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_121821637",
+    "platform": "YES24",
+    "title": "[세트] 유큐홀더!(UQ HOLDER!) (총28권/완결)",
+    "originalPrice": 68600,
+    "discountPrice": 68600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/121821637/L",
+    "itemUrl": "https://www.yes24.com/product/goods/121821637",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_134773870",
@@ -2571,7 +2527,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/134773870/L",
     "itemUrl": "https://www.yes24.com/product/goods/134773870",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_137451072",
@@ -2582,29 +2538,51 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/137451072/L",
     "itemUrl": "https://www.yes24.com/product/goods/137451072",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_188927860",
+    "id": "YES24_150305357",
     "platform": "YES24",
-    "title": "[묶음] 시간 정지 용사 (총20권/미완결)",
-    "originalPrice": 49000,
-    "discountPrice": 49000,
+    "title": "[세트] 은의 밀밭 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/188927860",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/150305357/L",
+    "itemUrl": "https://www.yes24.com/product/goods/150305357",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_188920790",
+    "id": "YES24_184391998",
     "platform": "YES24",
-    "title": "[묶음] 샹그릴라 프론티어 (총24권/미완결)",
-    "originalPrice": 58800,
-    "discountPrice": 58800,
+    "title": "[묶음] 고깔모자의 아틀리에 (총14권/미완결)",
+    "originalPrice": 37240,
+    "discountPrice": 37240,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188920790/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188920790",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/184391998/L",
+    "itemUrl": "https://www.yes24.com/product/goods/184391998",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_184391999",
+    "platform": "YES24",
+    "title": "[세트] 니콜라의 느긋한 마계 기행 (총4권/완결)",
+    "originalPrice": 15120,
+    "discountPrice": 15120,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/184391999/L",
+    "itemUrl": "https://www.yes24.com/product/goods/184391999",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_184392000",
+    "platform": "YES24",
+    "title": "[세트] 스티어의 마녀 (총3권/완결)",
+    "originalPrice": 7980,
+    "discountPrice": 7980,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/184392000/L",
+    "itemUrl": "https://www.yes24.com/product/goods/184392000",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188920789",
@@ -2615,18 +2593,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920789/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920789",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_188920706",
+    "id": "YES24_188920790",
     "platform": "YES24",
-    "title": "[묶음] 매캐한 이야기 (총6권/미완결)",
-    "originalPrice": 16800,
-    "discountPrice": 16800,
+    "title": "[묶음] 샹그릴라 프론티어 (총24권/미완결)",
+    "originalPrice": 58800,
+    "discountPrice": 58800,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188920706/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188920706",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/188920790/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188920790",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188927860",
+    "platform": "YES24",
+    "title": "[묶음] 시간 정지 용사 (총20권/미완결)",
+    "originalPrice": 49000,
+    "discountPrice": 49000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/188927860",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188920704",
@@ -2637,7 +2626,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920704/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920704",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188920706",
+    "platform": "YES24",
+    "title": "[묶음] 매캐한 이야기 (총6권/미완결)",
+    "originalPrice": 16800,
+    "discountPrice": 16800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/188920706/L",
+    "itemUrl": "https://www.yes24.com/product/goods/188920706",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_139775152",
@@ -2648,7 +2648,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139775152/L",
     "itemUrl": "https://www.yes24.com/product/goods/139775152",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_146121869",
@@ -2659,7 +2659,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/146121869/L",
     "itemUrl": "https://www.yes24.com/product/goods/146121869",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_148368359",
@@ -2670,18 +2670,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148368359/L",
     "itemUrl": "https://www.yes24.com/product/goods/148368359",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_188920787",
-    "platform": "YES24",
-    "title": "[묶음] 다윈즈 게임 (총18권/미완결)",
-    "originalPrice": 31500,
-    "discountPrice": 31500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/188920787",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_167806537",
@@ -2692,7 +2681,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/167806537/L",
     "itemUrl": "https://www.yes24.com/product/goods/167806537",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_188920787",
+    "platform": "YES24",
+    "title": "[묶음] 다윈즈 게임 (총18권/미완결)",
+    "originalPrice": 31500,
+    "discountPrice": 31500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/188920787",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_188858019",
@@ -2703,40 +2703,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188858019/L",
     "itemUrl": "https://www.yes24.com/product/goods/188858019",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_119877858",
-    "platform": "YES24",
-    "title": "[세트] 러브 미 퐁포코! (총5권/완결)",
-    "originalPrice": 15200,
-    "discountPrice": 15200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/119877858/L",
-    "itemUrl": "https://www.yes24.com/product/goods/119877858",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_120791717",
-    "platform": "YES24",
-    "title": "[세트] 타나카 군은 항상 나른해 (총13권/완결)",
-    "originalPrice": 31850,
-    "discountPrice": 31850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/120791717/L",
-    "itemUrl": "https://www.yes24.com/product/goods/120791717",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_177646113",
-    "platform": "YES24",
-    "title": "[세트] 백수 고양이 (총10권/미완결)",
-    "originalPrice": 37800,
-    "discountPrice": 37800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/177646113/L",
-    "itemUrl": "https://www.yes24.com/product/goods/177646113",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_33391718",
@@ -2747,7 +2714,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/33391718/L",
     "itemUrl": "https://www.yes24.com/product/goods/33391718",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_119877858",
+    "platform": "YES24",
+    "title": "[세트] 러브 미 퐁포코! (총5권/완결)",
+    "originalPrice": 15200,
+    "discountPrice": 15200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/119877858/L",
+    "itemUrl": "https://www.yes24.com/product/goods/119877858",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_120791717",
+    "platform": "YES24",
+    "title": "[세트] 타나카 군은 항상 나른해 (총13권/완결)",
+    "originalPrice": 31850,
+    "discountPrice": 31850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/120791717/L",
+    "itemUrl": "https://www.yes24.com/product/goods/120791717",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_133845015",
@@ -2758,7 +2747,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/133845015/L",
     "itemUrl": "https://www.yes24.com/product/goods/133845015",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_140272028",
@@ -2769,7 +2758,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/140272028/L",
     "itemUrl": "https://www.yes24.com/product/goods/140272028",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_177646113",
+    "platform": "YES24",
+    "title": "[세트] 백수 고양이 (총10권/미완결)",
+    "originalPrice": 37800,
+    "discountPrice": 37800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/177646113/L",
+    "itemUrl": "https://www.yes24.com/product/goods/177646113",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189004659",
@@ -2780,7 +2780,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189004659",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189004658",
@@ -2791,7 +2791,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004658/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004658",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_105984900",
@@ -2802,7 +2802,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105984900/L",
     "itemUrl": "https://www.yes24.com/product/goods/105984900",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_108683737",
@@ -2813,7 +2813,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/108683737/L",
     "itemUrl": "https://www.yes24.com/product/goods/108683737",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_109155252",
@@ -2824,7 +2824,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/109155252",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_110021497",
@@ -2835,7 +2835,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/110021497/L",
     "itemUrl": "https://www.yes24.com/product/goods/110021497",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_119965894",
@@ -2846,7 +2846,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/119965894",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_122584506",
@@ -2857,18 +2857,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/122584506",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_170592446",
-    "platform": "YES24",
-    "title": "[세트] 꽃이 내리는 밤 (개정판) (총67화/완결)",
-    "originalPrice": 23450,
-    "discountPrice": 23450,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/170592446/L",
-    "itemUrl": "https://www.yes24.com/product/goods/170592446",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_170592443",
@@ -2879,40 +2868,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/170592443",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_189205482",
+    "id": "YES24_170592446",
     "platform": "YES24",
-    "title": "[묶음] 양지바른 셰어하우스 (총9권/미완결)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
+    "title": "[세트] 꽃이 내리는 밤 (개정판) (총67화/완결)",
+    "originalPrice": 23450,
+    "discountPrice": 23450,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205482/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205482",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205481",
-    "platform": "YES24",
-    "title": "[묶음] 우리가 사랑에 빠진 이유 신장판 (총6권/미완결)",
-    "originalPrice": 21000,
-    "discountPrice": 21000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205481/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205481",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205480",
-    "platform": "YES24",
-    "title": "[세트] 기꺼이 하겠습니다 (총5권/완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205480/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205480",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/170592446/L",
+    "itemUrl": "https://www.yes24.com/product/goods/170592446",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_105655297",
@@ -2923,7 +2890,40 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105655297/L",
     "itemUrl": "https://www.yes24.com/product/goods/105655297",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205480",
+    "platform": "YES24",
+    "title": "[세트] 기꺼이 하겠습니다 (총5권/완결)",
+    "originalPrice": 12250,
+    "discountPrice": 12250,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205480/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205480",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205481",
+    "platform": "YES24",
+    "title": "[묶음] 우리가 사랑에 빠진 이유 신장판 (총6권/미완결)",
+    "originalPrice": 21000,
+    "discountPrice": 21000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205481/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205481",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205482",
+    "platform": "YES24",
+    "title": "[묶음] 양지바른 셰어하우스 (총9권/미완결)",
+    "originalPrice": 18900,
+    "discountPrice": 18900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205482/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205482",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189004643",
@@ -2934,18 +2934,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004643/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004643",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_174147379",
-    "platform": "YES24",
-    "title": "[묶음] [코믹] 슈퍼 커브 (총10권/미완결)",
-    "originalPrice": 24500,
-    "discountPrice": 24500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/174147379/L",
-    "itemUrl": "https://www.yes24.com/product/goods/174147379",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_90046481",
@@ -2956,7 +2945,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90046481/L",
     "itemUrl": "https://www.yes24.com/product/goods/90046481",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_174147379",
+    "platform": "YES24",
+    "title": "[묶음] [코믹] 슈퍼 커브 (총10권/미완결)",
+    "originalPrice": 24500,
+    "discountPrice": 24500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/174147379/L",
+    "itemUrl": "https://www.yes24.com/product/goods/174147379",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_179673249",
@@ -2967,7 +2967,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/179673249/L",
     "itemUrl": "https://www.yes24.com/product/goods/179673249",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_183793483",
@@ -2978,7 +2978,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/183793483/L",
     "itemUrl": "https://www.yes24.com/product/goods/183793483",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182405",
@@ -2989,194 +2989,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182405/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182405",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205497",
-    "platform": "YES24",
-    "title": "[묶음] 전대 레드 이세계에서 모험가가 되다 (총9권/미완결)",
-    "originalPrice": 22050,
-    "discountPrice": 22050,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205497/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205497",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205496",
-    "platform": "YES24",
-    "title": "[묶음] 쟈히 님은 기죽지 않아! (총12권/미완결)",
-    "originalPrice": 29400,
-    "discountPrice": 29400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205496/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205496",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205493",
-    "platform": "YES24",
-    "title": "[묶음] 책벌레의 하극상 제4부 (총9권/미완결)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205493/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205493",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205492",
-    "platform": "YES24",
-    "title": "[묶음] 책벌레의 하극상 제3부 (총9권/미완결)",
-    "originalPrice": 18900,
-    "discountPrice": 18900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205492/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205492",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205491",
-    "platform": "YES24",
-    "title": "[묶음] 이세계 주점 노부 (총19권/미완결)",
-    "originalPrice": 39900,
-    "discountPrice": 39900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205491/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205491",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_87664458",
-    "platform": "YES24",
-    "title": "[세트] 춤추는 족제비 (총8권/완결)",
-    "originalPrice": 16800,
-    "discountPrice": 16800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/87664458/L",
-    "itemUrl": "https://www.yes24.com/product/goods/87664458",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_83489625",
-    "platform": "YES24",
-    "title": "[세트] 후르츠 바스켓 (애장판) (총12권/완결)",
-    "originalPrice": 46200,
-    "discountPrice": 46200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/83489625/L",
-    "itemUrl": "https://www.yes24.com/product/goods/83489625",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205476",
-    "platform": "YES24",
-    "title": "[묶음] 사정을 모르는 전학생이 거침없이 다가온다. (총22권/미완결)",
-    "originalPrice": 61600,
-    "discountPrice": 61600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205476/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205476",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_189205474",
-    "platform": "YES24",
-    "title": "[묶음] 학원 베이비시터즈(단행본) (총27권/미완결)",
-    "originalPrice": 54000,
-    "discountPrice": 54000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/189205474/L",
-    "itemUrl": "https://www.yes24.com/product/goods/189205474",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_142841148",
-    "platform": "YES24",
-    "title": "[묶음] 살랑살랑 Q (총4권/미완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/142841148/L",
-    "itemUrl": "https://www.yes24.com/product/goods/142841148",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_142868262",
-    "platform": "YES24",
-    "title": "[세트] 사외 연애 (총52화/완결)",
-    "originalPrice": 17850,
-    "discountPrice": 17850,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/142868262",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_142868274",
-    "platform": "YES24",
-    "title": "[세트] 사외 연애 (개정판) (총44화/완결)",
-    "originalPrice": 15400,
-    "discountPrice": 15400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/142868274/L",
-    "itemUrl": "https://www.yes24.com/product/goods/142868274",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_144214440",
-    "platform": "YES24",
-    "title": "[세트] 최근 고용한 메이드가 수상하다 (총8권/완결)",
-    "originalPrice": 16800,
-    "discountPrice": 16800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/144214440/L",
-    "itemUrl": "https://www.yes24.com/product/goods/144214440",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_180507372",
-    "platform": "YES24",
-    "title": "[묶음] 책벌레의 하극상 (1~2부) (총19권/미완결)",
-    "originalPrice": 39900,
-    "discountPrice": 39900,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/180507372/L",
-    "itemUrl": "https://www.yes24.com/product/goods/180507372",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_177243598",
-    "platform": "YES24",
-    "title": "[묶음] 디 포 더티 (시즌1) (총21화/미완결)",
-    "originalPrice": 8000,
-    "discountPrice": 8000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/177243598",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_150369938",
-    "platform": "YES24",
-    "title": "[세트] 귀접 (총30화/완결)",
-    "originalPrice": 10500,
-    "discountPrice": 10500,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/150369938",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_125802787",
-    "platform": "YES24",
-    "title": "[세트] 콜레트는 죽기로 했다 (총21권/완결)",
-    "originalPrice": 37800,
-    "discountPrice": 37800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/125802787/L",
-    "itemUrl": "https://www.yes24.com/product/goods/125802787",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_57629340",
@@ -3187,18 +3000,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/57629340/L",
     "itemUrl": "https://www.yes24.com/product/goods/57629340",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
-    "id": "YES24_154285558",
+    "id": "YES24_83489625",
     "platform": "YES24",
-    "title": "[세트] 피치카토의 잠자는 숲 (총5권/완결)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
+    "title": "[세트] 후르츠 바스켓 (애장판) (총12권/완결)",
+    "originalPrice": 46200,
+    "discountPrice": 46200,
     "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/154285558/L",
-    "itemUrl": "https://www.yes24.com/product/goods/154285558",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "thumbnailUrl": "https://image.yes24.com/goods/83489625/L",
+    "itemUrl": "https://www.yes24.com/product/goods/83489625",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_87664458",
+    "platform": "YES24",
+    "title": "[세트] 춤추는 족제비 (총8권/완결)",
+    "originalPrice": 16800,
+    "discountPrice": 16800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/87664458/L",
+    "itemUrl": "https://www.yes24.com/product/goods/87664458",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_123904443",
@@ -3209,7 +3033,183 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/123904443/L",
     "itemUrl": "https://www.yes24.com/product/goods/123904443",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_125802787",
+    "platform": "YES24",
+    "title": "[세트] 콜레트는 죽기로 했다 (총21권/완결)",
+    "originalPrice": 37800,
+    "discountPrice": 37800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/125802787/L",
+    "itemUrl": "https://www.yes24.com/product/goods/125802787",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_142841148",
+    "platform": "YES24",
+    "title": "[묶음] 살랑살랑 Q (총4권/미완결)",
+    "originalPrice": 8400,
+    "discountPrice": 8400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/142841148/L",
+    "itemUrl": "https://www.yes24.com/product/goods/142841148",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_142868262",
+    "platform": "YES24",
+    "title": "[세트] 사외 연애 (총52화/완결)",
+    "originalPrice": 17850,
+    "discountPrice": 17850,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/142868262",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_142868274",
+    "platform": "YES24",
+    "title": "[세트] 사외 연애 (개정판) (총44화/완결)",
+    "originalPrice": 15400,
+    "discountPrice": 15400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/142868274/L",
+    "itemUrl": "https://www.yes24.com/product/goods/142868274",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_144214440",
+    "platform": "YES24",
+    "title": "[세트] 최근 고용한 메이드가 수상하다 (총8권/완결)",
+    "originalPrice": 16800,
+    "discountPrice": 16800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/144214440/L",
+    "itemUrl": "https://www.yes24.com/product/goods/144214440",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_150369938",
+    "platform": "YES24",
+    "title": "[세트] 귀접 (총30화/완결)",
+    "originalPrice": 10500,
+    "discountPrice": 10500,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/150369938",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_154285558",
+    "platform": "YES24",
+    "title": "[세트] 피치카토의 잠자는 숲 (총5권/완결)",
+    "originalPrice": 12600,
+    "discountPrice": 12600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/154285558/L",
+    "itemUrl": "https://www.yes24.com/product/goods/154285558",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_177243598",
+    "platform": "YES24",
+    "title": "[묶음] 디 포 더티 (시즌1) (총21화/미완결)",
+    "originalPrice": 8000,
+    "discountPrice": 8000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/177243598",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_180507372",
+    "platform": "YES24",
+    "title": "[묶음] 책벌레의 하극상 (1~2부) (총19권/미완결)",
+    "originalPrice": 39900,
+    "discountPrice": 39900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/180507372/L",
+    "itemUrl": "https://www.yes24.com/product/goods/180507372",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205474",
+    "platform": "YES24",
+    "title": "[묶음] 학원 베이비시터즈(단행본) (총27권/미완결)",
+    "originalPrice": 54000,
+    "discountPrice": 54000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205474/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205474",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205476",
+    "platform": "YES24",
+    "title": "[묶음] 사정을 모르는 전학생이 거침없이 다가온다. (총22권/미완결)",
+    "originalPrice": 61600,
+    "discountPrice": 61600,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205476/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205476",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205491",
+    "platform": "YES24",
+    "title": "[묶음] 이세계 주점 노부 (총19권/미완결)",
+    "originalPrice": 39900,
+    "discountPrice": 39900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205491/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205491",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205492",
+    "platform": "YES24",
+    "title": "[묶음] 책벌레의 하극상 제3부 (총9권/미완결)",
+    "originalPrice": 18900,
+    "discountPrice": 18900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205492/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205492",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205493",
+    "platform": "YES24",
+    "title": "[묶음] 책벌레의 하극상 제4부 (총9권/미완결)",
+    "originalPrice": 18900,
+    "discountPrice": 18900,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205493/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205493",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205496",
+    "platform": "YES24",
+    "title": "[묶음] 쟈히 님은 기죽지 않아! (총12권/미완결)",
+    "originalPrice": 29400,
+    "discountPrice": 29400,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205496/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205496",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_189205497",
+    "platform": "YES24",
+    "title": "[묶음] 전대 레드 이세계에서 모험가가 되다 (총9권/미완결)",
+    "originalPrice": 22050,
+    "discountPrice": 22050,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/189205497/L",
+    "itemUrl": "https://www.yes24.com/product/goods/189205497",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189182408",
@@ -3220,29 +3220,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189182408",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_92568859",
-    "platform": "YES24",
-    "title": "[고화질세트] [세트] 콘라드 (총76화/완결) (총76화/완결)",
-    "originalPrice": 38000,
-    "discountPrice": 26600,
-    "discountRate": 30,
-    "thumbnailUrl": "https://image.yes24.com/goods/92568859/L",
-    "itemUrl": "https://www.yes24.com/product/goods/92568859",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_77349490",
-    "platform": "YES24",
-    "title": "[세트] 귀혼식 외전 (총20화/완결)",
-    "originalPrice": 7000,
-    "discountPrice": 7000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/77349490",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_77349484",
@@ -3253,7 +3231,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/77349484",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_77349490",
+    "platform": "YES24",
+    "title": "[세트] 귀혼식 외전 (총20화/완결)",
+    "originalPrice": 7000,
+    "discountPrice": 7000,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/77349490",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_92568859",
+    "platform": "YES24",
+    "title": "[고화질세트] [세트] 콘라드 (총76화/완결) (총76화/완결)",
+    "originalPrice": 38000,
+    "discountPrice": 26600,
+    "discountRate": 30,
+    "thumbnailUrl": "https://image.yes24.com/goods/92568859/L",
+    "itemUrl": "https://www.yes24.com/product/goods/92568859",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_109724157",
@@ -3264,18 +3264,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/109724157",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_135206044",
-    "platform": "YES24",
-    "title": "[세트] 화화몽(火花夢)[외전포함] (총72화/완결)",
-    "originalPrice": 25200,
-    "discountPrice": 25200,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
-    "itemUrl": "https://www.yes24.com/product/goods/135206044",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_122609250",
@@ -3286,7 +3275,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/122609250",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_135206044",
+    "platform": "YES24",
+    "title": "[세트] 화화몽(火花夢)[외전포함] (총72화/완결)",
+    "originalPrice": 25200,
+    "discountPrice": 25200,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
+    "itemUrl": "https://www.yes24.com/product/goods/135206044",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_161496235",
@@ -3297,7 +3297,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/161496235",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189114374",
@@ -3308,18 +3308,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189114374/L",
     "itemUrl": "https://www.yes24.com/product/goods/189114374",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
-  },
-  {
-    "id": "YES24_146954912",
-    "platform": "YES24",
-    "title": "[세트] 알 수 없는 이유로 파혼 당했습니다만, 가면 아래가 추하다니 대체 누가 그런 말을 한 걸까요? (총4권/완결)",
-    "originalPrice": 9800,
-    "discountPrice": 9800,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/146954912/L",
-    "itemUrl": "https://www.yes24.com/product/goods/146954912",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_118709646",
@@ -3330,7 +3319,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118709646/L",
     "itemUrl": "https://www.yes24.com/product/goods/118709646",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_134199893",
@@ -3341,7 +3330,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/134199893/L",
     "itemUrl": "https://www.yes24.com/product/goods/134199893",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
+  },
+  {
+    "id": "YES24_146954912",
+    "platform": "YES24",
+    "title": "[세트] 알 수 없는 이유로 파혼 당했습니다만, 가면 아래가 추하다니 대체 누가 그런 말을 한 걸까요? (총4권/완결)",
+    "originalPrice": 9800,
+    "discountPrice": 9800,
+    "discountRate": 0,
+    "thumbnailUrl": "https://image.yes24.com/goods/146954912/L",
+    "itemUrl": "https://www.yes24.com/product/goods/146954912",
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_172486246",
@@ -3352,7 +3352,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/172486246/L",
     "itemUrl": "https://www.yes24.com/product/goods/172486246",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_189205469",
@@ -3363,7 +3363,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205469/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205469",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_115142297",
@@ -3374,7 +3374,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/115142297/L",
     "itemUrl": "https://www.yes24.com/product/goods/115142297",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   },
   {
     "id": "YES24_118144498",
@@ -3385,6 +3385,6 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118144498/L",
     "itemUrl": "https://www.yes24.com/product/goods/118144498",
-    "updatedAt": "2026-05-08T15:35:44.407Z"
+    "updatedAt": "2026-05-09T02:37:26.522Z"
   }
 ]
