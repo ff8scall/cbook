@@ -1,115 +1,5 @@
 [
   {
-    "id": "YES24_188858017",
-    "platform": "YES24",
-    "title": "[세트] 운명을 믿지 않는 그가 말하길 (총5권/완결)",
-    "originalPrice": 12250,
-    "discountPrice": 12250,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188858017/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188858017",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_188781499",
-    "platform": "YES24",
-    "title": "[세트] 미카코 72세 (총4권/완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781499/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781499",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_188781501",
-    "platform": "YES24",
-    "title": "[세트] 이방의 오즈월드 (총3권/완결)",
-    "originalPrice": 6300,
-    "discountPrice": 6300,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/188781501/L",
-    "itemUrl": "https://www.yes24.com/product/goods/188781501",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_108605131",
-    "platform": "YES24",
-    "title": "[세트] 행복한 타카코 씨 (총6권/완결)",
-    "originalPrice": 21000,
-    "discountPrice": 21000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/108605131/L",
-    "itemUrl": "https://www.yes24.com/product/goods/108605131",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_107455738",
-    "platform": "YES24",
-    "title": "[세트] 교토 담배가게 요리코 (총7권/완결)",
-    "originalPrice": 14700,
-    "discountPrice": 14700,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/107455738/L",
-    "itemUrl": "https://www.yes24.com/product/goods/107455738",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_187925725",
-    "platform": "YES24",
-    "title": "[세트] 사상 최악의 가짜 성녀 ~이상적인 성녀? 미안, 가짜 성녀입니다! (총5권/완결)",
-    "originalPrice": 14000,
-    "discountPrice": 14000,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187925725/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187925725",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_187925726",
-    "platform": "YES24",
-    "title": "[세트] 풀어 줘요, 유이 씨. (총3권/완결)",
-    "originalPrice": 8400,
-    "discountPrice": 8400,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/187925726/L",
-    "itemUrl": "https://www.yes24.com/product/goods/187925726",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_124255983",
-    "platform": "YES24",
-    "title": "[묶음] 악역 영애는 미움받는 귀족을 사랑한다 (총4권/미완결)",
-    "originalPrice": 12600,
-    "discountPrice": 12600,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/124255983/L",
-    "itemUrl": "https://www.yes24.com/product/goods/124255983",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_152809598",
-    "platform": "YES24",
-    "title": "[묶음] 새출발 영애는 용제 폐하를 공략 중 (총7권/미완결)",
-    "originalPrice": 22050,
-    "discountPrice": 22050,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/152809598/L",
-    "itemUrl": "https://www.yes24.com/product/goods/152809598",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
-    "id": "YES24_116588485",
-    "platform": "YES24",
-    "title": "[세트] 빨간 모자의 늑대 제자 (총3권/완결)",
-    "originalPrice": 7980,
-    "discountPrice": 7980,
-    "discountRate": 0,
-    "thumbnailUrl": "https://image.yes24.com/goods/116588485/L",
-    "itemUrl": "https://www.yes24.com/product/goods/116588485",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
-  },
-  {
     "id": "YES24_186992536",
     "platform": "YES24",
     "title": "[세트] 마왕님은 사랑까지 알고 싶어. (총4권/완결)",
@@ -118,7 +8,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186992536/L",
     "itemUrl": "https://www.yes24.com/product/goods/186992536",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_118681054",
@@ -129,7 +19,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118681054/L",
     "itemUrl": "https://www.yes24.com/product/goods/118681054",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_142066987",
@@ -140,7 +30,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/142066987/L",
     "itemUrl": "https://www.yes24.com/product/goods/142066987",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_148173831",
@@ -151,7 +41,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148173831/L",
     "itemUrl": "https://www.yes24.com/product/goods/148173831",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188213600",
@@ -162,7 +52,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188213600/L",
     "itemUrl": "https://www.yes24.com/product/goods/188213600",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188213599",
@@ -173,7 +63,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188213599/L",
     "itemUrl": "https://www.yes24.com/product/goods/188213599",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_112603650",
@@ -184,7 +74,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/112603650/L",
     "itemUrl": "https://www.yes24.com/product/goods/112603650",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188226690",
@@ -195,7 +85,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226690/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226690",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_183149705",
@@ -206,7 +96,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/183149705/L",
     "itemUrl": "https://www.yes24.com/product/goods/183149705",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166637",
@@ -217,7 +107,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166637/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166637",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_125182739",
@@ -228,7 +118,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125182739/L",
     "itemUrl": "https://www.yes24.com/product/goods/125182739",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166636",
@@ -239,7 +129,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166636/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166636",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166638",
@@ -250,7 +140,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166638/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166638",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166622",
@@ -261,7 +151,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166622/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166622",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_139998956",
@@ -272,7 +162,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139998956/L",
     "itemUrl": "https://www.yes24.com/product/goods/139998956",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_88915149",
@@ -283,7 +173,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/88915149/L",
     "itemUrl": "https://www.yes24.com/product/goods/88915149",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_175444334",
@@ -294,7 +184,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/175444334/L",
     "itemUrl": "https://www.yes24.com/product/goods/175444334",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187009064",
@@ -305,7 +195,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187009064/L",
     "itemUrl": "https://www.yes24.com/product/goods/187009064",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_105608180",
@@ -316,7 +206,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105608180/L",
     "itemUrl": "https://www.yes24.com/product/goods/105608180",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_125116304",
@@ -327,7 +217,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125116304/L",
     "itemUrl": "https://www.yes24.com/product/goods/125116304",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_126201552",
@@ -338,7 +228,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126201552/L",
     "itemUrl": "https://www.yes24.com/product/goods/126201552",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_116459774",
@@ -349,7 +239,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/116459774/L",
     "itemUrl": "https://www.yes24.com/product/goods/116459774",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_189004644",
@@ -360,7 +250,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004644/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004644",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188781493",
@@ -371,7 +261,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781493/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781493",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_189004646",
@@ -382,7 +272,7 @@
     "discountRate": 20,
     "thumbnailUrl": "https://image.yes24.com/goods/189004646/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004646",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_126010330",
@@ -393,7 +283,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126010330/L",
     "itemUrl": "https://www.yes24.com/product/goods/126010330",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_15048459",
@@ -404,7 +294,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15048459/L",
     "itemUrl": "https://www.yes24.com/product/goods/15048459",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187470361",
@@ -415,7 +305,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/187470361",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_99402717",
@@ -426,7 +316,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/99402717/L",
     "itemUrl": "https://www.yes24.com/product/goods/99402717",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_125476961",
@@ -437,7 +327,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125476961/L",
     "itemUrl": "https://www.yes24.com/product/goods/125476961",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_138930503",
@@ -448,7 +338,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/138930503/L",
     "itemUrl": "https://www.yes24.com/product/goods/138930503",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_186440253",
@@ -459,7 +349,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186440253/L",
     "itemUrl": "https://www.yes24.com/product/goods/186440253",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_97529470",
@@ -470,7 +360,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/97529470/L",
     "itemUrl": "https://www.yes24.com/product/goods/97529470",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_90623950",
@@ -481,7 +371,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90623950/L",
     "itemUrl": "https://www.yes24.com/product/goods/90623950",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_101773429",
@@ -492,7 +382,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/101773429/L",
     "itemUrl": "https://www.yes24.com/product/goods/101773429",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188781495",
@@ -503,7 +393,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781495/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781495",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188781496",
@@ -514,7 +404,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781496/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781496",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188781497",
@@ -525,7 +415,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781497/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781497",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_188781498",
@@ -536,7 +426,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188781498/L",
     "itemUrl": "https://www.yes24.com/product/goods/188781498",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_110657336",
@@ -547,7 +437,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/110657336/L",
     "itemUrl": "https://www.yes24.com/product/goods/110657336",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187642104",
@@ -558,7 +448,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187642104/L",
     "itemUrl": "https://www.yes24.com/product/goods/187642104",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187642101",
@@ -569,7 +459,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187642101/L",
     "itemUrl": "https://www.yes24.com/product/goods/187642101",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187642100",
@@ -580,7 +470,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187642100/L",
     "itemUrl": "https://www.yes24.com/product/goods/187642100",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_127004720",
@@ -591,7 +481,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/127004720/L",
     "itemUrl": "https://www.yes24.com/product/goods/127004720",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166628",
@@ -602,7 +492,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166628/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166628",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166654",
@@ -613,7 +503,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166654/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166654",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166655",
@@ -624,7 +514,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166655/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166655",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166656",
@@ -635,7 +525,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166656/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166656",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166626",
@@ -646,7 +536,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/187166626",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166657",
@@ -657,7 +547,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166657/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166657",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187166659",
@@ -668,7 +558,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187166659/L",
     "itemUrl": "https://www.yes24.com/product/goods/187166659",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_141827491",
@@ -679,7 +569,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/141827491",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_142868253",
@@ -690,7 +580,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/142868253",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_145309519",
@@ -701,7 +591,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/145309519/L",
     "itemUrl": "https://www.yes24.com/product/goods/145309519",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_148828722",
@@ -712,7 +602,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148828722/L",
     "itemUrl": "https://www.yes24.com/product/goods/148828722",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_174266948",
@@ -723,7 +613,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/174266948/L",
     "itemUrl": "https://www.yes24.com/product/goods/174266948",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_170592435",
@@ -734,7 +624,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/170592435",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_90897158",
@@ -745,7 +635,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/90897158",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_103552381",
@@ -756,7 +646,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/103552381/L",
     "itemUrl": "https://www.yes24.com/product/goods/103552381",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_104084400",
@@ -767,7 +657,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/104084400",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_112629015",
@@ -778,7 +668,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/112629015",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_118378791",
@@ -789,7 +679,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118378791/L",
     "itemUrl": "https://www.yes24.com/product/goods/118378791",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_118378792",
@@ -800,7 +690,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/118378792",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187470368",
@@ -811,7 +701,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187470368/L",
     "itemUrl": "https://www.yes24.com/product/goods/187470368",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_187470369",
@@ -822,7 +712,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187470369/L",
     "itemUrl": "https://www.yes24.com/product/goods/187470369",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_113460841",
@@ -833,7 +723,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/113460841/L",
     "itemUrl": "https://www.yes24.com/product/goods/113460841",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_121953943",
@@ -844,7 +734,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/121953943/L",
     "itemUrl": "https://www.yes24.com/product/goods/121953943",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_145551522",
@@ -855,7 +745,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/145551522/L",
     "itemUrl": "https://www.yes24.com/product/goods/145551522",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_151842113",
@@ -866,7 +756,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/151842113/L",
     "itemUrl": "https://www.yes24.com/product/goods/151842113",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_172955498",
@@ -877,7 +767,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/172955498/L",
     "itemUrl": "https://www.yes24.com/product/goods/172955498",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_106225867",
@@ -888,7 +778,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/106225867/L",
     "itemUrl": "https://www.yes24.com/product/goods/106225867",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_186821274",
@@ -899,7 +789,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186821274/L",
     "itemUrl": "https://www.yes24.com/product/goods/186821274",
-    "updatedAt": "2026-05-12T02:35:30.804Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_89207806",
@@ -910,7 +800,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/89207806/L",
     "itemUrl": "https://www.yes24.com/product/goods/89207806",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_119859483",
@@ -921,7 +811,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/119859483/L",
     "itemUrl": "https://www.yes24.com/product/goods/119859483",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.562Z"
   },
   {
     "id": "YES24_125800845",
@@ -932,7 +822,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125800845/L",
     "itemUrl": "https://www.yes24.com/product/goods/125800845",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182419",
@@ -943,7 +833,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182419/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182419",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_91618538",
@@ -954,7 +844,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/91618538/L",
     "itemUrl": "https://www.yes24.com/product/goods/91618538",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_90034696",
@@ -965,7 +855,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90034696/L",
     "itemUrl": "https://www.yes24.com/product/goods/90034696",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188116221",
@@ -976,7 +866,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188116221/L",
     "itemUrl": "https://www.yes24.com/product/goods/188116221",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188116217",
@@ -987,7 +877,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188116217",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_117023913",
@@ -998,7 +888,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/117023913/L",
     "itemUrl": "https://www.yes24.com/product/goods/117023913",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_96013984",
@@ -1009,7 +899,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/96013984/L",
     "itemUrl": "https://www.yes24.com/product/goods/96013984",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_32447708",
@@ -1020,7 +910,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/32447708/L",
     "itemUrl": "https://www.yes24.com/product/goods/32447708",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_70909459",
@@ -1031,7 +921,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/70909459/L",
     "itemUrl": "https://www.yes24.com/product/goods/70909459",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_139700715",
@@ -1042,7 +932,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139700715/L",
     "itemUrl": "https://www.yes24.com/product/goods/139700715",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205468",
@@ -1053,7 +943,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189205468",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205472",
@@ -1064,7 +954,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205472/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205472",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_163575685",
@@ -1075,7 +965,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/163575685/L",
     "itemUrl": "https://www.yes24.com/product/goods/163575685",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_114631147",
@@ -1086,7 +976,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/114631147/L",
     "itemUrl": "https://www.yes24.com/product/goods/114631147",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_25552928",
@@ -1097,7 +987,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/25552928/L",
     "itemUrl": "https://www.yes24.com/product/goods/25552928",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_148022800",
@@ -1108,7 +998,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148022800/L",
     "itemUrl": "https://www.yes24.com/product/goods/148022800",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_157767444",
@@ -1119,7 +1009,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/157767444/L",
     "itemUrl": "https://www.yes24.com/product/goods/157767444",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226689",
@@ -1130,7 +1020,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226689/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226689",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118826701",
@@ -1141,7 +1031,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118826701/L",
     "itemUrl": "https://www.yes24.com/product/goods/118826701",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226687",
@@ -1152,7 +1042,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226687/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226687",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226686",
@@ -1163,7 +1053,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226686/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226686",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_187925718",
@@ -1174,7 +1064,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/187925718",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_187925720",
@@ -1185,7 +1075,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/187925720/L",
     "itemUrl": "https://www.yes24.com/product/goods/187925720",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_30706131",
@@ -1196,7 +1086,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/30706131/L",
     "itemUrl": "https://www.yes24.com/product/goods/30706131",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_30707085",
@@ -1207,7 +1097,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/30707085/L",
     "itemUrl": "https://www.yes24.com/product/goods/30707085",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_147786228",
@@ -1218,7 +1108,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/147786228",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_147786226",
@@ -1229,7 +1119,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/147786226",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_147786224",
@@ -1240,7 +1130,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/147786224",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_147786222",
@@ -1251,7 +1141,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/147786222",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_108837294",
@@ -1262,7 +1152,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/108837294/L",
     "itemUrl": "https://www.yes24.com/product/goods/108837294",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189335804",
@@ -1273,7 +1163,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189335804/L",
     "itemUrl": "https://www.yes24.com/product/goods/189335804",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_178310822",
@@ -1284,7 +1174,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/178310822/L",
     "itemUrl": "https://www.yes24.com/product/goods/178310822",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189335807",
@@ -1295,7 +1185,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189335807/L",
     "itemUrl": "https://www.yes24.com/product/goods/189335807",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_184570615",
@@ -1306,7 +1196,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/184570615/L",
     "itemUrl": "https://www.yes24.com/product/goods/184570615",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_140227613",
@@ -1317,7 +1207,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/140227613/L",
     "itemUrl": "https://www.yes24.com/product/goods/140227613",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_85117253",
@@ -1328,7 +1218,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/85117253/L",
     "itemUrl": "https://www.yes24.com/product/goods/85117253",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_32447706",
@@ -1339,7 +1229,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/32447706/L",
     "itemUrl": "https://www.yes24.com/product/goods/32447706",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_125212974",
@@ -1350,7 +1240,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125212974/L",
     "itemUrl": "https://www.yes24.com/product/goods/125212974",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_154915571",
@@ -1361,7 +1251,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/154915571/L",
     "itemUrl": "https://www.yes24.com/product/goods/154915571",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189004657",
@@ -1372,18 +1262,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004657/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004657",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189400316",
     "platform": "YES24",
     "title": "[세트] 화기엄금 (총3권/완결)",
-    "originalPrice": 19500,
+    "originalPrice": 13650,
     "discountPrice": 13650,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189400316/L",
     "itemUrl": "https://www.yes24.com/product/goods/189400316",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_64989004",
@@ -1394,7 +1284,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/64989004",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_104861962",
@@ -1405,7 +1295,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/104861962",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189110405",
@@ -1416,7 +1306,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189110405/L",
     "itemUrl": "https://www.yes24.com/product/goods/189110405",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_126788922",
@@ -1427,7 +1317,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126788922/L",
     "itemUrl": "https://www.yes24.com/product/goods/126788922",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_86410373",
@@ -1438,7 +1328,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/86410373/L",
     "itemUrl": "https://www.yes24.com/product/goods/86410373",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_91181314",
@@ -1449,7 +1339,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/91181314",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188600274",
@@ -1460,7 +1350,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188600274",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_124767684",
@@ -1471,7 +1361,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/124767684",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105789845",
@@ -1482,7 +1372,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/105789845",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105789843",
@@ -1493,7 +1383,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/105789843",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_146347477",
@@ -1504,7 +1394,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/146347477",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105789840",
@@ -1515,7 +1405,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105789840/L",
     "itemUrl": "https://www.yes24.com/product/goods/105789840",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105133232",
@@ -1526,7 +1416,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/105133232",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_177496309",
@@ -1537,7 +1427,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/177496309",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_139852027",
@@ -1548,7 +1438,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/139852027",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226682",
@@ -1559,7 +1449,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226682/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226682",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226768",
@@ -1570,7 +1460,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226768/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226768",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_14305241",
@@ -1581,7 +1471,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/14305241/L",
     "itemUrl": "https://www.yes24.com/product/goods/14305241",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_14305244",
@@ -1592,7 +1482,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/14305244/L",
     "itemUrl": "https://www.yes24.com/product/goods/14305244",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_14305245",
@@ -1603,7 +1493,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/14305245/L",
     "itemUrl": "https://www.yes24.com/product/goods/14305245",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_122852185",
@@ -1614,7 +1504,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/122852185/L",
     "itemUrl": "https://www.yes24.com/product/goods/122852185",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_107010593",
@@ -1625,7 +1515,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/107010593/L",
     "itemUrl": "https://www.yes24.com/product/goods/107010593",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_104129297",
@@ -1636,7 +1526,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/104129297/L",
     "itemUrl": "https://www.yes24.com/product/goods/104129297",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226683",
@@ -1647,7 +1537,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226683/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226683",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226770",
@@ -1658,7 +1548,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226770/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226770",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226766",
@@ -1669,7 +1559,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226766/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226766",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188226764",
@@ -1680,7 +1570,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188226764/L",
     "itemUrl": "https://www.yes24.com/product/goods/188226764",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_123015431",
@@ -1691,7 +1581,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/123015431/L",
     "itemUrl": "https://www.yes24.com/product/goods/123015431",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_102918867",
@@ -1702,7 +1592,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/102918867/L",
     "itemUrl": "https://www.yes24.com/product/goods/102918867",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_89580743",
@@ -1713,7 +1603,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/89580743/L",
     "itemUrl": "https://www.yes24.com/product/goods/89580743",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_102918866",
@@ -1724,7 +1614,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/102918866/L",
     "itemUrl": "https://www.yes24.com/product/goods/102918866",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920710",
@@ -1735,7 +1625,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920710/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920710",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_117498355",
@@ -1746,7 +1636,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/117498355/L",
     "itemUrl": "https://www.yes24.com/product/goods/117498355",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_143894899",
@@ -1757,7 +1647,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/143894899/L",
     "itemUrl": "https://www.yes24.com/product/goods/143894899",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_94508301",
@@ -1768,7 +1658,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/94508301/L",
     "itemUrl": "https://www.yes24.com/product/goods/94508301",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188600269",
@@ -1779,7 +1669,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188600269/L",
     "itemUrl": "https://www.yes24.com/product/goods/188600269",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_83041778",
@@ -1790,7 +1680,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/83041778/L",
     "itemUrl": "https://www.yes24.com/product/goods/83041778",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_144160574",
@@ -1801,7 +1691,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/144160574/L",
     "itemUrl": "https://www.yes24.com/product/goods/144160574",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920702",
@@ -1812,7 +1702,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920702/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920702",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920708",
@@ -1823,7 +1713,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920708/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920708",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_15114305",
@@ -1834,7 +1724,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15114305/L",
     "itemUrl": "https://www.yes24.com/product/goods/15114305",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_33524942",
@@ -1845,51 +1735,51 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/33524942/L",
     "itemUrl": "https://www.yes24.com/product/goods/33524942",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_67448456",
     "platform": "YES24",
     "title": "[세트] 아이즈(IS) (총15권/완결)",
-    "originalPrice": 45000,
+    "originalPrice": 31500,
     "discountPrice": 31500,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/67448456/L",
     "itemUrl": "https://www.yes24.com/product/goods/67448456",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_24968037",
     "platform": "YES24",
     "title": "[세트] 아오하라이드 (총13권/완결)",
-    "originalPrice": 39000,
+    "originalPrice": 27300,
     "discountPrice": 27300,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/24968037/L",
     "itemUrl": "https://www.yes24.com/product/goods/24968037",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_15782097",
     "platform": "YES24",
     "title": "[세트] 모래시계 (총10권/완결)",
-    "originalPrice": 30000,
+    "originalPrice": 21000,
     "discountPrice": 21000,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15782097/L",
     "itemUrl": "https://www.yes24.com/product/goods/15782097",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920709",
     "platform": "YES24",
     "title": "[세트] 신풍괴도 잔느 (애장판) (총5권/완결)",
-    "originalPrice": 52500,
+    "originalPrice": 36750,
     "discountPrice": 36750,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920709/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920709",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_62489975",
@@ -1900,7 +1790,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/62489975/L",
     "itemUrl": "https://www.yes24.com/product/goods/62489975",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_15782038",
@@ -1911,7 +1801,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/15782038/L",
     "itemUrl": "https://www.yes24.com/product/goods/15782038",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_15781724",
@@ -1922,7 +1812,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/15781724/L",
     "itemUrl": "https://www.yes24.com/product/goods/15781724",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_15402935",
@@ -1933,18 +1823,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/15402935/L",
     "itemUrl": "https://www.yes24.com/product/goods/15402935",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_139775148",
     "platform": "YES24",
     "title": "[세트] 이세계에 구세주로 소환되었지만 30대에게는 버거워서 남몰래 북 카페를 열었습니다 (총5권/완결)",
-    "originalPrice": 17500,
+    "originalPrice": 12250,
     "discountPrice": 12250,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139775148/L",
     "itemUrl": "https://www.yes24.com/product/goods/139775148",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_61557641",
@@ -1955,7 +1845,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/61557641/L",
     "itemUrl": "https://www.yes24.com/product/goods/61557641",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_128884796",
@@ -1966,7 +1856,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/128884796/L",
     "itemUrl": "https://www.yes24.com/product/goods/128884796",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_35111866",
@@ -1977,7 +1867,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/35111866/L",
     "itemUrl": "https://www.yes24.com/product/goods/35111866",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182766",
@@ -1988,7 +1878,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189182766",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182768",
@@ -1999,7 +1889,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182768/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182768",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182769",
@@ -2010,7 +1900,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182769/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182769",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_126180186",
@@ -2021,7 +1911,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/126180186/L",
     "itemUrl": "https://www.yes24.com/product/goods/126180186",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_159251585",
@@ -2032,7 +1922,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/159251585/L",
     "itemUrl": "https://www.yes24.com/product/goods/159251585",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_120006135",
@@ -2043,7 +1933,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/120006135/L",
     "itemUrl": "https://www.yes24.com/product/goods/120006135",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_116248998",
@@ -2054,29 +1944,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/116248998/L",
     "itemUrl": "https://www.yes24.com/product/goods/116248998",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_116624056",
     "platform": "YES24",
     "title": "[세트] 송혼의 소녀와 장례여행 (총7권/완결)",
-    "originalPrice": 24500,
+    "originalPrice": 17150,
     "discountPrice": 17150,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/116624056/L",
     "itemUrl": "https://www.yes24.com/product/goods/116624056",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_116784961",
     "platform": "YES24",
     "title": "천지창조 디자인부 (총8권/미완결)",
-    "originalPrice": 24000,
+    "originalPrice": 16800,
     "discountPrice": 16800,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/116784961/L",
     "itemUrl": "https://www.yes24.com/product/goods/116784961",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_133336337",
@@ -2087,18 +1977,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/133336337/L",
     "itemUrl": "https://www.yes24.com/product/goods/133336337",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_123930257",
     "platform": "YES24",
     "title": "[세트] 쌍생유희 (총5권/완결)",
-    "originalPrice": 15000,
+    "originalPrice": 10500,
     "discountPrice": 10500,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/123930257",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_178310859",
@@ -2109,7 +1999,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/178310859/L",
     "itemUrl": "https://www.yes24.com/product/goods/178310859",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_178310846",
@@ -2120,29 +2010,29 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/178310846/L",
     "itemUrl": "https://www.yes24.com/product/goods/178310846",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_117761286",
     "platform": "YES24",
     "title": "[세트] 쿨하고 바보 같은 남자 (총5권/미완결)",
-    "originalPrice": 20000,
+    "originalPrice": 14000,
     "discountPrice": 14000,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/117761286/L",
     "itemUrl": "https://www.yes24.com/product/goods/117761286",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_68868119",
     "platform": "YES24",
     "title": "[세트] 쓰레기의 본망 (총9권/완결)",
-    "originalPrice": 27000,
+    "originalPrice": 18900,
     "discountPrice": 18900,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/68868119/L",
     "itemUrl": "https://www.yes24.com/product/goods/68868119",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_176490463",
@@ -2153,7 +2043,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/176490463/L",
     "itemUrl": "https://www.yes24.com/product/goods/176490463",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_175444396",
@@ -2164,7 +2054,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/175444396/L",
     "itemUrl": "https://www.yes24.com/product/goods/175444396",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_132950170",
@@ -2175,18 +2065,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/132950170/L",
     "itemUrl": "https://www.yes24.com/product/goods/132950170",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_124053474",
     "platform": "YES24",
     "title": "[세트] 참방참방 수영부 (총5권/완결)",
-    "originalPrice": 15000,
+    "originalPrice": 10500,
     "discountPrice": 10500,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/124053474/L",
     "itemUrl": "https://www.yes24.com/product/goods/124053474",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189004656",
@@ -2197,7 +2087,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004656/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004656",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_148173847",
@@ -2208,18 +2098,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148173847/L",
     "itemUrl": "https://www.yes24.com/product/goods/148173847",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118099454",
     "platform": "YES24",
     "title": "[세트] 혈해의 노아 (총5권/완결)",
-    "originalPrice": 15000,
+    "originalPrice": 10500,
     "discountPrice": 10500,
-    "discountRate": 30,
+    "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/118099454",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_149393804",
@@ -2230,7 +2120,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/149393804/L",
     "itemUrl": "https://www.yes24.com/product/goods/149393804",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_125027048",
@@ -2241,7 +2131,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125027048/L",
     "itemUrl": "https://www.yes24.com/product/goods/125027048",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_173142845",
@@ -2252,7 +2142,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/173142845/L",
     "itemUrl": "https://www.yes24.com/product/goods/173142845",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_160763034",
@@ -2263,7 +2153,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/160763034/L",
     "itemUrl": "https://www.yes24.com/product/goods/160763034",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_113842145",
@@ -2274,7 +2164,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/113842145/L",
     "itemUrl": "https://www.yes24.com/product/goods/113842145",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_137451072",
@@ -2285,7 +2175,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/137451072/L",
     "itemUrl": "https://www.yes24.com/product/goods/137451072",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_121821637",
@@ -2296,7 +2186,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/121821637/L",
     "itemUrl": "https://www.yes24.com/product/goods/121821637",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_184392000",
@@ -2307,7 +2197,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/184392000/L",
     "itemUrl": "https://www.yes24.com/product/goods/184392000",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_110156607",
@@ -2318,7 +2208,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/110156607/L",
     "itemUrl": "https://www.yes24.com/product/goods/110156607",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_184391999",
@@ -2329,7 +2219,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/184391999/L",
     "itemUrl": "https://www.yes24.com/product/goods/184391999",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_184391998",
@@ -2340,7 +2230,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/184391998/L",
     "itemUrl": "https://www.yes24.com/product/goods/184391998",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118701822",
@@ -2351,7 +2241,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118701822/L",
     "itemUrl": "https://www.yes24.com/product/goods/118701822",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_150305357",
@@ -2362,7 +2252,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/150305357/L",
     "itemUrl": "https://www.yes24.com/product/goods/150305357",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_30572888",
@@ -2373,7 +2263,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/30572888/L",
     "itemUrl": "https://www.yes24.com/product/goods/30572888",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118701821",
@@ -2384,7 +2274,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118701821/L",
     "itemUrl": "https://www.yes24.com/product/goods/118701821",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189400315",
@@ -2395,7 +2285,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189400315/L",
     "itemUrl": "https://www.yes24.com/product/goods/189400315",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188927860",
@@ -2406,7 +2296,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188927860",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920790",
@@ -2417,7 +2307,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920790/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920790",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920789",
@@ -2428,7 +2318,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920789/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920789",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920706",
@@ -2439,7 +2329,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920706/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920706",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920704",
@@ -2450,7 +2340,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188920704/L",
     "itemUrl": "https://www.yes24.com/product/goods/188920704",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_139775152",
@@ -2461,7 +2351,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/139775152/L",
     "itemUrl": "https://www.yes24.com/product/goods/139775152",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188920787",
@@ -2472,7 +2362,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/188920787",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_146121869",
@@ -2483,7 +2373,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/146121869/L",
     "itemUrl": "https://www.yes24.com/product/goods/146121869",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_148368359",
@@ -2494,7 +2384,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/148368359/L",
     "itemUrl": "https://www.yes24.com/product/goods/148368359",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_167806537",
@@ -2505,7 +2395,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/167806537/L",
     "itemUrl": "https://www.yes24.com/product/goods/167806537",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_188858019",
@@ -2516,7 +2406,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/188858019/L",
     "itemUrl": "https://www.yes24.com/product/goods/188858019",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_119877858",
@@ -2527,7 +2417,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/119877858/L",
     "itemUrl": "https://www.yes24.com/product/goods/119877858",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_120791717",
@@ -2538,7 +2428,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/120791717/L",
     "itemUrl": "https://www.yes24.com/product/goods/120791717",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_33391718",
@@ -2549,7 +2439,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/33391718/L",
     "itemUrl": "https://www.yes24.com/product/goods/33391718",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_133845015",
@@ -2560,7 +2450,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/133845015/L",
     "itemUrl": "https://www.yes24.com/product/goods/133845015",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_177646113",
@@ -2571,7 +2461,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/177646113/L",
     "itemUrl": "https://www.yes24.com/product/goods/177646113",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_140272028",
@@ -2582,7 +2472,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/140272028/L",
     "itemUrl": "https://www.yes24.com/product/goods/140272028",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189004659",
@@ -2593,7 +2483,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189004659",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189004658",
@@ -2604,7 +2494,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004658/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004658",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105984900",
@@ -2615,7 +2505,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105984900/L",
     "itemUrl": "https://www.yes24.com/product/goods/105984900",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_108683737",
@@ -2626,7 +2516,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/108683737/L",
     "itemUrl": "https://www.yes24.com/product/goods/108683737",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_109155252",
@@ -2637,7 +2527,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/109155252",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_110021497",
@@ -2648,7 +2538,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/110021497/L",
     "itemUrl": "https://www.yes24.com/product/goods/110021497",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_119965894",
@@ -2659,7 +2549,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/119965894",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_122584506",
@@ -2670,7 +2560,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/122584506",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_170592446",
@@ -2681,7 +2571,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/170592446/L",
     "itemUrl": "https://www.yes24.com/product/goods/170592446",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_170592443",
@@ -2692,7 +2582,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/170592443",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_105655297",
@@ -2703,7 +2593,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/105655297/L",
     "itemUrl": "https://www.yes24.com/product/goods/105655297",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205480",
@@ -2714,7 +2604,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205480/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205480",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205481",
@@ -2725,7 +2615,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205481/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205481",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205482",
@@ -2736,7 +2626,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205482/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205482",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189004643",
@@ -2747,7 +2637,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189004643/L",
     "itemUrl": "https://www.yes24.com/product/goods/189004643",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_183793483",
@@ -2758,7 +2648,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/183793483/L",
     "itemUrl": "https://www.yes24.com/product/goods/183793483",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_90046481",
@@ -2769,7 +2659,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90046481/L",
     "itemUrl": "https://www.yes24.com/product/goods/90046481",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_179673249",
@@ -2780,7 +2670,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/179673249/L",
     "itemUrl": "https://www.yes24.com/product/goods/179673249",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_174147379",
@@ -2791,7 +2681,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/174147379/L",
     "itemUrl": "https://www.yes24.com/product/goods/174147379",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182405",
@@ -2802,7 +2692,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189182405/L",
     "itemUrl": "https://www.yes24.com/product/goods/189182405",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189335809",
@@ -2813,7 +2703,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189335809/L",
     "itemUrl": "https://www.yes24.com/product/goods/189335809",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_177076606",
@@ -2824,7 +2714,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/177076606/L",
     "itemUrl": "https://www.yes24.com/product/goods/177076606",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_134773870",
@@ -2835,7 +2725,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/134773870/L",
     "itemUrl": "https://www.yes24.com/product/goods/134773870",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_133231149",
@@ -2846,7 +2736,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/133231149/L",
     "itemUrl": "https://www.yes24.com/product/goods/133231149",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118711413",
@@ -2857,7 +2747,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118711413/L",
     "itemUrl": "https://www.yes24.com/product/goods/118711413",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_117971069",
@@ -2868,7 +2758,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/117971069/L",
     "itemUrl": "https://www.yes24.com/product/goods/117971069",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_90460672",
@@ -2879,7 +2769,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/90460672/L",
     "itemUrl": "https://www.yes24.com/product/goods/90460672",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_89869738",
@@ -2890,18 +2780,18 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/89869738/L",
     "itemUrl": "https://www.yes24.com/product/goods/89869738",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_88389608",
     "platform": "YES24",
     "title": "[세트] 뜬금없지만, 내일 결혼합니다 (총9권/완결)",
-    "originalPrice": 18900,
+    "originalPrice": 27000,
     "discountPrice": 18900,
-    "discountRate": 0,
+    "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/88389608/L",
     "itemUrl": "https://www.yes24.com/product/goods/88389608",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_84764316",
@@ -2912,7 +2802,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/84764316/L",
     "itemUrl": "https://www.yes24.com/product/goods/84764316",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_81537096",
@@ -2923,7 +2813,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/81537096/L",
     "itemUrl": "https://www.yes24.com/product/goods/81537096",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_81537094",
@@ -2934,7 +2824,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/81537094/L",
     "itemUrl": "https://www.yes24.com/product/goods/81537094",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_67505370",
@@ -2945,7 +2835,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/67505370/L",
     "itemUrl": "https://www.yes24.com/product/goods/67505370",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_57629340",
@@ -2956,7 +2846,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/57629340/L",
     "itemUrl": "https://www.yes24.com/product/goods/57629340",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205474",
@@ -2967,7 +2857,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205474/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205474",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205476",
@@ -2978,7 +2868,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205476/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205476",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205491",
@@ -2989,7 +2879,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205491/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205491",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205492",
@@ -3000,7 +2890,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205492/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205492",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205493",
@@ -3011,7 +2901,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205493/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205493",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205496",
@@ -3022,7 +2912,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205496/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205496",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205497",
@@ -3033,7 +2923,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205497/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205497",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_83489625",
@@ -3044,7 +2934,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/83489625/L",
     "itemUrl": "https://www.yes24.com/product/goods/83489625",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_154285558",
@@ -3055,7 +2945,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/154285558/L",
     "itemUrl": "https://www.yes24.com/product/goods/154285558",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_87664458",
@@ -3066,7 +2956,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/87664458/L",
     "itemUrl": "https://www.yes24.com/product/goods/87664458",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_150369938",
@@ -3077,7 +2967,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/150369938",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_177243598",
@@ -3088,7 +2978,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/177243598",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_144214440",
@@ -3099,7 +2989,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/144214440/L",
     "itemUrl": "https://www.yes24.com/product/goods/144214440",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_180507372",
@@ -3110,7 +3000,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/180507372/L",
     "itemUrl": "https://www.yes24.com/product/goods/180507372",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_142868274",
@@ -3121,7 +3011,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/142868274/L",
     "itemUrl": "https://www.yes24.com/product/goods/142868274",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_123904443",
@@ -3132,7 +3022,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/123904443/L",
     "itemUrl": "https://www.yes24.com/product/goods/123904443",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_125802787",
@@ -3143,7 +3033,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/125802787/L",
     "itemUrl": "https://www.yes24.com/product/goods/125802787",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_142868262",
@@ -3154,7 +3044,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/142868262",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_142841148",
@@ -3165,7 +3055,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/142841148/L",
     "itemUrl": "https://www.yes24.com/product/goods/142841148",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189182408",
@@ -3176,7 +3066,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/189182408",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_161496235",
@@ -3187,7 +3077,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/161496235",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_77349484",
@@ -3198,7 +3088,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/77349484",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_77349490",
@@ -3209,7 +3099,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/77349490",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_92568859",
@@ -3220,7 +3110,7 @@
     "discountRate": 30,
     "thumbnailUrl": "https://image.yes24.com/goods/92568859/L",
     "itemUrl": "https://www.yes24.com/product/goods/92568859",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_109724157",
@@ -3231,7 +3121,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/109724157",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_122609250",
@@ -3242,7 +3132,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/122609250",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_135206044",
@@ -3253,7 +3143,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/135206044",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189114374",
@@ -3264,7 +3154,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189114374/L",
     "itemUrl": "https://www.yes24.com/product/goods/189114374",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_172486246",
@@ -3275,7 +3165,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/172486246/L",
     "itemUrl": "https://www.yes24.com/product/goods/172486246",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_146954912",
@@ -3286,7 +3176,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/146954912/L",
     "itemUrl": "https://www.yes24.com/product/goods/146954912",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118709646",
@@ -3297,7 +3187,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118709646/L",
     "itemUrl": "https://www.yes24.com/product/goods/118709646",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_134199893",
@@ -3308,7 +3198,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/134199893/L",
     "itemUrl": "https://www.yes24.com/product/goods/134199893",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189205469",
@@ -3319,7 +3209,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189205469/L",
     "itemUrl": "https://www.yes24.com/product/goods/189205469",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_115142297",
@@ -3330,7 +3220,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/115142297/L",
     "itemUrl": "https://www.yes24.com/product/goods/115142297",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_118144498",
@@ -3341,7 +3231,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/118144498/L",
     "itemUrl": "https://www.yes24.com/product/goods/118144498",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189400319",
@@ -3352,7 +3242,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189400319/L",
     "itemUrl": "https://www.yes24.com/product/goods/189400319",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_186592583",
@@ -3363,7 +3253,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/186592583/L",
     "itemUrl": "https://www.yes24.com/product/goods/186592583",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_57658937",
@@ -3374,7 +3264,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/57658937/L",
     "itemUrl": "https://www.yes24.com/product/goods/57658937",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_112617424",
@@ -3385,7 +3275,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/112617424",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_189335769",
@@ -3396,7 +3286,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/189335769/L",
     "itemUrl": "https://www.yes24.com/product/goods/189335769",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_175848855",
@@ -3407,7 +3297,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/momo/PD_19_L.gif",
     "itemUrl": "https://www.yes24.com/product/goods/175848855",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_175848853",
@@ -3418,7 +3308,7 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/175848853/L",
     "itemUrl": "https://www.yes24.com/product/goods/175848853",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   },
   {
     "id": "YES24_164639381",
@@ -3429,6 +3319,6 @@
     "discountRate": 0,
     "thumbnailUrl": "https://image.yes24.com/goods/164639381/L",
     "itemUrl": "https://www.yes24.com/product/goods/164639381",
-    "updatedAt": "2026-05-12T02:35:30.805Z"
+    "updatedAt": "2026-05-12T15:33:21.563Z"
   }
 ]
